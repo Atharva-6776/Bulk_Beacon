@@ -1,0 +1,118 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "corrugated box manufacturer Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62f64707f156a9e21395",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/i__hkM7Y3rnUfOwvS_1qVeYSzXd7jZNiSpQYEr5ECe0/6abf62f64707f156a9e21395.json",
+  "markdown_endpoint": "https://serpapi.com/searches/i__hkM7Y3rnUfOwvS_1qVeYSzXd7jZNiSpQYEr5ECe0/6abf62f64707f156a9e21395.md",
+  "created_at": "2026-10-02 07:53:26 UTC",
+  "processed_at": "2026-10-02 07:53:26 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/corrugated+box+manufacturer+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/i__hkM7Y3rnUfOwvS_1qVeYSzXd7jZNiSpQYEr5ECe0/6abf62f64707f156a9e21395.html",
+  "prettify_html_file": "https://serpapi.com/searches/i__hkM7Y3rnUfOwvS_1qVeYSzXd7jZNiSpQYEr5ECe0/6abf62f64707f156a9e21395.prettify",
+  "total_time_taken": 0.52
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "corrugated box manufacturer Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "corrugated box manufacturer Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Varad packaging",
+   "place_id": "ChIJbf_lTfaL3DsRnEeTG2qTzH4",
+   "data_id": "0x3bdc8bf64de5ff6d:0x7ecc936a1b93479c",
+   "data_cid": "9136839827966347164",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf64de5ff6d%3A0x7ecc936a1b93479c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf64de5ff6d%3A0x7ecc936a1b93479c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.633699,
+    "longitude": 74.6186903
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbf_lTfaL3DsRnEeTG2qTzH4",
+   "provider_id": "/g/11w4t_b9z1",
+   "rating": 5,
+   "reviews": 18,
+   "type": "Manufacturer",
+   "types": [
+    "Manufacturer"
+   ],
+   "address": "PLOT NO M-40, POST, Maharashtra Industrial Development Corporation, MIDC, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 12 am",
+   "hours": "Open · Closes 12 am",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Closed",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "070836 45011",
+   "website": "https://varadpk.netlify.app/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpgJdBpN34dcxnIOF4Yoxzu6Vx5nfNsxktLOf5dDocn-4FpRzH9fxGh2-v9lJ_jhmjaVDr4UIhAMxCCognyx1-cZfjSR53S8zMulQxYQfIDCuhK8b4e5HOGOVOk-yW83z8z-c8_au9kdh6=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/dUS-3nicHcTdTsIwGADQJ_rYcB3pTLzALbChUBk6gjcEu7XNftqGtlr6kl7zNiaei3P_FdZq8xhFo0hmXCk-ds50V6qk7aSdUTVFXBugBky0LOu39-Ok-aZ91rsEtdTLiqzQSfngFo1PJdsZP9hXwtK2UFQCWuk6lBnza_EA39m4Ofdi6i9NcUUflVhufZ4rLm9-DvST9Yc6TQ44bN2496c9q4rciRf8hbq0JGvSkAFuR5wEHIDi88VlQysWTz_zOI5B_E9B_gESkUfr"
+  },
+  {
+   "position": 2,
+   "title": "Shridhar Packaging Ind.",
+   "place_id": "ChIJv2Wtr-KL3DsRIDtfaLjXXUQ",
+   "data_id": "0x3bdc8be2afad65bf:0x445dd7b8685f3b20",
+   "data_cid": "4926330754438216480",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be2afad65bf%3A0x445dd7b8685f3b20&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be2afad65bf%3A0x445dd7b8685f3b20&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6283282,
+    "longitude": 74.6230902
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv2Wtr-KL3DsRIDtfaLjXXUQ",
+   "provider_id": "/g/11l1d5_2xx",
+   "rating": 5,
+   "reviews": 15,
+   "type": "Packaging company",
+   "types": [
+    "Packaging company"
+   ],
+   "address": "A- 64, MIDC Rd, Maharashtra Industrial Development Corporation, Shrirampur, Dattanagar, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 5:30 pm",
+   "hours": "Open · Closes 5:30 pm",
+   "operating_hours": {
+    "friday": "9 am–5:30 pm",
+    "saturday": "Closed",
+    "sunday": "9 am–3 pm",
+    "monday": "9 am–5:30 pm",
+    "tuesday": "9 am–5:30 pm",
+    "wednesday": "9 am–5:30 pm",
+    "thursday": "9 am–5:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNQOlPCcA_mVh6aTpG-IQdbyN_jzsv82Mpp2YyV4N0959w468NtqLP5lVZ0LKmDQWI_Tvv64nxFY7ynS_-9DI1_GCbFN496oGm4RdLrhcLgZz5_aTqcEJve-hTfy-sNrsIayhpeQ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Lykuk3icHcRdboIwAADgE1WqK0xM9mBkIsoquAaDLw3WSrPQH2lF6w13BG9j4vfwPf-Fc8bOgqATH6NW67bjV8t7ppXjyo2YlkFrLGAW2GC-2hVkL3G57YoFm1NZiaghJgVZeTp6TP8edphOfoyZ1L5CGMZhfEPRFLtLXoRddYD5RiblPqNkGCKk7sv606tfCuIkG9N0cVxiFEc6lWh3ynvB8vbwCGlDLux7PXAgyNkDi3ubNV4YXn7dxhBCIN4zoF6gbkTo"
+  }
+ ]
+}

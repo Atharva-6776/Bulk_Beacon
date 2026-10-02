@@ -1,0 +1,27 @@
+{
+  "id": "corrugated_boxes",
+  "name": "Corrugated boxes",
+  "validated": false,
+  "maps_queries": [
+    "corrugated box manufacturer {city}",
+    "carton box supplier {city}",
+    "packaging box wholesaler {city}"
+  ],
+  "marketplace_queries": [
+    "corrugated boxes manufacturer {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "corrugated carton box",
+  "logistics_query": "tempo transport {city}",
+  "units": [
+    "piece"
+  ],
+  "urgency_weight": 0.4,
+  "rfq_fields": [
+    "size (LxWxH)",
+    "ply",
+    "GSM",
+    "print/no print"
+  ],
+  "price_reference": "retail_only"
+}

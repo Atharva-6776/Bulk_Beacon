@@ -1,0 +1,1 @@
+# Architecture\nGeneric Request Parser -> Product Understanding -> Search Strategy -> Supplier Discovery -> Normalization/Filter -> Trust + Ranking -> RFQ

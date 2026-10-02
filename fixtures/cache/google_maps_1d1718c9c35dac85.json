@@ -1,0 +1,721 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "truck transport service Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62f5e64250dca3aaf8da",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dfV3ANTn3yeFKMZkYiuR8Uz2pIHUzyVQ-iudXS0ok_A/6abf62f5e64250dca3aaf8da.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dfV3ANTn3yeFKMZkYiuR8Uz2pIHUzyVQ-iudXS0ok_A/6abf62f5e64250dca3aaf8da.md",
+  "created_at": "2026-10-02 07:53:25 UTC",
+  "processed_at": "2026-10-02 07:53:25 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/truck+transport+service+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/dfV3ANTn3yeFKMZkYiuR8Uz2pIHUzyVQ-iudXS0ok_A/6abf62f5e64250dca3aaf8da.html",
+  "prettify_html_file": "https://serpapi.com/searches/dfV3ANTn3yeFKMZkYiuR8Uz2pIHUzyVQ-iudXS0ok_A/6abf62f5e64250dca3aaf8da.prettify",
+  "total_time_taken": 0.59
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "truck transport service Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "truck transport service Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Maharashtra transport",
+   "place_id": "ChIJ85CUOwCL3DsRpU3mjm0Y7cw",
+   "data_id": "0x3bdc8b003b9490f3:0xcced186d8ee64da5",
+   "data_cid": "14766485612045684133",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003b9490f3%3A0xcced186d8ee64da5&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003b9490f3%3A0xcced186d8ee64da5&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6200071,
+    "longitude": 74.65502889999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ85CUOwCL3DsRpU3mjm0Y7cw",
+   "provider_id": "/g/11yzqm1y51",
+   "rating": 5,
+   "reviews": 10,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JMC4+222, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qi-McQbYZma-JveW0-0QHSSP269QbUWSNAmum7MYfK_7sfT7IlESuPYtDki4xMGnh8AT5k1CQnkUHQEzdjFU4z8pTMV8eLPgciEh_YnAP43cZ9laaDIaH6zMKqQNHdb-LoD6B_rTyB8ojk=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/THY_EXicHcTbboIwAADQLyrUybiY-ICDDaclNMAIvhCohSLQoi1e-Emf_RuTnYfzejKlRrnS9Z4ttUaIpqeTpBciuKJcaUQMejNKQCSQuhtm7cPBLUAEV_lhKMHvlWYQQBzEcfRhOrhKszh0h2mwUF7vCkvWibXt_XiKcuV1rXFHP5zZbvLZLb4w79IA-_Px9J0asz0m6M-m-6ghrc-KnLuRsSQHpy9Lb1sG5ox2ZxwGxwrshWduikvy2Nji1K1vCwghYP8TwN8tsEZK"
+  },
+  {
+   "position": 2,
+   "title": "Jay Bhagwan Transport, Shrirampur",
+   "place_id": "ChIJCUX8kvmL3DsRyID8I0ot8ic",
+   "data_id": "0x3bdc8bf992fc4509:0x27f22d4a23fc80c8",
+   "data_cid": "2878412908297748680",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf992fc4509%3A0x27f22d4a23fc80c8&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf992fc4509%3A0x27f22d4a23fc80c8&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6241534,
+    "longitude": 74.6253163
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCUX8kvmL3DsRyID8I0ot8ic",
+   "provider_id": "/g/11rcmq8d4r",
+   "rating": 5,
+   "reviews": 11,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "Shrirampur-Shirdi, Maharashtra Industrial Development Corporation, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "8 am–8 pm",
+    "saturday": "8 am–5 pm",
+    "sunday": "8 am–8 pm",
+    "monday": "8 am–8 pm",
+    "tuesday": "8 am–8 pm",
+    "wednesday": "8 am–8 pm",
+    "thursday": "8 am–8 pm"
+   },
+   "phone": "088884 42711",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "accessibility": [
+      "Assistive hearing loop",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rm2__ae-fV8CHg87_Asu3a1f3nc7nnHBcP93U_mXvXGf4eT4vF5wutoOakt_zLF0uwEWPUOSgQGDyFNfbbtktyO4x-2JUA5sVHZBiuqsy2cZzOx0GBo23s2e7rJvwDvpH8a-aQxxHsst7w=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/4kSOfXicHcTBboIwGADgJ6rUFgMu2QHmoDGL6DbUeGlqU4pRWubfUvAld97bmOw7fH-_rXM9vETRraUzba2-KQ_qLq1xyriZtF2ke0ASEETZ5nCZlp8d4Vwo1OzTN6bThGfgqZg31MjEGJbL7ZLWvDsOx7KJ1Xc8FIvgna3E1fHHR4F9eD9s6-pL78rVVGya89ld3VTFIyLrOlvAnp3yi_-BicjToxpxmVtCgajkvh7CauhZKpDYjSMDcEl4DXOMMWr_l8g8AbwNSDU"
+  },
+  {
+   "position": 3,
+   "title": "ARCO | Transport",
+   "place_id": "ChIJb6Mt5ZSL3DsRPucU0AZW6q8",
+   "data_id": "0x3bdc8b94e52da36f:0xafea5606d014e73e",
+   "data_cid": "12676038688448505662",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b94e52da36f%3A0xafea5606d014e73e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b94e52da36f%3A0xafea5606d014e73e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.615066499999998,
+    "longitude": 74.6538858
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb6Mt5ZSL3DsRPucU0AZW6q8",
+   "provider_id": "/g/11s90qxd04",
+   "rating": 3,
+   "reviews": 2,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "Sivaji road Zadbuke building, opposite Agashe auto repair, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 9 pm",
+   "hours": "Open · Closes 9 pm",
+   "operating_hours": {
+    "friday": "10 am–9 pm",
+    "saturday": "10 am–9 pm",
+    "sunday": "Closed",
+    "monday": "10 am–9 pm",
+    "tuesday": "10 am–9 pm",
+    "wednesday": "10 am–9 pm",
+    "thursday": "10 am–9 pm"
+   },
+   "phone": "088578 01781",
+   "website": "http://www.arcoroadways.com/",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R6YrjP70aPGiGSFQ3BXy3w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=34.962193&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/lpd0pXicHc3BDcIgFADQbbgJtJhqTYiJB3utetGToZTCN7QQwGK3cS230bjAe5-3ScnHHSExBaXSDCp7eCkbV15g7Zy2SniIWLqRzAVJ5jl2kwC792Jy0PNzdQuPdkNF20BzOZ7Y4bqwjGR3lxbUlHhUIkiDdf6JwfVY-4gy31JkeF2iRWTO1riuyqJmyEOShlP0XwY384LSL0rVOQM"
+  },
+  {
+   "position": 4,
+   "title": "Hindusthan Transport",
+   "place_id": "ChIJ-Z8MbVKK3DsR39XiUUBDaRI",
+   "data_id": "0x3bdc8a526d0c9ff9:0x1269434051e2d5df",
+   "data_cid": "1326665508768110047",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a526d0c9ff9%3A0x1269434051e2d5df&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a526d0c9ff9%3A0x1269434051e2d5df&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.619995799999998,
+    "longitude": 74.6550158
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-Z8MbVKK3DsR39XiUUBDaRI",
+   "provider_id": "/g/11f_0vw27f",
+   "rating": 5,
+   "reviews": 1,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JM94+X2R, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8:30 pm",
+   "hours": "Open · Closes 8:30 pm",
+   "operating_hours": {
+    "friday": "8 am–8:30 pm",
+    "saturday": "8 am–8:30 pm",
+    "sunday": "8 am–8:30 pm",
+    "monday": "8 am–8:30 pm",
+    "tuesday": "8 am–8:30 pm",
+    "wednesday": "8 am–8:30 pm",
+    "thursday": "8 am–8:30 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qv8QXr_eSnXw3FLIJsvR5fZ4P0aRCDlzAl-KGg4fsXiTcgYXqSvsioyADM_46zWpLhiaE4kCteSmIZIdJsIbbLYfdc1rXItDkc4aT2KTtkRPBhaQFb1_2FjgQp0rf9G3wcVZU7QQ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/NdgnLHicHcTdboIwGADQJ6oU6X402QWTYarMWMBZuSFQS8tAyvg6iL6hj-DbLNm5OI-7traHpeO02pspY1Qrf0EOwnRWdnYmzMVRPSABCBx_d6yvCza-Mj7kMun45IUR3cAYP1UZ2eMiXgXtzW_Rdq1IBbxOhTrxn2SE2lz94DMnz7djH-m6-CDNysrkQjN63gAty-hUnYU7cGqDRpAinW9T28T7d12wsHTzefitWI-HarH2JvGVHV4Ye5tcjDHS_wvU_QFB3kXd"
+  },
+  {
+   "position": 5,
+   "title": "Subhash Transport Service",
+   "place_id": "ChIJdelGbVKK3DsRBzFUt-YDJFA",
+   "data_id": "0x3bdc8a526d46e975:0x502403e6b7543107",
+   "data_cid": "5774744911648928007",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a526d46e975%3A0x502403e6b7543107&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a526d46e975%3A0x502403e6b7543107&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.61948,
+    "longitude": 74.655521
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJdelGbVKK3DsRBzFUt-YDJFA",
+   "provider_id": "/g/11b7ft3bjh",
+   "rating": 4,
+   "reviews": 4,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8:30 pm",
+   "hours": "Open · Closes 8:30 pm",
+   "operating_hours": {
+    "friday": "9 am–8:30 pm",
+    "saturday": "9 am–8:30 pm",
+    "sunday": "9 am–8:30 pm",
+    "monday": "9 am–8:30 pm",
+    "tuesday": "9 am–8:30 pm",
+    "wednesday": "9 am–8:30 pm",
+    "thursday": "9 am–8:30 pm"
+   },
+   "phone": "094222 22929",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TAgr0CmaNyjZT-7v26bObfr04EYPzDCdgaK3r3N--fsjgplvjRugPbJzzjaMuBEMPoBGEPQxFO66QNh3-yNyOVtCVUxy3mfAtDrtQIHfuP6ecPcRcoCzXmEqcBkDb2WrtlBzho=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/2v5wRHicHcTbDoIgAADQLyIpmq22Hrx1XYit-5uSQqZigBX8YN_Q37R1Hs73w7Vu1cRxKo56TAhW5Z3KJRWNzhvdo6J2WKsAVUA5Hj7ezHjnMQmDOsWmvOzA6DlwszgrJBxGZ2LD4MrSNZIIA1CokrXVs9x2jGQra8t00_nRhgh_HpHkPYtdN8EcAYNNfNDBYf82qC48HUqdLBdFR9ycErqlIrCnOnpQ_x5mg6PUlW-5mL76EELA_1PQ_ACSbUXa"
+  },
+  {
+   "position": 6,
+   "title": "Bhosale Bandhu Transport Service",
+   "place_id": "ChIJDQd56kWL3DsRhCTuL5gSpbc",
+   "data_id": "0x3bdc8b45ea79070d:0xb7a512982fee2484",
+   "data_cid": "13233003524946535556",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b45ea79070d%3A0xb7a512982fee2484&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b45ea79070d%3A0xb7a512982fee2484&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.615966,
+    "longitude": 74.6460058
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJDQd56kWL3DsRhCTuL5gSpbc",
+   "provider_id": "/g/11rb4sh09q",
+   "rating": 4.8,
+   "reviews": 5,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "ward no 7, near, nagarpalika vasahat, Morage Wasti, Morge Wasti, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 9 pm",
+   "hours": "Open · Closes 9 pm",
+   "operating_hours": {
+    "friday": "7 am–9 pm",
+    "saturday": "7 am–9 pm",
+    "sunday": "7 am–9 pm",
+    "monday": "7 am–9 pm",
+    "tuesday": "7 am–9 pm",
+    "wednesday": "7 am–9 pm",
+    "thursday": "7 am–9 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RJwjMFnP8BorbNV2swcO7Zk_eJLRChVy4mQ7-C7D9G3nbNygGAImhSAuoSDGDlhISt16vQ3aMocmEQH301DHc4HMe9w7x6a099ibqCbDuBCdi7M-UqibSKL9LRArI0UdhXJnqZ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/6xbSInicHcRdboIwAADgE1WKGGpNfEC68TPAAdEZXwytDcVBK7TIOKFn8DYm-x6-11MYc9cby2qFs6iVqls-aj4wJQ2XZsFUZ9V3DZgG2vKyn2bGRTzd0k_5vd6pgWbHpZ7YHp1_LzxOCl8c51WXI-AjggNH0myuAy_qROmNqiQBaUVUGtt95E6VKtZ95KEDbRKyVZhyPKE_t4IYN7T3KRl3_rVBKTj0DS2_EpwU3hDBw1WcYtmft5MNIQTifwbkG_-aQxs"
+  },
+  {
+   "position": 7,
+   "title": "Swastik Transport",
+   "place_id": "ChIJfZhyyFOK3DsR-Dx2YYMcIlg",
+   "data_id": "0x3bdc8a53c872987d:0x58221c8361763cf8",
+   "data_cid": "6350669775147252984",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a53c872987d%3A0x58221c8361763cf8&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a53c872987d%3A0x58221c8361763cf8&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6200217,
+    "longitude": 74.64813649999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfZhyyFOK3DsR-Dx2YYMcIlg",
+   "provider_id": "/g/11g02b0l9j",
+   "rating": 5,
+   "reviews": 1,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JJCX+272, Jogging Track, Ward Number 7, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "9:30 am–8 pm",
+    "saturday": "9:30 am–8 pm",
+    "sunday": "Closed",
+    "monday": "9:30 am–8 pm",
+    "tuesday": "9:30 am–8 pm",
+    "wednesday": "9:30 am–8 pm",
+    "thursday": "9:30 am–8 pm"
+   },
+   "phone": "098221 16621",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qo5HOI8XSQVxVsar5yIMvJZM_PbXSX2LIZ5ySKxNcz7ekWiU9JFd8vEMSp-cJa08KS8u6fxWLs9gsnaL2kSsyr2tnYQdik1l00Flo4NcKCXNs-b1-1XI7socF4KMP-v0THp-_F=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/8kByo3icHcRLDoIwFADAEz0pKAomLoyRyFdJVaobgxWBgC3hVQQv6Bm8jYmzmO-nUKrBuabVxXiUS5nX2ROzlkuhMqFGXD60vEHgCKgto6Qc7Fiam61rMRof-yOmrTm4Yeedw8vuyigzAvdsDtTvI_6eZVVSHmzPuVndOqQNcC8llk-t5_TeJwHaOYo0MCqKQ2socYpvZaXXhDi1nETcX7EI4aqDztwZSu5M_HAHHdlvGrg4i5dOCIHiPwfxA0YvQ5c"
+  },
+  {
+   "position": 8,
+   "title": "Seva Transport shrirampur",
+   "place_id": "ChIJcTanFkyK3DsRoGNKZ9VKESQ",
+   "data_id": "0x3bdc8a4c16a73671:0x24114ad5674a63a0",
+   "data_cid": "2598940740390904736",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c16a73671%3A0x24114ad5674a63a0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c16a73671%3A0x24114ad5674a63a0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.621050999999998,
+    "longitude": 74.6564442
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcTanFkyK3DsRoGNKZ9VKESQ",
+   "provider_id": "/g/11hcjscjv8",
+   "rating": 2,
+   "reviews": 1,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "MH SH 47, Subhedar Wasti Ward No.2, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 9 pm",
+   "hours": "Open · Closes 9 pm",
+   "operating_hours": {
+    "friday": "10 am–9 pm",
+    "saturday": "10 am–9 pm",
+    "sunday": "10 am–9 pm",
+    "monday": "10 am–9 pm",
+    "tuesday": "10 am–9 pm",
+    "wednesday": "10 am–9 pm",
+    "thursday": "10 am–9 pm"
+   },
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hDqKnJKmIGf-PXpdYi9rwQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=264.0781&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/klkpYXicHc3BDcIgFADQbbgVqDHamhAvJkZ70ZueDKUUfkLhC1h0GudyG40LvPd525wxbRhLOWqdZ9AF4aldqlBSE4JxWiIkqsLE5ppl-5h6L8FtUfoAg7C7e-eP3XTYj9XpgsMV2ljORPU35UD7LJKWUVlqyk-MYaAGEymi4cSKdkFesojFakn5uqkJQlZWcPJPxjCLmvMvT8Q5fw"
+  },
+  {
+   "position": 9,
+   "title": "shivam transport shrirampur to pune",
+   "place_id": "ChIJg9RsGriL3DsRwT9t1MVBQ2U",
+   "data_id": "0x3bdc8bb81a6cd483:0x654341c5d46d3fc1",
+   "data_cid": "7296748139198627777",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bb81a6cd483%3A0x654341c5d46d3fc1&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bb81a6cd483%3A0x654341c5d46d3fc1&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6138998,
+    "longitude": 74.6579969
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJg9RsGriL3DsRwT9t1MVBQ2U",
+   "provider_id": "/g/11g2y9vh3x",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "Kalatam mandir sarswati colny road, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "092602 49492",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qvsl90qKUvHBofgNaRTXBkHvq7dxTeKtBjpf_PoFwfrV21vH7_8OH4417ik8geQSfjHZ_Gr_DW3O135llmsdUI2LdB8unVJzg_xoaaICE_mO2KQygC-D5a715CgdJNMq7GFf81I8ZSrDA=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Qm8CS3icHcRLjoIwAADQE1UoSFoncSEwWmQGxH_cNATaohYKtOLnkO7nNpP4Fu_vXRnT6i_LkpU7EkoJyW6a9YVqDGvMqFC1JVoNCg20NUsO5-ckG7Sc2F28G4ivuEjy9fboX8nQofKxZbHxLy2nKzW_837vwIEgilMyHkN0vmLBsg2_kBNd9DQ8uCl0PSlrXe4i56f08a3ZL1-CPlSeR8E3rVMnzp4iAKGXI-gFolwmvx1azDmGET5t-nA2vUPbtkH1uQDNP3cyRhk"
+  },
+  {
+   "position": 10,
+   "title": "Mola Goods Transport Services",
+   "place_id": "ChIJoZxxpmCN3DsRYtLhHSLw7lU",
+   "data_id": "0x3bdc8d60a6719ca1:0x55eef0221de1d262",
+   "data_cid": "6192150567001903714",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8d60a6719ca1%3A0x55eef0221de1d262&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8d60a6719ca1%3A0x55eef0221de1d262&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.4788575,
+    "longitude": 74.6168502
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoZxxpmCN3DsRYtLhHSLw7lU",
+   "provider_id": "/g/11cm9cjdcg",
+   "rating": 4,
+   "reviews": 6,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service",
+    "Home help"
+   ],
+   "address": "Shrirampur - Rahuri Rd, Deolali Pravara, Maharashtra 413716",
+   "country": "India",
+   "open_state": "Open · Closes 9:30 pm",
+   "hours": "Open · Closes 9:30 pm",
+   "operating_hours": {
+    "friday": "7:30 am–9:30 pm",
+    "saturday": "7:30 am–9:30 pm",
+    "sunday": "7:30 am–9:30 pm",
+    "monday": "7 am–10 pm",
+    "tuesday": "7:30 am–9:30 pm",
+    "wednesday": "7:30 am–9:30 pm",
+    "thursday": "7:30 am–9:30 pm"
+   },
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RuIRtguF1k8tFQyxCmaJuFtqOXrh2mcDpsGWPeqz54P56AoKQQSZkhGtWLoZbmf4zwnq6QRnDA2f1NHOynUCTlFe7bawLvygPrtuCcFdJZdbADi_pkfbOfm_VLQa1Xu3Zm-ug=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FBS5D3icHcTdboIwGADQJ6qAv3OJFwRSpyNC0Q3DjYFaWgNtgX6V4QP6Dr6Nyc7FeT0FQGs-HacRswnXmjfMGtZTrYApmFAtHd4aRA0yjn_IbuM6tbsUuMVe_QGYjH-BLPYWQxefezGVNGzNNktY91jMk8XS19-EHPNabCGLdF7Kav4YVLckqQr9aeUdvuJR_QSnBrNVWQzRfeRJDzag-LrPr6Uf3i5tXZVxJS-_ESm8s53lElm-GTzXdZH4nyL1BtjnRnQ"
+  },
+  {
+   "position": 11,
+   "title": "LAGAD Transport",
+   "place_id": "ChIJ2y6ERCqL3DsRHSd4OZwwN1M",
+   "data_id": "0x3bdc8b2a44842edb:0x5337309c3978271d",
+   "data_cid": "5996314876404311837",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b2a44842edb%3A0x5337309c3978271d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b2a44842edb%3A0x5337309c3978271d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6142337,
+    "longitude": 74.6556944
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ2y6ERCqL3DsRHSd4OZwwN1M",
+   "provider_id": "/g/11sm8qfbjb",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "Shop No 1 Girme Chowk, Belapur Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "083809 02601",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pqwhFQE8E8uuGC58kPSXBg&cb_client=search.gws-prod.gps&w=80&h=92&yaw=280.60184&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/KWyYXXicHc3BDcIgFADQbbgJtFGDJsREU71qvHgzlH6BSOFbaNFtXMttNC7w3udtc8a0ZizlASBPDgq6J_g0Q0VNjMaDQpeojj2bKpbt2LdBOb9BFaLrJD6K3Z8a0YhxPOwW4n48X7aG6PaqvYOQZQI1aEtN-YlD7KjBRIoUnFi5qslLFVkLTpe8EnOCLmsrOfkvtzjJivMvZzg5Rg"
+  },
+  {
+   "position": 12,
+   "title": "UNITED 18 SHRIRAMPUR",
+   "place_id": "ChIJ0ygN32iL3DsRX2T-Bo5YFaA",
+   "data_id": "0x3bdc8b68df0d28d3:0xa015588e06fe645f",
+   "data_cid": "11535223387605328991",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b68df0d28d3%3A0xa015588e06fe645f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b68df0d28d3%3A0xa015588e06fe645f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6153384,
+    "longitude": 74.65718509999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0ygN32iL3DsRX2T-Bo5YFaA",
+   "provider_id": "/g/11gmyvmcff",
+   "rating": 5,
+   "reviews": 22,
+   "unclaimed_listing": true,
+   "type": "Moving and storage service",
+   "types": [
+    "Moving and storage service"
+   ],
+   "address": "Shop no-115, Dhruvi Lifestyle, Main Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fzjPFmOZ46ArzuzsfDkGXA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=104.76519&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/iEtucnicHc3BDoIgHIDxt-EWYDPLNubcWh3r2Lo0xL9AoTBAKZ-m1-ptcp2_7fd9PypGF_aEhOgB4qQhOf0CE1aOY2mtNMCdDljYnkwZiWrsm4FrUzk-WN2ybn5cjv35lhe1n8c5dIfn6Voj0dyF0TBEFoB7obBMi-hti6ULKLEdRYqVa_TmiWU0x9tik5XI6SgUo-h_6ey0JPoDnJQ57Q"
+  },
+  {
+   "position": 13,
+   "title": "Bhosale Bandhu Transport Services (Bhosale)",
+   "place_id": "ChIJC-Mfc_iL3DsRQLR0S1CMhck",
+   "data_id": "0x3bdc8bf8731fe30b:0xc9858c504b74b440",
+   "data_cid": "14521166850017244224",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf8731fe30b%3A0xc9858c504b74b440&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf8731fe30b%3A0xc9858c504b74b440&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6201296,
+    "longitude": 74.6523301
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJC-Mfc_iL3DsRQLR0S1CMhck",
+   "provider_id": "/g/11qq1n65tm",
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JMC2+3W4, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=P0Qqw175P354kLkbkBnjwQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=325.92136&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/QLrR9HicHc3bDcIgFADQbfiTR2t9JTcmfvvRTmAoRcBSwHItuo1ruY3GBc75vC1iygfGMs5a4-J0Se6pfV4lSU2MxmuZXKYqTmwRDO1j6oN0_phkiG6Alnf3IrZNWzfr8Tz24yncSkdUf1He6YCQtZyVpab8xDkO1KRMCuw4sbCvyEsWqKuG7itRb0hyqCxw8l-ucQHB-RdPozka"
+  },
+  {
+   "position": 14,
+   "title": "Shri Jai Ambi Road Lines Shrirampur",
+   "place_id": "ChIJqdLwo22L3DsRWbYaX046QBo",
+   "data_id": "0x3bdc8b6da3f0d2a9:0x1a403a4e5f1ab659",
+   "data_cid": "1891575951773054553",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b6da3f0d2a9%3A0x1a403a4e5f1ab659&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b6da3f0d2a9%3A0x1a403a4e5f1ab659&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6203851,
+    "longitude": 74.6380606
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqdLwo22L3DsRWbYaX046QBo",
+   "provider_id": "/g/11g4cyccmf",
+   "rating": 3,
+   "reviews": 2,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JJCQ+563, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "098601 57056",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4MVbSRyMYDcW8jPzJWBtug&cb_client=search.gws-prod.gps&w=80&h=92&yaw=184.2502&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/p1FMY3icHc1RCsIgGADg2_iWurFgBRLEnoJBFDR6Cuf-1HBT5r_Zukzn6jZFF_i-z9sghrhlLOIIgLOFFOwTXFwFSbX32oEMNlLlezZnDM3Ut4O0bhfk4G0nivrSnk9Lfa1UUz6Or0Ozx0kT1d6UszCgiCBHZahOP3H0HdUhkiRKTozY5GSRSWRlQfM1z0mwqIzg5J_c_Swyzr9Gwjln"
+  },
+  {
+   "position": 15,
+   "title": "Ambika Transport",
+   "place_id": "ChIJe01oTkyK3DsRMAvc_X2DXRQ",
+   "data_id": "0x3bdc8a4c4e684d7b:0x145d837dfddc0b30",
+   "data_cid": "1467473630745856816",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c4e684d7b%3A0x145d837dfddc0b30&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c4e684d7b%3A0x145d837dfddc0b30&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6199695,
+    "longitude": 74.6551305
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe01oTkyK3DsRMAvc_X2DXRQ",
+   "provider_id": "/g/124t2b224",
+   "rating": 5,
+   "reviews": 3,
+   "unclaimed_listing": true,
+   "type": "Trucking company",
+   "types": [
+    "Trucking company"
+   ],
+   "address": "JM94+X3J, MH SH 44, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQgH7VwbPD4sHV5Szum0musDbWQqY3JXg5kLee7_6IneedlaShE8f80SP8cNxrEWzM-oTSHZhyIdbW1uFGSM9-uVlGWV-nG0NjVLIQ26YTQ4i6sJWRvATRWcLTCMTb4O7p9m6bHg=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FhEN7HicHcTbboIwAADQL6rUiVyW7MF4AQyg0KZVX4yttdVBi5bO6R_uE_Y3Jp6H8_-n-r6zn57XqNFAGiMb4ay4caN7ofsBN60nOwu4BdablPT8iOtKpiG5s_XMtykZo6drYevsjNHquh0tN3L8nQsR7oNMC3FsDkjNo1ME0Tri5e9tTp8FMBilO_XIjowO3SJBRQwcaRJKgE5geSF5Vn0EW1z558Auaf0zwTXlOZ4WmPmrsIvbgKXy6z6EEAL1ngP9As_3RDM"
+  },
+  {
+   "position": 16,
+   "title": "new janta transport co",
+   "place_id": "ChIJO_gRfACL3DsRjeIL-ouO-v8",
+   "data_id": "0x3bdc8b007c11f83b:0xfffa8e8bfa0be28d",
+   "data_cid": "18445211955695968909",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b007c11f83b%3A0xfffa8e8bfa0be28d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b007c11f83b%3A0xfffa8e8bfa0be28d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6178751,
+    "longitude": 74.652915
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJO_gRfACL3DsRjeIL-ouO-v8",
+   "provider_id": "/g/11xgl8qgxr",
+   "rating": 3.5,
+   "reviews": 2,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JM93+553, Dr.Chatufale Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaPZq5WW1G8VlQug03cRfTlOK7H2uP4xenN_ODIFx3IhpdfXsU2dY3tIsJck1_frBN_Nx9WnhLKfGDVDzp5HFRMBExsNkdBBPNNTNkYy4MgYjB7SArnKy-veF0qQHxGf3Zzj95_sKNrGQi=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/--f8TnicHcTbboIwAADQL6oUK3Es2YMN4zJmBbwgvpCl9KKwgrRsxZ_c8_5myc7D-f2Rxgz62XE6iRai70XHJs1G2ivDlFnQ_tMRgwZUA-1sSHmd_eIju9y9snSjp1OXTwIiWvBDt0vX8XLKVpYpUu-CJLQokUPDz_q4bCpkEv1GW7fmIyY1sX6p5HvKo-AUPAYvDostfrWatA3GGSEH0lbzaiuqG17vN6NKZ_DFQnjPYxtxdHncfK_WKRmj_Pry7UIIgfyfAvUHh7JHMA"
+  },
+  {
+   "position": 17,
+   "title": "Jolly Transport",
+   "place_id": "ChIJJX-pxZSL3DsRGzDLpyej5FQ",
+   "data_id": "0x3bdc8b94c5a97f25:0x54e4a327a7cb301b",
+   "data_cid": "6117193584590139419",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b94c5a97f25%3A0x54e4a327a7cb301b&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b94c5a97f25%3A0x54e4a327a7cb301b&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.616286499999998,
+    "longitude": 74.65995649999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJX-pxZSL3DsRGzDLpyej5FQ",
+   "provider_id": "/g/11t9dqy4lv",
+   "rating": 3,
+   "reviews": 5,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "2, Dawkhar Rd, Kongress, Bavan, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "084829 93050",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDyfmXLyWyCWT8yOjYWMyiqELD3Ej6Evub0jrruozExNwcE3jse8MK1-GCRMR6DKcpgslQCg_fu53ZwX6PDytqW-a6dgLcMFayltY03WepvGbUKitJdnKaUsJOinuqlpbv3nRkog=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RQ9Yo3icHcTdroIgAADgJyJpLFdtXZwpuaX2406jumlKhBoBCmj0hucRztu09V18_3-1tdosg0DUaMKV4oI5w3qqpGXSTqh6BlwbQA0wwc-WNH5xiP39eco88RH5nftdeya5bzqcxQi3IR5cBdu-d-qNX9uRYtQaNs_TKUiiIi_COKWaG3GI-PXuZugynsJ97G1HQBneeEbzdemFPUNEmB6S6pg2dnOTaXk0m10jXSd0NSBZPBRfjVMIIai_UyA_lMZHog"
+  },
+  {
+   "position": 18,
+   "title": "New Amar Transport",
+   "place_id": "ChIJsdga0FWK3DsR4CivmzSFC_Q",
+   "data_id": "0x3bdc8a55d01ad8b1:0xf40b85349baf28e0",
+   "data_cid": "17585295630994974944",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a55d01ad8b1%3A0xf40b85349baf28e0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a55d01ad8b1%3A0xf40b85349baf28e0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6202045,
+    "longitude": 74.6422568
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsdga0FWK3DsR4CivmzSFC_Q",
+   "provider_id": "/g/11c2pmgw2w",
+   "rating": 4.2,
+   "reviews": 5,
+   "unclaimed_listing": true,
+   "type": "Corporate office",
+   "types": [
+    "Corporate office"
+   ],
+   "address": "JJCR+3WJ, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "098909 03524",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park"
+     ]
+    }
+   ],
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Lb6F5qLwgoZKxZwgqDRag&cb_client=search.gws-prod.gps&w=80&h=92&yaw=208.48601&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/LHCl1nicHc0xDoIwFADQ23SjLUQJmjQuxkUmRxbzKfX3J4UWWinexmt5G40XeO_ztimFeBQipsWYtJLJgTbjYhGAo_foDASKXPtRrKVI9jn2E5A7BZg8Dapo-_qyn9uMvrtuXcb5fANkur9rR2ZKKhpYtOWYf-LiB44hsqwayaw6VOwFWVWy4bumliULlLRVkv2Xh19VKeUXh7E5vw"
+  },
+  {
+   "position": 19,
+   "title": "MAKHIJA TRANSPORT",
+   "place_id": "ChIJr61SDaGL3DsRWReABImLNd0",
+   "data_id": "0x3bdc8ba10d52adaf:0xdd358b8904801759",
+   "data_cid": "15939799876750022489",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba10d52adaf%3A0xdd358b8904801759&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba10d52adaf%3A0xdd358b8904801759&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6176647,
+    "longitude": 74.6594089
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJr61SDaGL3DsRWReABImLNd0",
+   "provider_id": "/g/11zx6hrscv",
+   "type": "Logistics service",
+   "types": [
+    "Logistics service",
+    "Courier service"
+   ],
+   "address": "Ram Mandir Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Closed · Opens 9:30 pm",
+   "hours": "Closed · Opens 9:30 pm",
+   "operating_hours": {
+    "friday": "12–8 am, 9:30 pm–12 am",
+    "saturday": "12–8 am, 9 pm–12 am",
+    "sunday": "12–8 am, 9:30 pm–12 am",
+    "monday": "12–8:30 am, 9:30 pm–12 am",
+    "tuesday": "12–8:30 am, 9:30 pm–12 am",
+    "wednesday": "12–8:30 am, 9:30 pm–12 am",
+    "thursday": "12–8:30 am, 9:30 pm–12 am"
+   },
+   "phone": "095274 36338",
+   "website": "http://makhijatransport.in/",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QP4VHuSWj_BEHGvhDk2-eJHS_ZU9ODM-wqV4C92EzdXS0hLdnsbOsyoMKpDvktbHrbWFj6SwcBYZBejESdnySDW7YmdHLQncQkuiBgS9UtntcCkAxQimsa8zYQ9uzwjkXRltniFrqM587B=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/GM8Uv3icHcRLjoIwAADQE1XQ8VeTWVhBGxWdTqOIGyOloVBokRYZuOSsvY2Jb_Fe_8LayiwcpxBfg1TrtOCN4TXTynJlB0yXTloZwAwwzvIQZh0kP-MzbmiY35CPN0_hyRHgW0xv1xM8egFoH-fxCo78PrlQV-wTZeKj6XSwq7yntDGu43CdT2nLUHRFPPdpojrqhbOoTPCeKEZkk6GUwpNVlq3k8o9kpbnP-4jApm9zefktrMrW9SOYzGfoux26rgvEZwbUG-A1SPA"
+  },
+  {
+   "position": 20,
+   "title": "Shri ambika roadlines",
+   "place_id": "ChIJX59zsguL3DsRcyZ0J2ma3TY",
+   "data_id": "0x3bdc8b0bb2739f5f:0x36dd9a6927742673",
+   "data_cid": "3953485824325330547",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b0bb2739f5f%3A0x36dd9a6927742673&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b0bb2739f5f%3A0x36dd9a6927742673&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6199253,
+    "longitude": 74.6494724
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX59zsguL3DsRcyZ0J2ma3TY",
+   "provider_id": "/g/11fls3z56d",
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "address": "JJ9X+XQH, Shri ambika auto, Sangamner Rd, opp. V.I.P Government Guest House, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8:30 pm",
+   "hours": "Open · Closes 8:30 pm",
+   "operating_hours": {
+    "friday": "9 am–8:30 pm",
+    "saturday": "9 am–8:30 pm",
+    "sunday": "9 am–2 pm, 5:30–7:30 pm",
+    "monday": "9 am–8:30 pm",
+    "tuesday": "9 am–8:30 pm",
+    "wednesday": "9 am–8:30 pm",
+    "thursday": "9 am–8:30 pm"
+   },
+   "phone": "02422 223 256",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jchJgtyozVF8MZlmc9e-5A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=188.98062&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Asz4D3icHc0xDsIgFADQ27AVaBMNNSHGpYOJq4OLob9fwNBCyrdYT-O1vI3GC7z3eTuilHdCZJoRafFYkn9iyFUy3MZoA5rkM4c4iqUW5B5jPxkf9slM0Q_6Du5oaY2vc6dOlzBCi9XmwKC_QvA4kc5oZnDclp84x4HblFnRSjKn24atpuhaKd4quW1Y8gROS_ZfbnHRtZRfkxA5xg"
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=en&q=truck+transport+service+Shrirampur&start=20&type=search"
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "tomato wholesale Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf63450d0b295222f9ac9e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/g0KJ5TlRet4FLqTpGPh6JbEyyEcLd42eIXu8Y6Nr8gk/6abf63450d0b295222f9ac9e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/g0KJ5TlRet4FLqTpGPh6JbEyyEcLd42eIXu8Y6Nr8gk/6abf63450d0b295222f9ac9e.md",
+  "created_at": "2026-10-02 07:54:45 UTC",
+  "processed_at": "2026-10-02 07:54:45 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/tomato+wholesale+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/g0KJ5TlRet4FLqTpGPh6JbEyyEcLd42eIXu8Y6Nr8gk/6abf63450d0b295222f9ac9e.html",
+  "prettify_html_file": "https://serpapi.com/searches/g0KJ5TlRet4FLqTpGPh6JbEyyEcLd42eIXu8Y6Nr8gk/6abf63450d0b295222f9ac9e.prettify",
+  "total_time_taken": 0.75
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "tomato wholesale Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "tomato wholesale Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Shrirampur market yard",
+   "place_id": "ChIJtQVzYeqL3DsRfBhzSZjKcuM",
+   "data_id": "0x3bdc8bea617305b5:0xe372ca984973187c",
+   "data_cid": "16389384749370775676",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bea617305b5%3A0xe372ca984973187c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bea617305b5%3A0xe372ca984973187c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6181356,
+    "longitude": 74.6710075
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtQVzYeqL3DsRfBhzSZjKcuM",
+   "provider_id": "/g/11ft_g8m0s",
+   "rating": 4,
+   "reviews": 646,
+   "unclaimed_listing": true,
+   "type": "Farmers' market",
+   "types": [
+    "Farmers' market"
+   ],
+   "type_id": "farmers_market",
+   "type_ids": [
+    "farmers_market"
+   ],
+   "address": "JM9C+7C2, Shirasgaon, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "4 am–7 pm",
+    "saturday": "4 am–7 pm",
+    "sunday": "4 am–7 pm",
+    "monday": "4 am–7 pm",
+    "tuesday": "Closed",
+    "wednesday": "4 am–7 pm",
+    "thursday": "4 am–7 pm"
+   },
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible entrance"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom"
+     ]
+    },
+    {
+     "payments": [
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNEetrAC3GF521P_rTnT_aGZCRej838sFdYK3k-LOGSiny0jHVn0CWOE2HpTsYh1YCzXgJRvx7Xg5HzFgmQMDHkSBGcXEcSrP-RdWNy8JpPAkjZa9d8vkKYZaQJf93wmLj3bDK13Q=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/qC7JxXicHcRJDoIwAADAF1WKjRFNPGBlCbiwRYGLwVKLLIW0FZcf-gR_Y-Ic5vuplBrkUtPaCk1Y37OW3iUVpOeKcjUhfacxUUgJiNRMPA5tt7eoEiZGjj2b6sFZJDw5F06OI1obyJB2mfmoAduDE9_4C9bukUN8OlhTd0hkVukZfqfMi8bnPGUz922zLtxt3CZeOyS1SCwCEJWn_cvwhsBs6rxYlMbY-FlehN51gR7dtkaXja-jcPXQIYSg-k8A_wG8kkRq"
+  },
+  {
+   "position": 2,
+   "title": "Vidyashri Treding Company",
+   "place_id": "ChIJI_8dWhSL3DsRePlmgIL_ejk",
+   "data_id": "0x3bdc8b145a1dff23:0x397aff828066f978",
+   "data_cid": "4141903743285655928",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b145a1dff23%3A0x397aff828066f978&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b145a1dff23%3A0x397aff828066f978&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.618647199999998,
+    "longitude": 74.65574409999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI_8dWhSL3DsRePlmgIL_ejk",
+   "provider_id": "/g/11t3tnln23",
+   "rating": 4.5,
+   "reviews": 4,
+   "type": "Wholesaler",
+   "types": [
+    "Wholesaler"
+   ],
+   "type_id": "wholesaler",
+   "type_ids": [
+    "wholesaler"
+   ],
+   "address": "KHATOD MARKET Shrirampur,Khatod Market, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open now",
+   "phone": "089998 65464",
+   "user_review": "\"Good place to buy wholesale products for shops and home.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPMgXrUcVepmKMw3Z_qG6q-cCUkxEEtXuFyWUZuRivsbdxMdZWVglrm-lIiv-GYtT0U1tU7k-Nfk9XwYjWdulVku1crIM-QRldX2Iz6yc4tSxpYnuMYnuz79pwVEOPCWZTiXnDP=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/27TQXXicHcRJDoIwAADAF1VAjUYTDwaREFPFpVC4GC1YkFJqF0A_6Bv8jcbDzOddaC3U3LJYMRrQpqEsNyqXpOE653pAmtqi8qIUIMpauq1gdQgplohEuag3sBul54c_eQDioqr3PI3N-hmj1BzKVl2zHmZpHFEma8CCsgV-ok82cjSaVmB7q2a4S-5xZlhUGYfIAIL9gWV4GLwmTzLWx14k3MCf13QmusjbhW6cnkrMV-Gic2zbBsV_AvgXju5HjA"
+  },
+  {
+   "position": 3,
+   "title": "Fresh Fruit And Vegetable Market",
+   "place_id": "ChIJuf-lSTOK3DsRdeaUPjcv5RI",
+   "data_id": "0x3bdc8a3349a5ffb9:0x12e52f373e94e675",
+   "data_cid": "1361546376669095541",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a3349a5ffb9%3A0x12e52f373e94e675&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a3349a5ffb9%3A0x12e52f373e94e675&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6180646,
+    "longitude": 74.6706226
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuf-lSTOK3DsRdeaUPjcv5RI",
+   "provider_id": "/g/11c2kf6xtq",
+   "rating": 4,
+   "reviews": 552,
+   "unclaimed_listing": true,
+   "type": "Fresh food market",
+   "types": [
+    "Fresh food market"
+   ],
+   "type_id": "fresh_food_market",
+   "type_ids": [
+    "fresh_food_market"
+   ],
+   "address": "413709, 52-86, Shrirampur-Newasa Rd, Indira Nagar, Shirasgaon, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Closed · Opens 5 am Sat",
+   "hours": "Closed · Opens 5 am Sat",
+   "operating_hours": {
+    "friday": "5–11:58 am",
+    "saturday": "5–11:58 am",
+    "sunday": "5–11:58 am",
+    "monday": "5–11:58 am",
+    "tuesday": "Closed",
+    "wednesday": "5–11:58 am",
+    "thursday": "5–11:58 am"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOfIlOTTdTEAYkaoQIbmvgEQkMDKVtiY88IphRxyQxbpufnWeirnCAFSm7aixexbJzVNbOsIuXcbuZORx-AsbTCNG9qMWS31X-4HtANidk1sAf11jW8LZlmPThwWVdI01wdbTc=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Uu3HeHicHcRdboIwAADgE1VoNBlbsocGcdZNGNqA-kZLoYz-MFqk7oC7g7cx8Xv47v_CucG-BYEUy0VrTCv5ZPnIjHZcuwUzKmjHylrAbIDi6yBV1mCZEVKTBJ37yuSYqmub5P1-_Vm47hxFeBAHf8s9HaZGl7wbdYw2R_VSdZ57uvsrUppZPJ0YnS7ZwQNkKYnTj9fffXlcwhNYbR1Ku7qHFjUQ_pTR10WqbyLmsqhxCOeaEvY-wzAMgXjOgH4AGz5GNQ"
+  },
+  {
+   "position": 4,
+   "title": "PS tomato supplier PS",
+   "place_id": "ChIJaZ0jdwAB3TsRXc5P3IUl7Mw",
+   "data_id": "0x3bdd010077239d69:0xccec2585dc4fce5d",
+   "data_cid": "14766218535098109533",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdd010077239d69%3A0xccec2585dc4fce5d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdd010077239d69%3A0xccec2585dc4fce5d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.5775933,
+    "longitude": 74.2056484
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaZ0jdwAB3TsRXc5P3IUl7Mw",
+   "provider_id": "/g/11y12_5x6p",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Wholesaler",
+   "types": [
+    "Wholesaler"
+   ],
+   "type_id": "wholesaler",
+   "type_ids": [
+    "wholesaler"
+   ],
+   "address": "H6H4+27R, Marketyard, Ganesh Nagar, Sangamner, Maharashtra 422605",
+   "country": "India",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmODNdi-XeO_JsahwIGMwoUkylWDinlgmkRVI0Vii8CExmdL6EYAFeo-SY6egGJqFeLzO3Q2KPsPKGPg26aiPJl5441ok8SMW2ysOjqT96Hdr0X1mFBVbah0LY_QeXknVYNmWRE5HMjOqDiK=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/QBG8JnicHcTJcoIwAADQL4oEVEad6YHKoiwGXFhODkImiWQRQkv1Jz33bzrTd3i_bzqOD70xDE7nM6IU4fhL46FRcsRynDVKGGSotQaNNpzt94ML5B5aBkqMrqGu6bQPkklduicvXCY5Ed0x38OcsdXW-xFtbHuV42MFTpWNSRD2Po5faJ5ZUarTKEiJZdcsDflysTBVtzolhfXU6N6f1_auHWBpCv8zv9UUxtU1w2Un8-ogiqO33CV31Lss-phMCCGg_zdA_gECvUdc"
+  },
+  {
+   "position": 5,
+   "title": "Shrirampur",
+   "place_id": "ChIJ88FRBUyK3DsRdvdgczPeywU",
+   "data_id": "0x3bdc8a4c0551c1f3:0x5cbde337360f776",
+   "data_cid": "417671703022335862",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c0551c1f3%3A0x5cbde337360f776&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4c0551c1f3%3A0x5cbde337360f776&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6194767,
+    "longitude": 74.6567407
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ88FRBUyK3DsRdvdgczPeywU",
+   "provider_id": "/m/0f6923",
+   "address": "Maharashtra",
+   "country": "India",
+   "website": "http://shrirampurmc.gov.in/",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPMLjqWtd6-0lhTyNGiblaa1FaDpsBlp0mE4sUbrUpbx1wGdcyBjW-xwGizXerU3s3Y3weuG_9SLyWXWUOymTwYQcgiM-bXD9udHPtOsZtR3GHsnuvqll9LqnOzyIz-mE6e70fOuw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/rHAloXicHcTdboIwGADQJ6qU1GhYsgt_6xIcuknA3RgoFTBtKXyttbyhj-DbmOxcnNezMUbDRxCIhkzqrqsFt8AH1inDlZmwTgb1UAAgBsFidddCHvbxrc9MNUNYNCf_TdtSFEW4LdYalkJjuZlCWg6pLh-hoxXzy1uGHo62Y86HlAA5E8ctvUS_sc_yLE28PLnzkdXtHpX5OrLV7mAS-DM_hO5A2XsvRBT3Khn914jkZsbn-JpY9-lCjDFq_mdIvQECwUg_"
+  },
+  {
+   "position": 6,
+   "title": "Famous Bazar",
+   "place_id": "ChIJU_f1qOWL3DsR7mTxCvkLAVk",
+   "data_id": "0x3bdc8be5a8f5f753:0x59010bf90af164ee",
+   "data_cid": "6413420508610651374",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be5a8f5f753%3A0x59010bf90af164ee&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be5a8f5f753%3A0x59010bf90af164ee&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6207809,
+    "longitude": 74.67479039999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJU_f1qOWL3DsR7mTxCvkLAVk",
+   "provider_id": "/g/11gy9mcks6",
+   "rating": 4.1,
+   "reviews": 78,
+   "type": "Discount supermarket",
+   "types": [
+    "Discount supermarket",
+    "Clothes market",
+    "Indian grocery store",
+    "Plastic Wholesaler",
+    "Shopping mall"
+   ],
+   "type_id": "discount_supermarket",
+   "type_ids": [
+    "discount_supermarket",
+    "clothes_market",
+    "indian_grocery_store",
+    "plastic_wholesaler",
+    "shopping_center"
+   ],
+   "address": "Boravke nagar road, Near Atithi colony , near RBNB college, Shirasgaon, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 6:30 pm",
+   "hours": "Open · Closes 6:30 pm",
+   "operating_hours": {
+    "friday": "9:30 am–6:30 pm",
+    "saturday": "9:30 am–6:30 pm",
+    "sunday": "9:30 am–6:30 pm",
+    "monday": "9:30 am–6:30 pm",
+    "tuesday": "9:30 am–6:30 pm",
+    "wednesday": "9:30 am–6:30 pm",
+    "thursday": "9:30 am–6:30 pm"
+   },
+   "phone": "090676 75472",
+   "extensions": [
+    {
+     "from_the_business": [
+      "Identifies as women-owned"
+     ]
+    },
+    {
+     "service_options": [
+      "Delivery",
+      "On-site services"
+     ]
+    },
+    {
+     "highlights": [
+      "Great produce"
+     ]
+    },
+    {
+     "offerings": [
+      "Prepared foods"
+     ]
+    },
+    {
+     "amenities": [
+      "Gender-neutral toilets",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "planning": [
+      "Quick visit"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible seating"
+     ]
+    }
+   ],
+   "service_options": {
+    "delivery": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPUziFqAPJnXwEHhHf1nGbqog7iPr1Iq5R_UjFV_3PWDi8tFTw2a8UanAbEyN2CG5Ij7GGQD2qjSpbfca7Y-TYJnQZp-a4wMmRZpomn9GHL7F3L9CAvgJJ86Av9tz7eznOYG_gZ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/WDL0k3icHcTbToMwGADgJ-o4OQsmXjRslJGp7IAb3JDSsAKBv4VWiLygz-DbmPhdfL8_jTFKv1hW33gbIaXo6y9dT1yCqcFsuBwsMTGtEdcWCWfVD2m2ttFI0gTuyz5u4ocDtBqlwG06OYdxey6zLvosvfS2a30TXReX-RkDUu2_392Qbg8dpvS0c8fuoqoHZzhH1zyBU6EQe1rehnOh5AABjY848o5BSGaRJP4zmQOz4nqFj5yWonhdHNu2UfM_R_AHi6BEZA"
+  }
+ ]
+}

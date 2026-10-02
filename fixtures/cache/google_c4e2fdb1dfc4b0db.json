@@ -1,0 +1,383 @@
+{
+ "_params": {
+  "engine": "google",
+  "q": "site:indiamart.com plastic granules supplier Shrirampur",
+  "location": "Shrirampur, India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf63056838632f6a5d4245",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/JKTfBEfP9EBMa_LskCN0DWypymRDouhoVhHhHafux2U/6abf63056838632f6a5d4245.json",
+  "markdown_endpoint": "https://serpapi.com/searches/JKTfBEfP9EBMa_LskCN0DWypymRDouhoVhHhHafux2U/6abf63056838632f6a5d4245.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/JKTfBEfP9EBMa_LskCN0DWypymRDouhoVhHhHafux2U/6abf63056838632f6a5d4245.json_with_pixel_position",
+  "created_at": "2026-10-02 07:53:41 UTC",
+  "processed_at": "2026-10-02 07:53:41 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&oq=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&uule=w+CAIQICIcU2hyaXJhbXB1cixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/JKTfBEfP9EBMa_LskCN0DWypymRDouhoVhHhHafux2U/6abf63056838632f6a5d4245.html",
+  "total_time_taken": 0.43
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:indiamart.com plastic granules supplier Shrirampur",
+  "location_requested": "Shrirampur, India",
+  "location_used": "Shrirampur,Maharashtra,India",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:indiamart.com plastic granules supplier Shrirampur",
+  "total_results": 311,
+  "time_taken_displayed": 0.22,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Plastic Hdpe Granules Manufacturer from Shrirampur",
+   "link": "https://www.indiamart.com/saptshrungi-plastic/hdpe-granules.html?srsltid=AU7gw4Ui9uo4riZX1LLb2BrQqHU9QjXTiMCC_xmiaMSCC47iBBg8Gw4o",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFRV8KW8JLJJbOIgEI-v6LYVzcJa1lH64YsGfpDmDeawzIa_Do7y_8klLrkEFEFdoc8F6A8Hg4uahX_33NfAKiwZsqyzwhBccZYdQqa2k_D3-QsqiAYvbAi1L8fcgeFUYs4Fv-rUfDBdCV8UVi7BMmdxvOU-gFXUiEhvR4_sedOCqAnMAo9saErMzI_oeADiOtHOJfICOmi7zUjKXq8KZJKTIojseP6iVAeDlbdfPv4DJkac1wx70KPQ&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Saptshrungi Plastic provides you the best range of Hdpe Granules & Other Products in Shrirampur, Maharashtra. Read More. Contact Details. Saptshrungi Plastic.",
+   "snippet_highlighted_words": [
+    "provides you the best range of Hdpe Granules"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Saptshrungi Plastic provides you the best range of Hdpe Granules & Other Products in Shrirampur, Maharashtra. Read More. Contact Details. Saptshrungi Plastic.",
+     "source_info_link": "https://www.indiamart.com/saptshrungi-plastic/hdpe-granules.html?srsltid=AU7gw4Ui9uo4riZX1LLb2BrQqHU9QjXTiMCC_xmiaMSCC47iBBg8Gw4o",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZSVjhLVzhKTEpKYk9JZ0VJLXY2TFlWemNKYTFsSDY0WXNHZnBEbURlYXd6SWFfRG83eV84a2xMcmtFRkVGZG9jOEY2QThIZzR1YWhYXzMzTmZBS2l3WnNxeXp3aEJjY1pZZFFxYTJrX0QzLVFzcWlBWXZiQWkxTDhmY2dlRlVZczRGdi1yVWZEQmRDVjhVVmk3Qk1tZHh2T1UtZ0ZYVWlFaHZSNF9zZWRPQ3FBbk1BbzlzYUVyTXpJX29lQURpT3RIT0pmSUNPbWk3elVqS1hxOEtaSktUSW9qc2VQNmlWQWVEbGJkZlB2NERKa2FjMXd4NzBLUFESBBoCCAAa7gYSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWhEIARINaW5kaWFtYXJ0LmNvbXIAegCCQKIGCAAQABgAIAAqKQoHcGxhc3RpYxVDJ9BAGghwbGFzdGljcxoPcGxhc3RpY2dyYW51bGVzKk8KCGdyYW51bGVzFUxa2EAaBGRhbmEaB2dyYW51bGUaD3BsYXN0aWNncmFudWxlcxoNaXY7cDtncmFudWxlcxoGcG93ZGVyGgdwZWxsZXRzKogBCghzdXBwbGllchUAAAAAGgZkZWFsZXIaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyGgdkZWFsZXJzGgd0cmFkZXJzGgt3aG9sZXNhbGVycypOCgpzaHJpcmFtcHVyFQ7gl0AaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmVuaEN4d2h6R3VXY2FLXzBkaHJSenYyOGZ3alctc0owVjU1aWpla1J1QWtRMXl1dURJd05oNjR4WFB6UVo3dmtPYW9lWVo1OERObW5BVnBwNlZoTWRYbDdQQUtDb2d0Vmp3aDU2b2ZOQm1fLXVvV2xPY1l3a0VlM3hiZ3dtU1M4UUhQemRBS2hOalQtNUdsNVFOMnJQcEI2VUFMVVFBOl5IZHBlIDxiPkdyYW51bGVzPC9iPiAtIDxiPlBsYXN0aWM8L2I-IEhkcGUgPGI-R3JhbnVsZXMgTWFudWZhY3R1cmVyPC9iPiBmcm9tIDxiPlNocmlyYW1wdXI8L2I-QqkBU2FwdHNocnVuZ2kgUGxhc3RpYyA8Yj5wcm92aWRlcyB5b3UgdGhlIGJlc3QgcmFuZ2Ugb2YgSGRwZSBHcmFudWxlczwvYj4gJmFtcDsgT3RoZXIgUHJvZHVjdHMgaW4gU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEuIFJlYWQgTW9yZS4gQ29udGFjdCBEZXRhaWxzLiBTYXB0c2hydW5naSBQbGFzdGljLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZSVjhLVzhKTEpKYk9JZ0VJLXY2TFlWemNKYTFsSDY0WXNHZnBEbURlYXd6SWFfRG83eV84a2xMcmtFRkVGZG9jOEY2QThIZzR1YWhYXzMzTmZBS2l3WnNxeXp3aEJjY1pZZFFxYTJrX0QzLVFzcWlBWXZiQWkxTDhmY2dlRlVZczRGdi1yVWZEQmRDVjhVVmk3Qk1tZHh2T1UtZ0ZYVWlFaHZSNF9zZWRPQ3FBbk1BbzlzYUVyTXpJX29lQURpT3RIT0pmSUNPbWk3elVqS1hxOEtaSktUSW9qc2VQNmlWQWVEbGJkZlB2NERKa2FjMXd4NzBLUFESBBoCCAAa7gYSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWhEIARINaW5kaWFtYXJ0LmNvbXIAegCCQKIGCAAQABgAIAAqKQoHcGxhc3RpYxVDJ9BAGghwbGFzdGljcxoPcGxhc3RpY2dyYW51bGVzKk8KCGdyYW51bGVzFUxa2EAaBGRhbmEaB2dyYW51bGUaD3BsYXN0aWNncmFudWxlcxoNaXY7cDtncmFudWxlcxoGcG93ZGVyGgdwZWxsZXRzKogBCghzdXBwbGllchUAAAAAGgZkZWFsZXIaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyGgdkZWFsZXJzGgd0cmFkZXJzGgt3aG9sZXNhbGVycypOCgpzaHJpcmFtcHVyFQ7gl0AaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmVuaEN4d2h6R3VXY2FLXzBkaHJSenYyOGZ3alctc0owVjU1aWpla1J1QWtRMXl1dURJd05oNjR4WFB6UVo3dmtPYW9lWVo1OERObW5BVnBwNlZoTWRYbDdQQUtDb2d0Vmp3aDU2b2ZOQm1fLXVvV2xPY1l3a0VlM3hiZ3dtU1M4UUhQemRBS2hOalQtNUdsNVFOMnJQcEI2VUFMVVFBOl5IZHBlIDxiPkdyYW51bGVzPC9iPiAtIDxiPlBsYXN0aWM8L2I-IEhkcGUgPGI-R3JhbnVsZXMgTWFudWZhY3R1cmVyPC9iPiBmcm9tIDxiPlNocmlyYW1wdXI8L2I-QqkBU2FwdHNocnVuZ2kgUGxhc3RpYyA8Yj5wcm92aWRlcyB5b3UgdGhlIGJlc3QgcmFuZ2Ugb2YgSGRwZSBHcmFudWxlczwvYj4gJmFtcDsgT3RoZXIgUHJvZHVjdHMgaW4gU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEuIFJlYWQgTW9yZS4gQ29udGFjdCBEZXRhaWxzLiBTYXB0c2hydW5naSBQbGFzdGljLiICEAFIAFgAaAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 2,
+   "title": "Saptshrungi Plastic, Shrirampur",
+   "link": "https://www.indiamart.com/saptshrungi-plastic/?srsltid=AU7gw4W07Bq7IDh-lrpzPcNc-GAwml6O56yL32fS9qpfTVBU0UPb7SrM",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFXfTgNXrF4V1IEg298uXUNOxXprLidBomuH6PlRNyGdNnm4wiwPuDokhkuTzjNEWI1jk41vfqt4itw7O-Av2fjU02LdrrC5FIR5yvP2N9864y1VW-JPJFG1eBLWPAiUWO3twAQidwzYCOzzs4T7_UacrIYOjd-rZBPOwhr_bGyl5Oxh5Qh6XfxD-Zp26JEpUYUW1WI_BmFbPAyywRyYQTTBMrYkQ-Q&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › saptshrungi-plastic",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Plastic Granules Manufacturer from Shrirampur, Maharashtra, India. Contact Seller Call Now+918047663027,4112. Polymers of ethylene,",
+   "snippet_highlighted_words": [
+    "Plastic Granules Manufacturer from Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Plastic Granules Manufacturer from Shrirampur, Maharashtra, India. Contact Seller Call Now+918047663027,4112. Polymers of ethylene,",
+     "source_info_link": "https://www.indiamart.com/saptshrungi-plastic/?srsltid=AU7gw4W07Bq7IDh-lrpzPcNc-GAwml6O56yL32fS9qpfTVBU0UPb7SrM",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZYZlRnTlhyRjRWMUlFZzI5OHVYVU5PeFhwckxpZEJvbXVINlBsUk55R2RObm00d2l3UHVEb2toa3VUempORVdJMWprNDF2ZnF0NGl0dzdPLUF2MmZqVTAyTGRyckM1RklSNXl2UDJOOTg2NHkxVlctSlBKRkcxZUJMV1BBaVVXTzN0d0FRaWR3ellDT3p6czRUN19VYWNySVlPamQtclpCUE93aHJfYkd5bDVPeGg1UWg2WGZ4RC1acDI2SkVwVVlVVzFXSV9CbUZiUEF5eXdSeVlRVFRCTXJZa1EtURIEGgIIABqUBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloRCAESDWluZGlhbWFydC5jb21yAHoAgkDGBQgAEAAYACAAKikKB3BsYXN0aWMVYjzhQBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxUGVMpAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chXi3oNAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZWeWRKaW1hUGp0OHpJTDFfQmFjQTg2M09xbWptT2tzemltbHVFME4xZExIMXg4elo5MmtQRUtRTzVSdlJmN0NxVUtwQk5jNDV1ZDNlRDVSU1lCUXFCMG5nZ0FFZWJuMU52ZFB6M3hJSHBWVTZRSXpMMWJ4UFNTNGtva1RNX2hIcmRyRWJWZzo5U2FwdHNocnVuZ2kgPGI-UGxhc3RpYzwvYj4sIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQooBPGI-UGxhc3RpYyBHcmFudWxlcyBNYW51ZmFjdHVyZXIgZnJvbSBTaHJpcmFtcHVyPC9iPiwgTWFoYXJhc2h0cmEsIEluZGlhLiBDb250YWN0IFNlbGxlciBDYWxsIE5vdys5MTgwNDc2NjMwMjcsNDExMi4gUG9seW1lcnMgb2YgZXRoeWxlbmUsIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZYZlRnTlhyRjRWMUlFZzI5OHVYVU5PeFhwckxpZEJvbXVINlBsUk55R2RObm00d2l3UHVEb2toa3VUempORVdJMWprNDF2ZnF0NGl0dzdPLUF2MmZqVTAyTGRyckM1RklSNXl2UDJOOTg2NHkxVlctSlBKRkcxZUJMV1BBaVVXTzN0d0FRaWR3ellDT3p6czRUN19VYWNySVlPamQtclpCUE93aHJfYkd5bDVPeGg1UWg2WGZ4RC1acDI2SkVwVVlVVzFXSV9CbUZiUEF5eXdSeVlRVFRCTXJZa1EtURIEGgIIABqUBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloRCAESDWluZGlhbWFydC5jb21yAHoAgkDGBQgAEAAYACAAKikKB3BsYXN0aWMVYjzhQBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxUGVMpAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chXi3oNAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZWeWRKaW1hUGp0OHpJTDFfQmFjQTg2M09xbWptT2tzemltbHVFME4xZExIMXg4elo5MmtQRUtRTzVSdlJmN0NxVUtwQk5jNDV1ZDNlRDVSU1lCUXFCMG5nZ0FFZWJuMU52ZFB6M3hJSHBWVTZRSXpMMWJ4UFNTNGtva1RNX2hIcmRyRWJWZzo5U2FwdHNocnVuZ2kgPGI-UGxhc3RpYzwvYj4sIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQooBPGI-UGxhc3RpYyBHcmFudWxlcyBNYW51ZmFjdHVyZXIgZnJvbSBTaHJpcmFtcHVyPC9iPiwgTWFoYXJhc2h0cmEsIEluZGlhLiBDb250YWN0IFNlbGxlciBDYWxsIE5vdys5MTgwNDc2NjMwMjcsNDExMi4gUG9seW1lcnMgb2YgZXRoeWxlbmUsIgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 3,
+   "title": "Arma Enterprises - Ldpe Granules & Natural ...",
+   "link": "https://www.indiamart.com/arma-enterprises-shrirampur/?srsltid=AU7gw4Xw6rrXIbLrtumlHe6UXP-3klyjfmreYbTvrCjO5_1tN7EgYWw7",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFVbxNPHy6fQdYjQAhCmaAIwGLQKSN0qscgiihro_jLh4pAfIK-q7eW48TL0qPdKfmVnO54PAwqtNMXbEjhpbPg-0xpjrA1etFbmxtkKMnELYqCRTG55UoK8ZrYC1uFw9XNt2wWXKYriN6TRNc1bjFoIpw3-7Qqf8otmQiVbTf6D-0xMP_co7oJC6jMqbF16UZ5TLlEPi9gnHIl1hp9x1VMa-kUVIv1IT21ExAoSe&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › arma-enterprises-shrirampur",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "; LDPE Plastic Granules offered by Arma Enterprises from Shrirampur, Maharashtra, India. Call Now+918043879979,7249 ・ ₹ 70/Kilogram ・ ₹ 55/Kilogram",
+   "snippet_highlighted_words": [
+    "LDPE Plastic Granules offered by Arma Enterprises from Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "; LDPE Plastic Granules offered by Arma Enterprises from Shrirampur, Maharashtra, India. Call Now+918043879979,7249 ・ ₹ 70/Kilogram ・ ₹ 55/Kilogram",
+     "source_info_link": "https://www.indiamart.com/arma-enterprises-shrirampur/?srsltid=AU7gw4Xw6rrXIbLrtumlHe6UXP-3klyjfmreYbTvrCjO5_1tN7EgYWw7",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZWYnhOUEh5NmZRZFlqUUFoQ21hQUl3R0xRS1NOMHFzY2dpaWhyb19qTGg0cEFmSUstcTdlVzQ4VEwwcVBkS2ZtVm5PNTRQQXdxdE5NWGJFamhwYlBnLTB4cGpyQTFldEZibXh0a0tNbkVMWXFDUlRHNTVVb0s4WnJZQzF1Rnc5WE50MndXWEtZcmlONlRSTmMxYmpGb0lwdzMtN1FxZjhvdG1RaVZiVGY2RC0weE1QX2NvN29KQzZqTXFiRjE2VVo1VExsRVBpOWduSElsMWhwOXgxVk1hLWtVVkl2MUlUMjFFeEFvU2USBBoCCAAawgYSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA9AUIABAAGAAgACopCgdwbGFzdGljFcNtZj8aCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVyP90QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFXDSFT4aBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIViHI9QBoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWYmZZSk1feVI0TmFFYVdOT1hqRUhVUEVQNzdCUGJpTEpqSldZcV9UN21KbGtBMEVEa1N5TUtNb3FGUDdMRW93NDBPZlBjV1FqNy1mX1FxSFJvNU5CTU9kUGNMclRTZG91R1cxQzJKMVJMbHdVX2J4UjlCNWZZaFluN0VtZEpmQWNFclVFZmtDcDRyU3FvenZzOkVBcm1hIEVudGVycHJpc2VzIC0gTGRwZSA8Yj5HcmFudWxlczwvYj4gJmFtcDsgTmF0dXJhbCAuLi4gLSBJbmRpYU1BUlRCogE7IDxiPkxEUEUgUGxhc3RpYyBHcmFudWxlcyBvZmZlcmVkIGJ5IEFybWEgRW50ZXJwcmlzZXMgZnJvbSBTaHJpcmFtcHVyPC9iPiwgTWFoYXJhc2h0cmEsIEluZGlhLiBDYWxsIE5vdys5MTgwNDM4Nzk5NzksNzI0OSDjg7sg4oK5IDcwL0tpbG9ncmFtIOODuyDigrkgNTUvS2lsb2dyYW0iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZWYnhOUEh5NmZRZFlqUUFoQ21hQUl3R0xRS1NOMHFzY2dpaWhyb19qTGg0cEFmSUstcTdlVzQ4VEwwcVBkS2ZtVm5PNTRQQXdxdE5NWGJFamhwYlBnLTB4cGpyQTFldEZibXh0a0tNbkVMWXFDUlRHNTVVb0s4WnJZQzF1Rnc5WE50MndXWEtZcmlONlRSTmMxYmpGb0lwdzMtN1FxZjhvdG1RaVZiVGY2RC0weE1QX2NvN29KQzZqTXFiRjE2VVo1VExsRVBpOWduSElsMWhwOXgxVk1hLWtVVkl2MUlUMjFFeEFvU2USBBoCCAAawgYSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA9AUIABAAGAAgACopCgdwbGFzdGljFcNtZj8aCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVyP90QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFXDSFT4aBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIViHI9QBoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWYmZZSk1feVI0TmFFYVdOT1hqRUhVUEVQNzdCUGJpTEpqSldZcV9UN21KbGtBMEVEa1N5TUtNb3FGUDdMRW93NDBPZlBjV1FqNy1mX1FxSFJvNU5CTU9kUGNMclRTZG91R1cxQzJKMVJMbHdVX2J4UjlCNWZZaFluN0VtZEpmQWNFclVFZmtDcDRyU3FvenZzOkVBcm1hIEVudGVycHJpc2VzIC0gTGRwZSA8Yj5HcmFudWxlczwvYj4gJmFtcDsgTmF0dXJhbCAuLi4gLSBJbmRpYU1BUlRCogE7IDxiPkxEUEUgUGxhc3RpYyBHcmFudWxlcyBvZmZlcmVkIGJ5IEFybWEgRW50ZXJwcmlzZXMgZnJvbSBTaHJpcmFtcHVyPC9iPiwgTWFoYXJhc2h0cmEsIEluZGlhLiBDYWxsIE5vdys5MTgwNDM4Nzk5NzksNzI0OSDjg7sg4oK5IDcwL0tpbG9ncmFtIOODuyDigrkgNTUvS2lsb2dyYW0iAhABSABYAGgA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 4,
+   "title": "Plastic Granules in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/plastic-granules.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVSFP8uJwXy2DiITvBI5TFFfpaEnM06xPo0_8ebImQetP48jvUGz0t5dEogJHCdXtjJvnmiUwLU3VvRj2u8s38LXSzFRCXiF0F4bXwskMISjMCI5RHFemPogYmGMjZXloFNUMWuAqb9NjfsCQKDDuQPA&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "LDPE Granule · Vaibhav Enterprises ; Blue Granuals · Shubham Polymer Industries ; Plastic Granules · Shri Ganesh Industries ; Green Plastic Granuales · Mayur Plastic ...",
+   "snippet_highlighted_words": [
+    "LDPE Granule"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LDPE Granule · Vaibhav Enterprises ; Blue Granuals · Shubham Polymer Industries ; Plastic Granules · Shri Ganesh Industries ; Green Plastic Granuales · Mayur Plastic ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/plastic-granules.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlNGUDh1SndYeTJEaUlUdkJJNVRGRmZwYUVuTTA2eFBvMF84ZWJJbVFldFA0OGp2VUd6MHQ1ZEVvZ0pIQ2RYdGpKdm5taVV3TFUzVnZSajJ1OHMzOExYU3pGUkNYaUYwRjRiWHdza01JU2pNQ0k1UkhGZW1Qb2dZbUdNalpYbG9GTlVNV3VBcWI5Tmpmc0NRS0REdVFQQRIEGgIIABrgBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAowYIABAAGAAgACopCgdwbGFzdGljFcPUyUAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVRGfGQBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVlWXqPRoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWU0ZQOHVKd1h5MkRpSVR2Qkk1VEZGZnBhRW5NMDZ4UG8wXzhlYkltUWV0UDQ4anZVR3owdDVkRW9nSkhDZFh0akp2bm1pVXdMVTNWdlJqMnU4czM4TFhTekZSQ1hpRjBGNGJYd3NrTUlTak1DSTVSSEZlbVBvZ1ltR01qWlhsb0ZOVU1XdUFxYjlOamZzQ1FLRER1UVBBOj88Yj5QbGFzdGljIEdyYW51bGVzPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEgLSBJbmRpYU1BUlRC0QE8Yj5MRFBFIEdyYW51bGU8L2I-ICZtaWRkb3Q7IFZhaWJoYXYgRW50ZXJwcmlzZXMgOyBCbHVlIEdyYW51YWxzICZtaWRkb3Q7IFNodWJoYW0gUG9seW1lciBJbmR1c3RyaWVzIDsgUGxhc3RpYyBHcmFudWxlcyAmbWlkZG90OyBTaHJpIEdhbmVzaCBJbmR1c3RyaWVzIDsgR3JlZW4gUGxhc3RpYyBHcmFudWFsZXMgJm1pZGRvdDsgTWF5dXIgUGxhc3RpYyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVlNGUDh1SndYeTJEaUlUdkJJNVRGRmZwYUVuTTA2eFBvMF84ZWJJbVFldFA0OGp2VUd6MHQ1ZEVvZ0pIQ2RYdGpKdm5taVV3TFUzVnZSajJ1OHMzOExYU3pGUkNYaUYwRjRiWHdza01JU2pNQ0k1UkhGZW1Qb2dZbUdNalpYbG9GTlVNV3VBcWI5Tmpmc0NRS0REdVFQQRIEGgIIABrgBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAowYIABAAGAAgACopCgdwbGFzdGljFcPUyUAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVRGfGQBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVlWXqPRoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyrAEvZ290bz91cmw9Q0FFU2RRSHJPekFWU0ZQOHVKd1h5MkRpSVR2Qkk1VEZGZnBhRW5NMDZ4UG8wXzhlYkltUWV0UDQ4anZVR3owdDVkRW9nSkhDZFh0akp2bm1pVXdMVTNWdlJqMnU4czM4TFhTekZSQ1hpRjBGNGJYd3NrTUlTak1DSTVSSEZlbVBvZ1ltR01qWlhsb0ZOVU1XdUFxYjlOamZzQ1FLRER1UVBBOj88Yj5QbGFzdGljIEdyYW51bGVzPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEgLSBJbmRpYU1BUlRC0QE8Yj5MRFBFIEdyYW51bGU8L2I-ICZtaWRkb3Q7IFZhaWJoYXYgRW50ZXJwcmlzZXMgOyBCbHVlIEdyYW51YWxzICZtaWRkb3Q7IFNodWJoYW0gUG9seW1lciBJbmR1c3RyaWVzIDsgUGxhc3RpYyBHcmFudWxlcyAmbWlkZG90OyBTaHJpIEdhbmVzaCBJbmR1c3RyaWVzIDsgR3JlZW4gUGxhc3RpYyBHcmFudWFsZXMgJm1pZGRvdDsgTWF5dXIgUGxhc3RpYyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/plastic-granules.html#:~:text=LDPE%20Granule&text=Vaibhav%20Enterprises&text=Blue%20Granuals&text=Shubham%20Polymer%20Industries&text=Plastic%20Granules&text=Shri%20Ganesh%20Industries&text=Green%20Plastic%20Granuales&text=Mayur%20Plastic%20Industries"
+  },
+  {
+   "position": 5,
+   "title": "Ganesh Enterprises - Trader - Wholesaler / Distributor from ...",
+   "link": "https://www.indiamart.com/ganesh-enterprises-shrirampur/profile.html?srsltid=AU7gw4UNsgDbxu6SPBi27-ydk2c8hgYgQineZtd7vxczp8VdMmKd6uK1",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFZpZfj9zp2wA4JjpN6JYllEVtrDybEOvNCnFrQuCouZTQfTZEw356R4KnSa3Q9KxvAP4YurXJ04UvzfdLCmtli1YluHXWldkxdCdQGvxg_S7QIZdzg0inEFjvfwKxo3jWxyV4n5sZBs6QzZdRwm6AJunWAo87qQpCU1nGYeZvjWzCV-oKU07AO5fX1vzRXNX2FtTacf_qPzAl6k6ZgMM9ZK4SHxSMbOXX9rr_thCxcDqldNRGu0ftppv6UkU&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › Ganesh Enterprises",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Ganesh Enterprises, Shrirampur, Maharashtra ・ +917949083440 ・ granules, chippings and powder,",
+   "snippet_highlighted_words": [
+    "Ganesh Enterprises, Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ganesh Enterprises, Shrirampur, Maharashtra ・ +917949083440 ・ granules, chippings and powder,",
+     "source_info_link": "https://www.indiamart.com/ganesh-enterprises-shrirampur/profile.html?srsltid=AU7gw4UNsgDbxu6SPBi27-ydk2c8hgYgQineZtd7vxczp8VdMmKd6uK1",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZacFpmajl6cDJ3QTRKanBONkpZbGxFVnRyRHliRU92TkNuRnJRdUNvdVpUUWZUWkV3MzU2UjRLblNhM1E5S3h2QVA0WXVyWEowNFV2emZkTENtdGxpMVlsdUhYV2xka3hkQ2RRR3Z4Z19TN1FJWmR6ZzBpbkVGanZmd0t4bzNqV3h5VjRuNXNaQnM2UXpaZFJ3bTZBSnVuV0FvODdxUXBDVTFuR1llWnZqV3pDVi1vS1UwN0FPNWZYMXZ6UlhOWDJGdFRhY2ZfcVB6QWw2azZaZ01NOVpLNFNIeFNNYk9YWDlycl90aEN4Y0RxbGROUkd1MGZ0cHB2NlVrVRIEGgIIABqFBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJAuQUIABAAGAAgACopCgdwbGFzdGljFQAAAAAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMV7s5XPRoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFRWuJj8aBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVQkBwQBoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWRTg5enU4VFhSQmQ2WHpOYUR5aHgzVVdPY0xXMUFWcm50WUdtbHZqVm5ISUF3TmloSVZRNmNuY2I4WUVRZldmN3oxMWlYc2xzeEMxYk9Ca3ZZLVlKRWl2MFZvcmdHUmdCZHFLWmZaV0lRWklsd0ZDekthU0dLbmpZZXM5d2Z0Q21uNTFVSmVKenVFVm9ucDhjV1djWFFmZzBmczBldFBGLXdNczoyR2FuZXNoIEVudGVycHJpc2VzIC0gVHJhZGVyIHwgQWJvdXQgVXMgLSBJbmRpYU1BUlRCaDxiPkdhbmVzaCBFbnRlcnByaXNlcywgU2hyaXJhbXB1cjwvYj4sIE1haGFyYXNodHJhIOODuyArOTE3OTQ5MDgzNDQwIOODuyBncmFudWxlcywgY2hpcHBpbmdzIGFuZCBwb3dkZXIsIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZacFpmajl6cDJ3QTRKanBONkpZbGxFVnRyRHliRU92TkNuRnJRdUNvdVpUUWZUWkV3MzU2UjRLblNhM1E5S3h2QVA0WXVyWEowNFV2emZkTENtdGxpMVlsdUhYV2xka3hkQ2RRR3Z4Z19TN1FJWmR6ZzBpbkVGanZmd0t4bzNqV3h5VjRuNXNaQnM2UXpaZFJ3bTZBSnVuV0FvODdxUXBDVTFuR1llWnZqV3pDVi1vS1UwN0FPNWZYMXZ6UlhOWDJGdFRhY2ZfcVB6QWw2azZaZ01NOVpLNFNIeFNNYk9YWDlycl90aEN4Y0RxbGROUkd1MGZ0cHB2NlVrVRIEGgIIABqFBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJAuQUIABAAGAAgACopCgdwbGFzdGljFQAAAAAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMV7s5XPRoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFRWuJj8aBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVQkBwQBoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyuQEvZ290bz91cmw9Q0FFU2Z3SHJPekFWRTg5enU4VFhSQmQ2WHpOYUR5aHgzVVdPY0xXMUFWcm50WUdtbHZqVm5ISUF3TmloSVZRNmNuY2I4WUVRZldmN3oxMWlYc2xzeEMxYk9Ca3ZZLVlKRWl2MFZvcmdHUmdCZHFLWmZaV0lRWklsd0ZDekthU0dLbmpZZXM5d2Z0Q21uNTFVSmVKenVFVm9ucDhjV1djWFFmZzBmczBldFBGLXdNczoyR2FuZXNoIEVudGVycHJpc2VzIC0gVHJhZGVyIHwgQWJvdXQgVXMgLSBJbmRpYU1BUlRCaDxiPkdhbmVzaCBFbnRlcnByaXNlcywgU2hyaXJhbXB1cjwvYj4sIE1haGFyYXNodHJhIOODuyArOTE3OTQ5MDgzNDQwIOODuyBncmFudWxlcywgY2hpcHBpbmdzIGFuZCBwb3dkZXIsIgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 6,
+   "title": "LD Granules Manufacturers in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/ld-granules.html?biz=10",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVZwjgkth54-o6OIAY9hP5yP34YANGv6yVD9dT7rVyeKff2VKga3r7wFz0DKUv14G_psAPjgSAME3HW14tYAuL1RIanF2Xp7IsxMPWypuIhZRofU-fjUws2pngSSzxhr9x68S-8Efq_fJ45lvpqEInv_g5&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Find here LD Granules, Ld Plastic manufacturers & OEM manufacturers in Ahilyanagar ... Shrirampur•10 yrs. Get Best Price. Call Now. LDPE Granule.",
+   "snippet_highlighted_words": [
+    "Granules",
+    "Plastic manufacturers",
+    "manufacturers",
+    "Shrirampur",
+    "Granule"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find here LD Granules, Ld Plastic manufacturers & OEM manufacturers in Ahilyanagar ... Shrirampur•10 yrs. Get Best Price. Call Now. LDPE Granule.",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ld-granules.html?biz=10",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlp3amdrdGg1NC1vNk9JQVk5aFA1eVAzNFlBTkd2NnlWRDlkVDdyVnllS2ZmMlZLZ2Ezcjd3RnowREtVdjE0R19wc0FQamdTQU1FM0hXMTR0WUF1TDFSSWFuRjJYcDdJc3hNUFd5cHVJaFpSb2ZVLWZqVXdzMnBuZ1NTenhocjl4NjhTLThFZnFfZko0NWx2cHFFSW52X2c1EgQaAggAGsUGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAigYIABAAGAAgACopCgdwbGFzdGljFVBlQEAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMV1fO4QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVl2DGPhoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWWndqZ2t0aDU0LW82T0lBWTloUDV5UDM0WUFOR3Y2eVZEOWRUN3JWeWVLZmYyVktnYTNyN3dGejBES1V2MTRHX3BzQVBqZ1NBTUUzSFcxNHRZQXVMMVJJYW5GMlhwN0lzeE1QV3lwdUloWlJvZlUtZmpVd3MycG5nU1N6eGhyOXg2OFMtOEVmcV9mSjQ1bHZwcUVJbnZfZzU6O0xEIDxiPkdyYW51bGVzIE1hbnVmYWN0dXJlcnM8L2I-IGluIEFoaWx5YW5hZ2FyIC0gSW5kaWFNQVJUQroBRmluZCBoZXJlIExEIDxiPkdyYW51bGVzPC9iPiwgTGQgPGI-UGxhc3RpYyBtYW51ZmFjdHVyZXJzPC9iPiAmYW1wOyBPRU0gPGI-bWFudWZhY3R1cmVyczwvYj4gaW4gQWhpbHlhbmFnYXIgLi4uIDxiPlNocmlyYW1wdXI8L2I-4oCiMTAgeXJzLiBHZXQgQmVzdCBQcmljZS4gQ2FsbCBOb3cuIExEUEUgPGI-R3JhbnVsZTwvYj4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVlp3amdrdGg1NC1vNk9JQVk5aFA1eVAzNFlBTkd2NnlWRDlkVDdyVnllS2ZmMlZLZ2Ezcjd3RnowREtVdjE0R19wc0FQamdTQU1FM0hXMTR0WUF1TDFSSWFuRjJYcDdJc3hNUFd5cHVJaFpSb2ZVLWZqVXdzMnBuZ1NTenhocjl4NjhTLThFZnFfZko0NWx2cHFFSW52X2c1EgQaAggAGsUGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAigYIABAAGAAgACopCgdwbGFzdGljFVBlQEAaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMV1fO4QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVl2DGPhoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWWndqZ2t0aDU0LW82T0lBWTloUDV5UDM0WUFOR3Y2eVZEOWRUN3JWeWVLZmYyVktnYTNyN3dGejBES1V2MTRHX3BzQVBqZ1NBTUUzSFcxNHRZQXVMMVJJYW5GMlhwN0lzeE1QV3lwdUloWlJvZlUtZmpVd3MycG5nU1N6eGhyOXg2OFMtOEVmcV9mSjQ1bHZwcUVJbnZfZzU6O0xEIDxiPkdyYW51bGVzIE1hbnVmYWN0dXJlcnM8L2I-IGluIEFoaWx5YW5hZ2FyIC0gSW5kaWFNQVJUQroBRmluZCBoZXJlIExEIDxiPkdyYW51bGVzPC9iPiwgTGQgPGI-UGxhc3RpYyBtYW51ZmFjdHVyZXJzPC9iPiAmYW1wOyBPRU0gPGI-bWFudWZhY3R1cmVyczwvYj4gaW4gQWhpbHlhbmFnYXIgLi4uIDxiPlNocmlyYW1wdXI8L2I-4oCiMTAgeXJzLiBHZXQgQmVzdCBQcmljZS4gQ2FsbCBOb3cuIExEUEUgPGI-R3JhbnVsZTwvYj4uIgIQAUgAWABoAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/ld-granules.html?biz=10#:~:text=Shrirampur%E2%80%A210%20yrs,LDPE%20Granule"
+  },
+  {
+   "position": 7,
+   "title": "Bagayatdar Milking System, Shrirampur",
+   "link": "https://www.indiamart.com/bagayatdarmilkingsystem/?srsltid=AU7gw4WHyi83TwS0DD14cHk8Y4j6lTD5ewiugvC720nRZYzhuO2Nf8ZI",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrgEB6zswFSyt1PB_myHS4sWl_K7tLje0o2hal_T2dYowKFpEkI9FP5xg0zUoWpnt93sdwrPBMHxQXatLtrtjgk4bxGZa3Pwz5ba1aahsKM5EVB4G7ZjBtc56EhW2skimgP4nw_8a-eVpuHh7ZLscQObvdOQrsMhme06Xsok8XXKvOHMxIeWMoGPs1u46n7469TER4aXFOgPmiPQPbvyS-mR7KSjZr3YHIugiYb6B4xc&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › bagayatdarmilkingsystem",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Wholesaler / Distributor from Shrirampur, Maharashtra, India. Call Now+918043801550,5414. Material: Plastic Melasty 240cc Claw. Granules Grade Standard:",
+   "snippet_highlighted_words": [
+    "Wholesaler / Distributor from Shrirampur"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.6,
+      "reviews": 5
+     },
+     "extensions": [
+      "3.6(5)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Wholesaler / Distributor from Shrirampur, Maharashtra, India. Call Now+918043801550,5414. Material: Plastic Melasty 240cc Claw. Granules Grade Standard:",
+     "source_info_link": "https://www.indiamart.com/bagayatdarmilkingsystem/?srsltid=AU7gw4WHyi83TwS0DD14cHk8Y4j6lTD5ewiugvC720nRZYzhuO2Nf8ZI",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTeXQxUEJfbXlIUzRzV2xfSzd0TGplMG8yaGFsX1QyZFlvd0tGcEVrSTlGUDV4ZzB6VW9XcG50OTNzZHdyUEJNSHhRWGF0THRydGpnazRieEdaYTNQd3o1YmExYWFoc0tNNUVWQjRHN1pqQnRjNTZFaFcyc2tpbWdQNG53XzhhLWVWcHVIaDdaTHNjUU9idmRPUXJzTWhtZTA2WHNvazhYWEt2T0hNeEllV01vR1BzMXU0Nm43NDY5VEVSNGFYRk9nUG1pUFFQYnZ5Uy1tUjdLU2pacjNZSEl1Z2lZYjZCNHhjEgQaAggAGq0GEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWhEIARINaW5kaWFtYXJ0LmNvbXIAegCCQN8FCAAQABgAIAAqKQoHcGxhc3RpYxWai3g-GghwbGFzdGljcxoPcGxhc3RpY2dyYW51bGVzKk8KCGdyYW51bGVzFbuj9T0aBGRhbmEaB2dyYW51bGUaD3BsYXN0aWNncmFudWxlcxoNaXY7cDtncmFudWxlcxoGcG93ZGVyGgdwZWxsZXRzKogBCghzdXBwbGllchXhfSM-GgZkZWFsZXIaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyGgdkZWFsZXJzGgd0cmFkZXJzGgt3aG9sZXNhbGVycypOCgpzaHJpcmFtcHVyFVXZHEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVm9SMzliQk93ZmpUYkpycGtEaVJiTGkxNGN6ZnkyUE52WmNjdXBYemNOWWx2dXR4RWlyekFMTWtCRU5tQ0FQcGxlY1dBdmN2SXZNUmI1a3BTeFlLcG5GeGV2OERWNFppWDV6cGpja25FRUxHb3JMWlBWZjRNTnJFcFZvMkxTY2c5WExwTE0yQzg5QXc6OEJhZ2F5YXRkYXIgTWlsa2luZyBTeXN0ZW0sIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQp8BPGI-V2hvbGVzYWxlciAvIERpc3RyaWJ1dG9yIGZyb20gU2hyaXJhbXB1cjwvYj4sIE1haGFyYXNodHJhLCBJbmRpYS4gQ2FsbCBOb3crOTE4MDQzODAxNTUwLDU0MTQuIE1hdGVyaWFsOiBQbGFzdGljIE1lbGFzdHkgMjQwY2MgQ2xhdy4gR3JhbnVsZXMgR3JhZGUgU3RhbmRhcmQ6IgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvkBL2dvdG8_dXJsPUNBRVNyZ0VCNnpzd0ZTeXQxUEJfbXlIUzRzV2xfSzd0TGplMG8yaGFsX1QyZFlvd0tGcEVrSTlGUDV4ZzB6VW9XcG50OTNzZHdyUEJNSHhRWGF0THRydGpnazRieEdaYTNQd3o1YmExYWFoc0tNNUVWQjRHN1pqQnRjNTZFaFcyc2tpbWdQNG53XzhhLWVWcHVIaDdaTHNjUU9idmRPUXJzTWhtZTA2WHNvazhYWEt2T0hNeEllV01vR1BzMXU0Nm43NDY5VEVSNGFYRk9nUG1pUFFQYnZ5Uy1tUjdLU2pacjNZSEl1Z2lZYjZCNHhjEgQaAggAGq0GEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWhEIARINaW5kaWFtYXJ0LmNvbXIAegCCQN8FCAAQABgAIAAqKQoHcGxhc3RpYxWai3g-GghwbGFzdGljcxoPcGxhc3RpY2dyYW51bGVzKk8KCGdyYW51bGVzFbuj9T0aBGRhbmEaB2dyYW51bGUaD3BsYXN0aWNncmFudWxlcxoNaXY7cDtncmFudWxlcxoGcG93ZGVyGgdwZWxsZXRzKogBCghzdXBwbGllchXhfSM-GgZkZWFsZXIaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyGgdkZWFsZXJzGgd0cmFkZXJzGgt3aG9sZXNhbGVycypOCgpzaHJpcmFtcHVyFVXZHEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVm9SMzliQk93ZmpUYkpycGtEaVJiTGkxNGN6ZnkyUE52WmNjdXBYemNOWWx2dXR4RWlyekFMTWtCRU5tQ0FQcGxlY1dBdmN2SXZNUmI1a3BTeFlLcG5GeGV2OERWNFppWDV6cGpja25FRUxHb3JMWlBWZjRNTnJFcFZvMkxTY2c5WExwTE0yQzg5QXc6OEJhZ2F5YXRkYXIgTWlsa2luZyBTeXN0ZW0sIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQp8BPGI-V2hvbGVzYWxlciAvIERpc3RyaWJ1dG9yIGZyb20gU2hyaXJhbXB1cjwvYj4sIE1haGFyYXNodHJhLCBJbmRpYS4gQ2FsbCBOb3crOTE4MDQzODAxNTUwLDU0MTQuIE1hdGVyaWFsOiBQbGFzdGljIE1lbGFzdHkgMjQwY2MgQ2xhdy4gR3JhbnVsZXMgR3JhZGUgU3RhbmRhcmQ6IgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 8,
+   "title": "HDPE Granules in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/hdpe-granules.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVMpaWHcADZ2mJjtLHDpOiARm_iLeUOXEMH0X0sWYmdGe0OPTh_njlUOEVcdfpMCKtRTLw7m0zJPVfD8AsNMAHrVCfmOD9ErZS6cIVNVrOYT5zJZeQ-qRPuY3CuD_WUi1AjqzUON9H3omOQaSlYA&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Black HDPE Granules, For Pipes, Packaging Size: 25 Kg. ₹ 60 · Usage/Application: Pipes; Color: Black; Material: HDPE Plastic; Packaging Size: 25 Kg ; HDPE ...",
+   "snippet_highlighted_words": [
+    "Black HDPE Granules, For Pipes, Packaging Size: 25 Kg"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Black HDPE Granules, For Pipes, Packaging Size: 25 Kg. ₹ 60 · Usage/Application: Pipes; Color: Black; Material: HDPE Plastic; Packaging Size: 25 Kg ; HDPE ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/hdpe-granules.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVk1wYVdIY0FEWjJtSmp0TEhEcE9pQVJtX2lMZVVPWEVNSDBYMHNXWW1kR2UwT1BUaF9uamxVT0VWY2RmcE1DS3RSVEx3N20wekpQVmZEOEFzTk1BSHJWQ2ZtT0Q5RXJaUzZjSVZOVnJPWVQ1ekpaZVEtcVJQdVkzQ3VEX1dVaTFBanF6VU9OOUgzb21PUWFTbFlBEgQaAggAGrsGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkD-BQgAEAAYACAAKikKB3BsYXN0aWMVQzo8QBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxU0ubZAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chUplv49GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZNcGFXSGNBRFoybUpqdExIRHBPaUFSbV9pTGVVT1hFTUgwWDBzV1ltZEdlME9QVGhfbmpsVU9FVmNkZnBNQ0t0UlRMdzdtMHpKUFZmRDhBc05NQUhyVkNmbU9EOUVyWlM2Y0lWTlZyT1lUNXpKWmVRLXFSUHVZM0N1RF9XVWkxQWpxelVPTjlIM29tT1FhU2xZQTo8SERQRSA8Yj5HcmFudWxlczwvYj4gaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhIC0gSW5kaWFNQVJUQrMBPGI-QmxhY2sgSERQRSBHcmFudWxlcywgRm9yIFBpcGVzLCBQYWNrYWdpbmcgU2l6ZTogMjUgS2c8L2I-LiDigrkgNjAgJm1pZGRvdDsgVXNhZ2UvQXBwbGljYXRpb246IFBpcGVzOyBDb2xvcjogQmxhY2s7IE1hdGVyaWFsOiBIRFBFIFBsYXN0aWM7IFBhY2thZ2luZyBTaXplOiAyNSBLZyA7IEhEUEUmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVk1wYVdIY0FEWjJtSmp0TEhEcE9pQVJtX2lMZVVPWEVNSDBYMHNXWW1kR2UwT1BUaF9uamxVT0VWY2RmcE1DS3RSVEx3N20wekpQVmZEOEFzTk1BSHJWQ2ZtT0Q5RXJaUzZjSVZOVnJPWVQ1ekpaZVEtcVJQdVkzQ3VEX1dVaTFBanF6VU9OOUgzb21PUWFTbFlBEgQaAggAGrsGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkD-BQgAEAAYACAAKikKB3BsYXN0aWMVQzo8QBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxU0ubZAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chUplv49GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZNcGFXSGNBRFoybUpqdExIRHBPaUFSbV9pTGVVT1hFTUgwWDBzV1ltZEdlME9QVGhfbmpsVU9FVmNkZnBNQ0t0UlRMdzdtMHpKUFZmRDhBc05NQUhyVkNmbU9EOUVyWlM2Y0lWTlZyT1lUNXpKWmVRLXFSUHVZM0N1RF9XVWkxQWpxelVPTjlIM29tT1FhU2xZQTo8SERQRSA8Yj5HcmFudWxlczwvYj4gaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhIC0gSW5kaWFNQVJUQrMBPGI-QmxhY2sgSERQRSBHcmFudWxlcywgRm9yIFBpcGVzLCBQYWNrYWdpbmcgU2l6ZTogMjUgS2c8L2I-LiDigrkgNjAgJm1pZGRvdDsgVXNhZ2UvQXBwbGljYXRpb246IFBpcGVzOyBDb2xvcjogQmxhY2s7IE1hdGVyaWFsOiBIRFBFIFBsYXN0aWM7IFBhY2thZ2luZyBTaXplOiAyNSBLZyA7IEhEUEUmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/hdpe-granules.html#:~:text=Black%20HDPE%20Granules%2C%20For%20Pipes%2C,%E2%82%B9%2060%2FKg&text=Usage%2FApplication%3A%20Pipes,Packaging%20Size%3A%2025%20Kg&text=HDPE%20Granules"
+  },
+  {
+   "position": 9,
+   "title": "LDPE Granule in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/ldpe-granule.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVuiA_oBxClFGy7Ap3WVlnZ39yjy5lDAtuvciOUHKBQWRUSStSsorKbWqLla0LRndl8O1MS8TjFtfXzgHya_2fl8RkO7AD0xxvLI-QUDsqkg5Zt5wD8wVsEcdt46MoCjzRZdcjVbUvZO6d0jj8&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Business listings of LDPE Granule, LDPE Polymer manufacturers, suppliers and exporters in Ahilyanagar, Maharashtra. Packaging Industries Shrirampur•11 yrs. ...",
+   "snippet_highlighted_words": [
+    "LDPE Granule, LDPE Polymer manufacturers, suppliers and exporters"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Business listings of LDPE Granule, LDPE Polymer manufacturers, suppliers and exporters in Ahilyanagar, Maharashtra. Packaging Industries Shrirampur•11 yrs.  ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ldpe-granule.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnVpQV9vQnhDbEZHeTdBcDNXVmxuWjM5eWp5NWxEQXR1dmNpT1VIS0JRV1JVU1N0U3NvcktiV3FMbGEwTFJuZGw4TzFNUzhUakZ0Zlh6Z0h5YV8yZmw4UmtPN0FEMHh4dkxJLVFVRHNxa2c1WnQ1d0Q4d1ZzRWNkdDQ2TW9DanpSWmRjalZiVXZaTzZkMGpqOBIEGgIIABqzBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA9gUIABAAGAAgACopCgdwbGFzdGljFcTaD0AaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVHwV9QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVPd7yPhoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWdWlBX29CeENsRkd5N0FwM1dWbG5aMzl5ank1bERBdHV2Y2lPVUhLQlFXUlVTU3RTc29yS2JXcUxsYTBMUm5kbDhPMU1TOFRqRnRmWHpnSHlhXzJmbDhSa083QUQweHh2TEktUVVEc3FrZzVadDV3RDh3VnNFY2R0NDZNb0NqelJaZGNqVmJVdlpPNmQwamo4OjtMRFBFIDxiPkdyYW51bGU8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKuAUJ1c2luZXNzIGxpc3RpbmdzIG9mIDxiPkxEUEUgR3JhbnVsZSwgTERQRSBQb2x5bWVyIG1hbnVmYWN0dXJlcnMsIHN1cHBsaWVycyBhbmQgZXhwb3J0ZXJzPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEuIFBhY2thZ2luZyBJbmR1c3RyaWVzIFNocmlyYW1wdXLigKIxMSB5cnMuICZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnVpQV9vQnhDbEZHeTdBcDNXVmxuWjM5eWp5NWxEQXR1dmNpT1VIS0JRV1JVU1N0U3NvcktiV3FMbGEwTFJuZGw4TzFNUzhUakZ0Zlh6Z0h5YV8yZmw4UmtPN0FEMHh4dkxJLVFVRHNxa2c1WnQ1d0Q4d1ZzRWNkdDQ2TW9DanpSWmRjalZiVXZaTzZkMGpqOBIEGgIIABqzBhICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA9gUIABAAGAAgACopCgdwbGFzdGljFcTaD0AaCHBsYXN0aWNzGg9wbGFzdGljZ3JhbnVsZXMqTwoIZ3JhbnVsZXMVHwV9QBoEZGFuYRoHZ3JhbnVsZRoPcGxhc3RpY2dyYW51bGVzGg1pdjtwO2dyYW51bGVzGgZwb3dkZXIaB3BlbGxldHMqiAEKCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIaB2RlYWxlcnMaB3RyYWRlcnMaC3dob2xlc2FsZXJzKk4KCnNocmlyYW1wdXIVPd7yPhoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWdWlBX29CeENsRkd5N0FwM1dWbG5aMzl5ank1bERBdHV2Y2lPVUhLQlFXUlVTU3RTc29yS2JXcUxsYTBMUm5kbDhPMU1TOFRqRnRmWHpnSHlhXzJmbDhSa083QUQweHh2TEktUVVEc3FrZzVadDV3RDh3VnNFY2R0NDZNb0NqelJaZGNqVmJVdlpPNmQwamo4OjtMRFBFIDxiPkdyYW51bGU8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKuAUJ1c2luZXNzIGxpc3RpbmdzIG9mIDxiPkxEUEUgR3JhbnVsZSwgTERQRSBQb2x5bWVyIG1hbnVmYWN0dXJlcnMsIHN1cHBsaWVycyBhbmQgZXhwb3J0ZXJzPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEuIFBhY2thZ2luZyBJbmR1c3RyaWVzIFNocmlyYW1wdXLigKIxMSB5cnMuICZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 10,
+   "title": "LD Granules in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/ld-granules.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVvi3dPEOBKJKXhtl57ZNSmZP2jHcMCqqpCRElaU6JeV8OqyYLfG3MPvQ3OpK7BhVD-cdnBuZOx_0W8sGpeNLoGqqrlUnGiReHAxDZSurpweiR8LVfSYSWdGeVnB6Q_pR3VwlqbDvYFf-KA-A&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Sufee Plastic Traders. Jamkhed•9 yrs. 3.7(11). Get Best PriceCall Now. LDPE Granules. ₹ 55/Kilogram. LDPE Granules. Lal Industries. Shrirampur•6 yrs.",
+   "snippet_highlighted_words": [
+    "LDPE Granules"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sufee Plastic Traders. Jamkhed•9 yrs. 3.7(11). Get Best PriceCall Now. LDPE Granules. ₹ 55/Kilogram. LDPE Granules. Lal Industries. Shrirampur•6 yrs.",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ld-granules.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnZpM2RQRU9CS0pLWGh0bDU3Wk5TbVpQMmpIY01DcXFwQ1JFbGFVNkplVjhPcXlZTGZHM01QdlEzT3BLN0JoVkQtY2RuQnVaT3hfMFc4c0dwZU5Mb0dxcXJsVW5HaVJlSEF4RFpTdXJwd2VpUjhMVmZTWVNXZEdlVm5CNlFfcFIzVndscWJEdllGZi1LQS1BEgQaAggAGqUGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDoBQgAEAAYACAAKikKB3BsYXN0aWMV1K2EQBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxUS8KBAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chWJUFU-GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZ2aTNkUEVPQktKS1hodGw1N1pOU21aUDJqSGNNQ3FxcENSRWxhVTZKZVY4T3F5WUxmRzNNUHZRM09wSzdCaFZELWNkbkJ1Wk94XzBXOHNHcGVOTG9HcXFybFVuR2lSZUhBeERaU3VycHdlaVI4TFZmU1lTV2RHZVZuQjZRX3BSM1Z3bHFiRHZZRmYtS0EtQTo6TEQgPGI-R3JhbnVsZXM8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKiAVN1ZmVlIFBsYXN0aWMgVHJhZGVycy4gSmFta2hlZOKAojkgeXJzLiAzLjcoMTEpLiBHZXQgQmVzdCBQcmljZUNhbGwgTm93LiA8Yj5MRFBFIEdyYW51bGVzPC9iPi4g4oK5IDU1L0tpbG9ncmFtLiBMRFBFIEdyYW51bGVzLiBMYWwgSW5kdXN0cmllcy4gU2hyaXJhbXB1cuKAojYgeXJzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVnZpM2RQRU9CS0pLWGh0bDU3Wk5TbVpQMmpIY01DcXFwQ1JFbGFVNkplVjhPcXlZTGZHM01QdlEzT3BLN0JoVkQtY2RuQnVaT3hfMFc4c0dwZU5Mb0dxcXJsVW5HaVJlSEF4RFpTdXJwd2VpUjhMVmZTWVNXZEdlVm5CNlFfcFIzVndscWJEdllGZi1LQS1BEgQaAggAGqUGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDoBQgAEAAYACAAKikKB3BsYXN0aWMV1K2EQBoIcGxhc3RpY3MaD3BsYXN0aWNncmFudWxlcypPCghncmFudWxlcxUS8KBAGgRkYW5hGgdncmFudWxlGg9wbGFzdGljZ3JhbnVsZXMaDWl2O3A7Z3JhbnVsZXMaBnBvd2RlchoHcGVsbGV0cyqIAQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllchoHZGVhbGVycxoHdHJhZGVycxoLd2hvbGVzYWxlcnMqTgoKc2hyaXJhbXB1chWJUFU-GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZ2aTNkUEVPQktKS1hodGw1N1pOU21aUDJqSGNNQ3FxcENSRWxhVTZKZVY4T3F5WUxmRzNNUHZRM09wSzdCaFZELWNkbkJ1Wk94XzBXOHNHcGVOTG9HcXFybFVuR2lSZUhBeERaU3VycHdlaVI4TFZmU1lTV2RHZVZuQjZRX3BSM1Z3bHFiRHZZRmYtS0EtQTo6TEQgPGI-R3JhbnVsZXM8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKiAVN1ZmVlIFBsYXN0aWMgVHJhZGVycy4gSmFta2hlZOKAojkgeXJzLiAzLjcoMTEpLiBHZXQgQmVzdCBQcmljZUNhbGwgTm93LiA8Yj5MRFBFIEdyYW51bGVzPC9iPi4g4oK5IDU1L0tpbG9ncmFtLiBMRFBFIEdyYW51bGVzLiBMYWwgSW5kdXN0cmllcy4gU2hyaXJhbXB1cuKAojYgeXJzLiICEAFIAFgAaAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/ld-granules.html#:~:text=Sufee%20Plastic%20Traders,Shrirampur%E2%80%A26%20yrs"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Wholesale plastic granules supplier shrirampur",
+   "link": "https://www.google.com/search?sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&q=Wholesale+plastic+granules+supplier+shrirampur&sa=X&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=Wholesale+plastic+granules+supplier+shrirampur"
+  },
+  {
+   "block_position": 1,
+   "query": "Hdpe plastic granules supplier shrirampur",
+   "link": "https://www.google.com/search?sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&q=Hdpe+plastic+granules+supplier+shrirampur&sa=X&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=Hdpe+plastic+granules+supplier+shrirampur"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=10&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8NMDegQIThAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=10&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAE",
+   "3": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=20&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAG",
+   "4": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=30&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAI",
+   "5": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=40&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAK",
+   "6": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=50&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAM",
+   "7": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=60&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAO",
+   "8": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=70&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAQ",
+   "9": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=80&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAS",
+   "10": "https://www.google.com/search?q=site:indiamart.com+plastic+granules+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnukeviiZ6jsunq1dQ9rjLw6szNkiQ:1790927621634&ei=BWO_aranJujYwbkPnIL9kA4&start=90&sa=N&sstk=AS6-VmK3J4fpGJf6Ung56qyfVLg-6orczKKapD3fPt5kWdh_9lSmxQyYh3YZLvvxwfDg5DDG8gp42oGIIejbmPpZcsQiP6CpDwRcqw&ved=2ahUKEwj2vdKl7ZqXAxVobDABHRxBH-IQ8tMDegQIThAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+plastic+granules+supplier+Shrirampur&start=90"
+  }
+ }
+}

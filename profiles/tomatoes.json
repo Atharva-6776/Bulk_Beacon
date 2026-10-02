@@ -1,0 +1,29 @@
+{
+  "id": "tomatoes",
+  "name": "Tomatoes (fresh produce)",
+  "validated": false,
+  "maps_queries": [
+    "tomato wholesale {city}",
+    "vegetable commission agent {city}",
+    "APMC mandi {city}"
+  ],
+  "marketplace_queries": [
+    "tomato wholesale supplier {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "tomato 1 kg",
+  "logistics_query": "mini truck rental {city}",
+  "units": [
+    "kg",
+    "ton",
+    "crate"
+  ],
+  "urgency_weight": 0.9,
+  "rfq_fields": [
+    "variety",
+    "grade",
+    "freshness",
+    "packing (crate/bag)"
+  ],
+  "price_reference": "mandi"
+}

@@ -1,0 +1,540 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "mini truck rental Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf634a59eb37a3dd656a79",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/MC9YlUx2TqfqOetGxdx92a4G9ZK2LIhW9JO2RiDVEic/6abf634a59eb37a3dd656a79.json",
+  "markdown_endpoint": "https://serpapi.com/searches/MC9YlUx2TqfqOetGxdx92a4G9ZK2LIhW9JO2RiDVEic/6abf634a59eb37a3dd656a79.md",
+  "created_at": "2026-10-02 07:54:50 UTC",
+  "processed_at": "2026-10-02 07:54:50 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/mini+truck+rental+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/MC9YlUx2TqfqOetGxdx92a4G9ZK2LIhW9JO2RiDVEic/6abf634a59eb37a3dd656a79.html",
+  "prettify_html_file": "https://serpapi.com/searches/MC9YlUx2TqfqOetGxdx92a4G9ZK2LIhW9JO2RiDVEic/6abf634a59eb37a3dd656a79.prettify",
+  "total_time_taken": 0.53
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "mini truck rental Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "mini truck rental Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Maharashtra transport",
+   "place_id": "ChIJ85CUOwCL3DsRpU3mjm0Y7cw",
+   "data_id": "0x3bdc8b003b9490f3:0xcced186d8ee64da5",
+   "data_cid": "14766485612045684133",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003b9490f3%3A0xcced186d8ee64da5&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003b9490f3%3A0xcced186d8ee64da5&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6200071,
+    "longitude": 74.65502889999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ85CUOwCL3DsRpU3mjm0Y7cw",
+   "provider_id": "/g/11yzqm1y51",
+   "rating": 5,
+   "reviews": 10,
+   "unclaimed_listing": true,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "type_id": "transportation_service",
+   "type_ids": [
+    "transportation_service"
+   ],
+   "address": "JMC4+222, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "user_review": "\"Best service for transportation 🔥\"",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOrk_y9SRB9SjGUqm4t3_FI7VOSAXsN6ruN0pn0IX9AjsHu5AsYzttQFmXIwj-s4usvW8sxCuKEDh9-ulvwyYkcssb3ma-k5jRr91ZwdfvYWqNvwPL7uxc4J-8udrCdChtkqlIt-saz_1l_=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/FfzDbHicHcTdToMwGADQJ-ooAdxq4gWiU9QwHZkDbwgWpIGWn35f220vuWvfxsRzcX6vAnGGW8-TIlh109TJ1kCr-TRiO-KKT8rrdA1AOHhxYmepdnqozizf37O8fzosKsSg2qbrz10eF5DdaJPReaRpweIenk0UQ3lB_NiqInU9gdCAPW7glJjXxwfBiJHWncuBA3wHqiZD1O81879c82PL45JZ9_62NicevpCNaXTSJAKHRaZIoL5UvqzunE8pJeJ_TsY_dvBJ9g"
+  },
+  {
+   "position": 2,
+   "title": "UNITED 18 SHRIRAMPUR",
+   "place_id": "ChIJ0ygN32iL3DsRX2T-Bo5YFaA",
+   "data_id": "0x3bdc8b68df0d28d3:0xa015588e06fe645f",
+   "data_cid": "11535223387605328991",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b68df0d28d3%3A0xa015588e06fe645f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b68df0d28d3%3A0xa015588e06fe645f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6153384,
+    "longitude": 74.65718509999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0ygN32iL3DsRX2T-Bo5YFaA",
+   "provider_id": "/g/11gmyvmcff",
+   "rating": 5,
+   "reviews": 22,
+   "unclaimed_listing": true,
+   "type": "Moving and storage service",
+   "types": [
+    "Moving and storage service"
+   ],
+   "type_id": "moving_and_storage_service",
+   "type_ids": [
+    "moving_and_storage_service"
+   ],
+   "address": "Shop no-115, Dhruvi Lifestyle, Main Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fzjPFmOZ46ArzuzsfDkGXA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=104.76084&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IknJUXicHc3BCsIgHIDxt_GWuhhrBRKDqGMdo0s459RyU_w7rT1Ob9XbNDp_8Pu-Hx2jhx0hEIOUMRmZvXlJCyvPsXJOWcm9ASzcQFJBop6GduTG7j0fnelYPz8ux-F8K6smzNMM_eF5ujZItHdhjRwjA8mD0FjlRQyuwypwAJRZTZFm2zV688wKWuJNResSeROFZhT9P71LS6I_Hj06wg"
+  },
+  {
+   "position": 3,
+   "title": "SSKT (Tempo Traveller & Mini bus Nashik)",
+   "place_id": "ChIJE6XulqXr3TsRiJxlJHsr_io",
+   "data_id": "0x3bddeba596eea513:0x2afe2b7b24659c88",
+   "data_cid": "3097961401569090696",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bddeba596eea513%3A0x2afe2b7b24659c88&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bddeba596eea513%3A0x2afe2b7b24659c88&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.994802399999998,
+    "longitude": 73.8087637
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJE6XulqXr3TsRiJxlJHsr_io",
+   "provider_id": "/g/11wy17tv48",
+   "rating": 4.8,
+   "reviews": 184,
+   "type": "Car leasing service",
+   "types": [
+    "Car leasing service",
+    "Bus tour agency",
+    "Car rental agency",
+    "Minibus taxi service",
+    "Tour operator"
+   ],
+   "type_id": "car_leasing_service",
+   "type_ids": [
+    "car_leasing_service",
+    "bus_tour_agency",
+    "car_rental_agency",
+    "minibus_taxi_service",
+    "tour_operator"
+   ],
+   "address": "Takli Rd, Dwarka, Nashik, Maharashtra 422011",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "098813 28060",
+   "website": "https://sskttempotraveller.wordpress.com/",
+   "extensions": [
+    {
+     "service_options": [
+      "On-site services"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    },
+    {
+     "amenities": [
+      "Gender-neutral toilets"
+     ]
+    }
+   ],
+   "service_options": {
+    "on_site_services": true
+   },
+   "user_review": "\"Rented a 25 seater luxury van from them\nIts was smooth and ride was awesome\"",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMmO16aNHLQ5i7QJgk2W-Qv64xpadvKOd8OkN5NV2v2zRjZH0bIcE2-SpM_ze6Z2lgKdaOdaJ9kndJWLfaCjFrpeR9RreqIMXEsToy-21zYuW-JUWTydLsOcAAjhuj9A4gbjVMjEw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/UFNnonicHcTbDoIgAADQLyKVyrKtB9dsZSrTLlYvjYAwvECiVv5hn9DftHUezveTNY3SM8MosuGAS8kL1mpWE1k1rGoGRJYGr7HWgGjDXXSqKMMSWTaOVkE8vk9in-cwBXFnj14K026D6BTl0Tg6wA72iTivzOuaeBBsVXjpmX2GBd9QjCj2nbyifhrc8EIsa8USJ6nZYx0ePb2TbwCt_tSmwN-nuzcNNCKuK7JWOO6IX8UhFN5z_rRM0wTZfwKqH-jNRYk"
+  },
+  {
+   "position": 4,
+   "title": "SAI SAMARTH Travels & Transport",
+   "place_id": "ChIJHXWzTUeJ3DsRXsW4djr6Dfc",
+   "data_id": "0x3bdc89474db3751d:0xf70dfa3a76b8c55e",
+   "data_cid": "17802160031072306526",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc89474db3751d%3A0xf70dfa3a76b8c55e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc89474db3751d%3A0xf70dfa3a76b8c55e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6236058,
+    "longitude": 74.767412
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXWzTUeJ3DsRXsW4djr6Dfc",
+   "provider_id": "/g/11xs9cw92s",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service"
+   ],
+   "type_id": "transportation_service",
+   "type_ids": [
+    "transportation_service"
+   ],
+   "address": "Bhokar, Shrirampur, Maharashtra 413739",
+   "country": "India",
+   "open_state": "Open · Closes 5 pm",
+   "hours": "Open · Closes 5 pm",
+   "operating_hours": {
+    "friday": "9 am–5 pm",
+    "saturday": "9 am–5 pm",
+    "sunday": "9 am–5 pm",
+    "monday": "9 am–5 pm",
+    "tuesday": "9 am–5 pm",
+    "wednesday": "9 am–5 pm",
+    "thursday": "9 am–5 pm"
+   },
+   "phone": "090284 80500",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPAeZsTeJrXxtXkmBxbjzY4Xbte4s53sAmUpCi7QX9_k_FF1KiGRwbCvGNcu7zf5CgoOrrSsM2GN4aeXi3p__mvztcGIKYa4kPNWuRzTc5Ys9aSiHaDPtraC_OYOr5tIeWY1tKODxn0S4TE=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/pggUtnicHcTdToMwGADQJ2KAlCwz8QI7h5MIODBrvWlKUwH5Ken3wQgv6bVvs8Rzcf5-G8QJHl23b4JdbUzd6xm0VWZEPeJOmcGtrQRwFLgRXaZ-yCP9BaV-s2xF1g3Pa_WzccIq1ATCAKLhc6Lt_oMdRCdOJz9p48utokucqnm_fYe0Npm1Bbw_xCmRmrXBJMSwbKjic8Il6fL0Ol-2UoUcDrJoX-UxRyupyHhmQzzrK_cxyY7r6BWkfHm6-Z7nOc3_yhnvqYlJSA"
+  },
+  {
+   "position": 5,
+   "title": "SAI Aadarsh Cabs Taxi service",
+   "place_id": "ChIJ_2GfbBpb3DsRjA7hwH9fKos",
+   "data_id": "0x3bdc5b1a6c9f61ff:0x8b2a5f7fc0e10e8c",
+   "data_cid": "10027932522595290764",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc5b1a6c9f61ff%3A0x8b2a5f7fc0e10e8c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc5b1a6c9f61ff%3A0x8b2a5f7fc0e10e8c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.7528942,
+    "longitude": 74.4769752
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_2GfbBpb3DsRjA7hwH9fKos",
+   "provider_id": "/g/11zb2h985m",
+   "rating": 5,
+   "reviews": 69,
+   "type": "Taxi service",
+   "types": [
+    "Taxi service",
+    "Airport",
+    "Car leasing service",
+    "Car rental agency",
+    "Tour agency",
+    "Tour operator",
+    "Travel agency"
+   ],
+   "type_id": "taxi_service",
+   "type_ids": [
+    "taxi_service",
+    "airport",
+    "car_leasing_service",
+    "car_rental_agency",
+    "tour_agency",
+    "tour_operator",
+    "travel_agency"
+   ],
+   "address": "No 536, Sai Aashram Near Nagar, Manmad Rd, Shirdi, Maharashtra 423109",
+   "country": "India",
+   "phone": "099226 62009",
+   "website": "https://saiaadarshcabstaxishirdi.com/",
+   "extensions": [
+    {
+     "service_options": [
+      "On-site services"
+     ]
+    },
+    {
+     "accessibility": [
+      "Assisted listening devices"
+     ]
+    },
+    {
+     "crowd": [
+      "LGBTQ+ friendly"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking garage",
+      "Free parking lot",
+      "Free street parking",
+      "On-site parking",
+      "Paid parking garage",
+      "Paid parking lot",
+      "Paid street parking"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "accessibility": [
+      "Assistive hearing loop",
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom"
+     ]
+    }
+   ],
+   "service_options": {
+    "on_site_services": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmM6XdWEHNah5v-x5_7ZxTYXuGXS0OtO6GkPL3z27rnC_l-c5ASHnwyyZoSZ20aOAtcPh--n5eeTVuPAeb10jXhvRcV_5NfrUT8U-c-RlYxCkXammVsLgo0Xu3AcyU4WcNkqLbC1lY6R9KU=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/fWhVu3icHcTdboIwGADQJ6oUWdEt2UVDFk2GQPizcEPwW0cjpVVaEPaQu9_bmOxcnL9fYe3NvDmOFN6m07qTfDJ8BK0sV3YDenC6sTUGgXFoMN_kcPLZ1_njGLWCzGghza5e8opNB5bh2Mb-oU9C72e7G1XQSASEZkf1WNdaZ_UWtzG1kAiEFOE8L6eE8ouLr0zMKZQNib7HIt8XCFAqqyXoWTsMpQk7jdnkUViLlzNE_T28BK6s_PT1s3h_uBhjJP4HpJ5p5kbn"
+  },
+  {
+   "position": 6,
+   "title": "Shirdi Cabs N Travels",
+   "place_id": "ChIJp-Lky5xb3DsRbwUtD3QVuQw",
+   "data_id": "0x3bdc5b9ccbe4e2a7:0xcb915740f2d056f",
+   "data_cid": "916787587361604975",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc5b9ccbe4e2a7%3A0xcb915740f2d056f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc5b9ccbe4e2a7%3A0xcb915740f2d056f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.770176499999998,
+    "longitude": 74.4784804
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJp-Lky5xb3DsRbwUtD3QVuQw",
+   "provider_id": "/g/11lztd9_qc",
+   "rating": 4.9,
+   "reviews": 137,
+   "type": "Travel agency",
+   "types": [
+    "Travel agency",
+    "Airport Shuttle Service Provider",
+    "Bus tour agency",
+    "Car leasing service",
+    "Car rental agency",
+    "Minibus taxi service",
+    "Taxi service",
+    "Tour agency",
+    "Tour operator"
+   ],
+   "type_id": "travel_agency",
+   "type_ids": [
+    "travel_agency",
+    "airport_shuttle_service",
+    "bus_tour_agency",
+    "car_leasing_service",
+    "car_rental_agency",
+    "minibus_taxi_service",
+    "taxi_service",
+    "tour_agency",
+    "tour_operator"
+   ],
+   "address": "Hotel Ganpati Palace, Yog Marg, Shirdi, Maharashtra 423109",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "070206 63523",
+   "website": "https://www.shirdicabs.in/",
+   "extensions": [
+    {
+     "service_options": [
+      "Online appointments",
+      "On-site services"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Gender-neutral toilets"
+     ]
+    },
+    {
+     "crowd": [
+      "LGBTQ+ friendly"
+     ]
+    },
+    {
+     "planning": [
+      "Appointment required"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Discounts for kids",
+      "Family discount"
+     ]
+    },
+    {
+     "parking": [
+      "On-site parking",
+      "Paid parking lot"
+     ]
+    }
+   ],
+   "service_options": {
+    "online_appointments": true,
+    "on_site_services": true
+   },
+   "user_review": "\"Excellent service, ontime pick up and clean vehicle.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPCF6yWgoWI6xsoufAThYXGbAt7I2zlAbdPysbT4kad5YG4EJSW6wtsrxgsZX9roKKaytUYPwv0JzK7iyMgyDobM8JNJFkZI89C3MvxE-8BnvBhnB0bLCZqTiv92sO6efkd1_RFETE4fNs=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/UB9v9XicHcTdboIwGADQJ0KqMgQTLwDBAEOJsiDcGMpPa8DW8dVCfcjd722W7Fyc3x8qxBO2uj7Q9YJwTob2Be1YcyZaJhY1f-hkrAC0GnTHk8_hkXqBqXLC89Ccgb86J6PF9YAdsQlX78HBTaoAZ0ZfNR_FwfCjS25OAsaZQHm1Rx7HlRJfRTpJFL3jzV0lRO05TqzoGAV9GVq2t07k7GuWy6RLmYvwp1d-Z3dpr-Bktl3fLG_nwM98ozvCbloihDT6f62xPx0BSBo"
+  },
+  {
+   "position": 7,
+   "title": "Shree Ganesha Packers And Movers",
+   "place_id": "ChIJe-c7rZWj2zsRzZXyT6j-xpg",
+   "data_id": "0x3bdba395ad3be77b:0x98c6fea84ff295cd",
+   "data_cid": "11008766338003015117",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdba395ad3be77b%3A0x98c6fea84ff295cd&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdba395ad3be77b%3A0x98c6fea84ff295cd&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.8417873,
+    "longitude": 75.3490447
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJe-c7rZWj2zsRzZXyT6j-xpg",
+   "provider_id": "/g/11rfc4wgx0",
+   "rating": 4.9,
+   "reviews": 285,
+   "type": "Transportation service",
+   "types": [
+    "Transportation service",
+    "Moving and storage service",
+    "Moving service",
+    "Moving supply store",
+    "Packaging company"
+   ],
+   "type_id": "transportation_service",
+   "type_ids": [
+    "transportation_service",
+    "moving_and_storage_service",
+    "moving_company",
+    "moving_supply_store",
+    "packaging_company"
+   ],
+   "address": "Flat No.9, Plot, M-Square Classic-B, 58, Gut Number 153, Bank Colony, Alok Nagar, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "098237 72003",
+   "website": "http://shreeganeshapackers.com/",
+   "extensions": [
+    {
+     "from_the_business": [
+      "Identifies as women-owned"
+     ]
+    },
+    {
+     "service_options": [
+      "On-site services"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    },
+    {
+     "crowd": [
+      "LGBTQ+ friendly"
+     ]
+    },
+    {
+     "parking": [
+      "On-site parking"
+     ]
+    }
+   ],
+   "service_options": {
+    "on_site_services": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP8Z8Pd0lsaPsfY37P7oPYYhvgArc__JEU1yx7JRBQIescTaQ3LTd9gc6HTJWpzs1yfWwhYw2T35ns2bidqQo5PnuNc-oxy6jNykUNf-HC1-jersCFM2ZYqaBJaL0iLBzLhPR2T6w=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/OyqCtHicHcRRCoIwGADgEy2nklbQQ0pRYjJjEfMl1pxbZZv5W2Y37AjdJuh7-L4f3XUNzByn1v5IWatq-QDZCms6abqRsDdHtRwACXAW8bOpb2RSTEiJa-AEKuaHJLSEMf1Ui1Ycj8ly7w6vMNlF-UaCoDz3U1pOlQjWNDk0b3CH6tBr1nvUHxvwTufyntsxMY9MIPsagks2XPdZhdaxiy6yhXi19Qp251HCU3xOo3eqyc6jQT_vXYwx0v8FMj9ZkkXu"
+  },
+  {
+   "position": 8,
+   "title": "New Amar Transport",
+   "place_id": "ChIJsdga0FWK3DsR4CivmzSFC_Q",
+   "data_id": "0x3bdc8a55d01ad8b1:0xf40b85349baf28e0",
+   "data_cid": "17585295630994974944",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a55d01ad8b1%3A0xf40b85349baf28e0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a55d01ad8b1%3A0xf40b85349baf28e0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6202045,
+    "longitude": 74.6422568
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsdga0FWK3DsR4CivmzSFC_Q",
+   "provider_id": "/g/11c2pmgw2w",
+   "rating": 4.2,
+   "reviews": 5,
+   "unclaimed_listing": true,
+   "type": "Corporate office",
+   "types": [
+    "Corporate office"
+   ],
+   "type_id": "corporate_office",
+   "type_ids": [
+    "corporate_office"
+   ],
+   "address": "JJCR+3WJ, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "098909 03524",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park"
+     ]
+    }
+   ],
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-Lb6F5qLwgoZKxZwgqDRag&cb_client=search.gws-prod.grass&w=80&h=92&yaw=208.48561&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/D3miq3icHc3BDoIgGADgt-EmoEtnbf-6uC556uil_SIBGwoCib1Ob9Xb1HqB7_u8dUo-nhiLKUiZNiOzN7u0sfBIlXPKSvQmUuFmtpUs6ec8Lmjs2ePizARFPzaXeu2zcsN1H7JauxsqIsa7sEYuCaLEIDRV-ScGN1EVMEaSoeVEw7EiL8xQ8ZYe2ropiTdJaODk_zzcBiXnXwm9Opw"
+  }
+ ]
+}

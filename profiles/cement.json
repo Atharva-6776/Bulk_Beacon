@@ -1,0 +1,27 @@
+{
+  "id": "cement",
+  "name": "Cement",
+  "validated": false,
+  "maps_queries": [
+    "cement dealer {city}",
+    "cement wholesale {city}",
+    "building material supplier {city}"
+  ],
+  "marketplace_queries": [
+    "cement dealer {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "cement 50 kg bag",
+  "logistics_query": "truck transport service {city}",
+  "units": [
+    "bag",
+    "ton"
+  ],
+  "urgency_weight": 0.5,
+  "rfq_fields": [
+    "brand",
+    "grade (OPC/PPC)",
+    "bag size"
+  ],
+  "price_reference": "retail_only"
+}

@@ -1,0 +1,500 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "cement dealer Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62e44707f135c1dca1cb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/boO21WmrAl5g9UFnZ2OKRCIKUeDQMLQGW0ohQToDLQg/6abf62e44707f135c1dca1cb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/boO21WmrAl5g9UFnZ2OKRCIKUeDQMLQGW0ohQToDLQg/6abf62e44707f135c1dca1cb.md",
+  "created_at": "2026-10-02 07:53:08 UTC",
+  "processed_at": "2026-10-02 07:53:08 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/cement+dealer+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/boO21WmrAl5g9UFnZ2OKRCIKUeDQMLQGW0ohQToDLQg/6abf62e44707f135c1dca1cb.html",
+  "prettify_html_file": "https://serpapi.com/searches/boO21WmrAl5g9UFnZ2OKRCIKUeDQMLQGW0ohQToDLQg/6abf62e44707f135c1dca1cb.prettify",
+  "total_time_taken": 0.87
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "cement dealer Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "cement dealer Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Jimi traders",
+   "place_id": "ChIJN0slT4CL3DsRansmVSU6NFQ",
+   "data_id": "0x3bdc8b804f254b37:0x54343a2555267b6a",
+   "data_cid": "6067538529991687018",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b804f254b37%3A0x54343a2555267b6a&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b804f254b37%3A0x54343a2555267b6a&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6145139,
+    "longitude": 74.6576082
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN0slT4CL3DsRansmVSU6NFQ",
+   "provider_id": "/g/11fkp6pfj9",
+   "rating": 4.7,
+   "reviews": 18,
+   "type": "Construction Material Wholesaler",
+   "types": [
+    "Construction Material Wholesaler"
+   ],
+   "address": "Opp vispute fabriction, juni ghass gali,bhagat singh chowk, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 6:45 pm",
+   "hours": "Open · Closes 6:45 pm",
+   "operating_hours": {
+    "friday": "9 am–6:45 pm",
+    "saturday": "9 am–6:45 pm",
+    "sunday": "9–11:30 am",
+    "monday": "9 am–6:45 pm",
+    "tuesday": "9 am–6:45 pm",
+    "wednesday": "9 am–6:45 pm",
+    "thursday": "9 am–6:45 pm"
+   },
+   "phone": "095118 82828",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRNq-NBu_cPStMBRNQfx-aanS_aHQS6sXAfPodWyAP0a6zyiV2O9JK6u74pcBah-e32fs6XNBdw_1QWoc7DNa-XKxwF0__RADQka_fXSW2BeIyDffillO5THI53I90Xd9p1GgXHQ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/WnPusnicHcRRboIwAADQE1UKTAwm-6AhE2YsFIz0r2lKC8aOoi0BvKFH2G1MfB_v_9U7N9q95-k-3HTGdFpOVj6EGZwc3EaYP68bLRAWWC_JqvLc6ArfAUYTE2XtTqjCRC2A86FmPCN1ZGmiStM2a1JCHj3X6yUo4t9jNO2-RoF4D2QYKBtRjNqZ-aQxYpdiDuhxmX8gY1WSkhtnitZNgGS-pkpdtS625yzfhnkMaRuP_qGjGfmefQgh6D8LMLwBpGZD1w"
+  },
+  {
+   "position": 2,
+   "title": "The Concrete Factory",
+   "place_id": "ChIJudhFC--K3DsRyXHrH0pWJZ8",
+   "data_id": "0x3bdc8aef0b45d8b9:0x9f25564a1feb71c9",
+   "data_cid": "11467666902531928521",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8aef0b45d8b9%3A0x9f25564a1feb71c9&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8aef0b45d8b9%3A0x9f25564a1feb71c9&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.629664599999998,
+    "longitude": 74.6251833
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJudhFC--K3DsRyXHrH0pWJZ8",
+   "provider_id": "/g/11hb6d98gk",
+   "rating": 4,
+   "reviews": 5,
+   "type": "Cement Supplier",
+   "types": [
+    "Cement Supplier",
+    "Cement Manufacturer",
+    "Supplier",
+    "Manufacturer"
+   ],
+   "address": "A-3/3 Wakdi Road, MIDC Rd, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "9:30 am–6 pm",
+    "saturday": "9:30 am–6 pm",
+    "sunday": "9:30 am–6 pm",
+    "monday": "9:30 am–6 pm",
+    "tuesday": "9:30 am–6 pm",
+    "wednesday": "9:30 am–6 pm",
+    "thursday": "9:30 am–6 pm"
+   },
+   "phone": "090816 56565",
+   "website": "https://t.justdial.com/Ahmednagar/The-Concrete-Factory-Shrirampur/9999PX241-X241-180330191410-T5D2_BZDET?vpfs=&stxt=RCC%20Readymade%20Compound%20Wall%20Manufacturers&catid=1031327365&bdmsgtype=2&bdcaptiontype=4&stype=",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkcQo99mfyIt_e-3hAUi8517gGwp-ruI-YyyvoXDeky8x0Hky3q_DyfEXRfWdGp-Kc3GX4PoaeHbKygTtm4p1fEs4dlgES8dr8WuQQ2J6q6BQGWdNBs0dxtkO1lrwbadxhy5HIeiIKk4Jrm=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/AE1dvXicHcTNDoIgAADgJyIxraytQ02n5lbZz7RTS0BoqBBgylN27m3a-g7f98OMkXrlOA3zJlQI2pBeE4VEZ0hnJki0DpUaIA20s0lOx0vBUS6Wy7a2qbkT4LHN9RnM3AWNBwlUn4KbtW9RhoTbYIQJt97rHto6Kk91gWMJMuTFpX8UD5JUmaUX0_rSrSPt44ZG5wCroOjzfLqbv-bbPC7wfqshHg0_uI0aqgcemZ0lKXmmGfd3ql0PLoQQsP8IdD_epEg1"
+  },
+  {
+   "position": 3,
+   "title": "Om Sai P.O.P. Material supplier",
+   "place_id": "ChIJ--xFQ4iL3DsRirU0jxosPp8",
+   "data_id": "0x3bdc8b884345ecfb:0x9f3e2c1a8f34b58a",
+   "data_cid": "11474657393169970570",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b884345ecfb%3A0x9f3e2c1a8f34b58a&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b884345ecfb%3A0x9f3e2c1a8f34b58a&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6068049,
+    "longitude": 74.6554184
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ--xFQ4iL3DsRirU0jxosPp8",
+   "provider_id": "/g/11jkyk3ncc",
+   "rating": 4.8,
+   "reviews": 15,
+   "unclaimed_listing": true,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store"
+   ],
+   "address": "JM44+P5F, Belapur Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "9 am–7 pm",
+    "saturday": "9 am–7 pm",
+    "sunday": "9 am–7 pm",
+    "monday": "9 am–7 pm",
+    "tuesday": "9 am–7 pm",
+    "wednesday": "9 am–7 pm",
+    "thursday": "9 am–7 pm"
+   },
+   "phone": "098223 37479",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0Il7KXBziMhDEj4rQ1UWQU3wkVIIoE1XsgrN_TuhpLGJCTLzbivm0X0l1dMjRKfmAs3q_iZhG4lFlaw0IueIeeZOQEIN35sz2woY2PiarUgyuDEysGZPfRtyBJvRR7_5hmdy5fw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/PdU85XicHcTdboIwGADQJwKKSEiW7EInYv0bNKDIDVEsLa6ljK_YwBv6CL7Nkp2L835xrTv4cBzBPZspxQQdgPaVajVttV0p6bAOrAoscBYbEqdnibAIdvlyag58FT7mfeJm5yTzzM8JYxW6ObD-WKYD7_bR9ivdT7fmKVGOhHs_PMiulgvwfsum4NFcrMXVIDxQTGnxnYT46PkwzYy6zOLm2mdsHFbhCFER10SPy-2TkKD0ubyPfm0-jYsQsvj_ldX-ARYtRmo"
+  },
+  {
+   "position": 4,
+   "title": "Swastik Cement Products",
+   "place_id": "ChIJ9R6QQwCL3DsRHzG6Bw1OCoc",
+   "data_id": "0x3bdc8b0043901ef5:0x870a4e0d07ba311f",
+   "data_cid": "9730675762758562079",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b0043901ef5%3A0x870a4e0d07ba311f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b0043901ef5%3A0x870a4e0d07ba311f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6296896,
+    "longitude": 74.6190451
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9R6QQwCL3DsRHzG6Bw1OCoc",
+   "provider_id": "/g/11lz7h1rxc",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Manufacturer",
+   "types": [
+    "Manufacturer"
+   ],
+   "address": "MIDC Rd, Maharashtra Industrial Development Corporation, SH44, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 9 pm",
+   "hours": "Open · Closes 9 pm",
+   "operating_hours": {
+    "friday": "8:30 am–9 pm",
+    "saturday": "8:30 am–9 pm",
+    "sunday": "8:30 am–9 pm",
+    "monday": "8:30 am–9 pm",
+    "tuesday": "8:30 am–9 pm",
+    "wednesday": "8:30 am–9 pm",
+    "thursday": "8:30 am–9 pm"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn6bgx0Fy6Jl7o0uxsTODUYU8qtZjrDZ7hFky4QzTlWJO0uVEk3NY4M2CC0EoImE-k1bKZwhxFowaMY0_r2OPdswRytbIvII-LAbPNCMO3soJ5N6A3Gm9uofPxjx_N_VzLJ24ta=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/bs42x3icHcRJDoIwFADQExUqIA6JC4KgIJMGNbAhgkjD9JEWKV7QM3gbE9_ifT-EsY6uRbEmslAAFHU-0LzPoGV5y4QMGrHoKMoooqK2PwXhtVXTgmNzUu16AXjgNPS35-i8fLK47LfxgpjVpBzfYX21fTxcjEr2IsWVdB0bYDUGqmbpIR4JN2G8uRFOeskP7nQ8TSy1XpaFHC0NPN31ZQr23FM1edesBngEvOSJl1zeji0p7LYZZxhjRP5nqP0BUXFEYQ"
+  },
+  {
+   "position": 5,
+   "title": "ATUL INDUSTRIES",
+   "place_id": "ChIJkfZZMACL3DsRm9lod6F7k8g",
+   "data_id": "0x3bdc8b003059f691:0xc8937ba17768d99b",
+   "data_cid": "14453031562585364891",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003059f691%3A0xc8937ba17768d99b&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b003059f691%3A0xc8937ba17768d99b&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6371525,
+    "longitude": 74.61549049999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkfZZMACL3DsRm9lod6F7k8g",
+   "provider_id": "/g/11lw337s69",
+   "rating": 4.1,
+   "reviews": 24,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store"
+   ],
+   "address": "Plot no M-5, Maharashtra Industrial Development Corporation, Shrirampur, Ranjankhol, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6:30 pm",
+   "hours": "Open · Closes 6:30 pm",
+   "operating_hours": {
+    "friday": "9:30 am–6:30 pm",
+    "saturday": "Closed",
+    "sunday": "9:30 am–6:30 pm",
+    "monday": "9:30 am–6:30 pm",
+    "tuesday": "9:30 am–6:30 pm",
+    "wednesday": "9:30 am–6:30 pm",
+    "thursday": "9:30 am–6:30 pm"
+   },
+   "phone": "095616 16100",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlAVpix1IzHVlTLMaRqUtOotu7OtmK8hKzYrXv7bP0mhOMxBzr1KckvdSFBCr33z5ya4PqQMLs6fhiRwhH3nfPjlFZD6rAljh7BB6XVk_PzjRu0Wwpz5S_9iz9VFzTa7mBMqgjwPcoDe2ak=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RrN_YXicHcTNDoIgAADgJzIxS6utg9SczZxkZj-XZmSioihgFi_Zubdp6zt83w-RshULXafEHOWM5TTrRcYxa2TWyBFmtZ63QsNCE7rjRSg-Uidpi5exUV5C422QRt1Bhkz2dihrf0Z8deanp31DoCZh8IKKGz6unve9C1fcNNX0nU5Qtwu2wnqQIhqIZzYPVFL3sra4Q0tiQ2idkuqKVBn14Di0arq_zgs1T1wVp3YNgy4vB4TZOhun1XIwAAAa-Y-15gdOUkky"
+  },
+  {
+   "position": 6,
+   "title": "Girish Steel , Cement & Ceramic",
+   "place_id": "ChIJZbbAe5Hz3DsR2ykDptGWj3U",
+   "data_id": "0x3bdcf3917bc0b665:0x758f96d1a60329db",
+   "data_cid": "8471155251284748763",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdcf3917bc0b665%3A0x758f96d1a60329db&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdcf3917bc0b665%3A0x758f96d1a60329db&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.544005,
+    "longitude": 74.52923
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZbbAe5Hz3DsR2ykDptGWj3U",
+   "provider_id": "/g/11ckvtr79w",
+   "rating": 4.6,
+   "reviews": 34,
+   "type": "Building materials supplier",
+   "types": [
+    "Building materials supplier"
+   ],
+   "address": "Loni Road, Kolhar BK, Rahata, Taluk, Kolhar, Maharashtra 413710",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "8 am–8 pm",
+    "saturday": "8 am–8 pm",
+    "sunday": "8 am–8 pm",
+    "monday": "8 am–8 pm",
+    "tuesday": "8 am–8 pm",
+    "wednesday": "8 am–8 pm",
+    "thursday": "8 am–8 pm"
+   },
+   "phone": "094237 87319",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6FmTeeA3KjUWa8nVKTLIC_hmIobMk1tvmElDSR5Tsd6cjlzuuKQsEpo0c6gS4-rAetUmqqf3AbXIwoftuDKV7w_O3d19X9Mp7FYUTblnYiv94KktXinMhvObe2DZMmOuK2_Dg=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/3hWgl3icHcRJDoIwAADAF1VAFMXEAxGNpBJcCqIXIrW2She0LSR-0Df4GxPnMN8PM6bVM8fhzB9QpSgnVpMXVtIQaQZYCYe2GmANtBOt91t0bIKVQIREPnzkx8tUFhBtkkXFRKLqtPFMJ5Y8PuzHSF8D_OBva-FOL1vl4oAeRuAVEZOL5_PmR3WZ9OpmbAyLSV9l_tULyzBtJ6tTjmouT_cuHMHGlHeZsi6ryTA-pyKzcFjFdN57rusC9h8D-QOpnEWK"
+  },
+  {
+   "position": 7,
+   "title": "Vinayak Trading Company- Ambuja Cement",
+   "place_id": "ChIJaVb61hST3DsRF-BZ3hgAQ4Y",
+   "data_id": "0x3bdc9314d6fa5669:0x86430018de59e017",
+   "data_cid": "9674576531331604503",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc9314d6fa5669%3A0x86430018de59e017&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc9314d6fa5669%3A0x86430018de59e017&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.4479646,
+    "longitude": 74.6100307
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaVb61hST3DsRF-BZ3hgAQ4Y",
+   "provider_id": "/g/11j_27mhps",
+   "rating": 5,
+   "reviews": 3,
+   "type": "Cement Supplier",
+   "types": [
+    "Cement Supplier",
+    "Building materials store"
+   ],
+   "address": "Madmad Highway Rahuri, near Dr. Baburao Bapuji Tanpure Sugar Factory, Ahmednagar, Maharashtra 413706",
+   "country": "India",
+   "open_state": "Closes soon · 2 pm · Opens 9 am Sat",
+   "hours": "Closes soon · 2 pm · Opens 9 am Sat",
+   "operating_hours": {
+    "friday": "9 am–2 pm",
+    "saturday": "9 am–7 pm",
+    "sunday": "9 am–7 pm",
+    "monday": "9 am–7 pm",
+    "tuesday": "9 am–7 pm",
+    "wednesday": "9 am–7 pm",
+    "thursday": "9 am–7 pm"
+   },
+   "phone": "082913 10917",
+   "website": "https://dealers-nearme.ambujacement.com/vinayak-trading-company-ambuja-cement-vinayak-trading-company-cement-supplier-rahuri-ahmednagar-191285/Home?utm_source=locator&utm_medium=googleplaces"
+  },
+  {
+   "position": 8,
+   "title": "Yogesh Cement Products",
+   "place_id": "ChIJaYl9fJ_z3DsRB1C1NWd0qGY",
+   "data_id": "0x3bdcf39f7c7d8969:0x66a8746735b55007",
+   "data_cid": "7397290374587568135",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdcf39f7c7d8969%3A0x66a8746735b55007&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdcf39f7c7d8969%3A0x66a8746735b55007&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.5370614,
+    "longitude": 74.54286379999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaYl9fJ_z3DsRB1C1NWd0qGY",
+   "provider_id": "/g/11cnct9htp",
+   "rating": 4.6,
+   "reviews": 18,
+   "type": "Pipe supplier",
+   "types": [
+    "Pipe supplier",
+    "Pipes Wholesaler"
+   ],
+   "address": "Kolhar Road, Kolhar Budruk, Maharashtra 413710",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "8 am–7 pm",
+    "saturday": "8 am–7 pm",
+    "sunday": "8 am–7 pm",
+    "monday": "8 am–7 pm",
+    "tuesday": "8 am–7 pm",
+    "wednesday": "8 am–7 pm",
+    "thursday": "8 am–7 pm"
+   },
+   "phone": "098905 70533",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm319_icrMdgH2hp-50wa4GGYtX5Y2Pd5ZztPv_BJz461sKtTRfOct-ltI0Ug92Di_dFF8NeRV8VpmiEFTNyyuAcSWKSOo-HoIJfupCGomBt8Dwf0GaM3thJDBF6RfJKyhNQF1I=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/JGUc63icHcRJDoIwFADQE1XKZNDEhYhlioiI44aYAi0J0MZ-JHhBz-BtTHyL9_1wAKmWmtZyc8aEYG01qOpJRQ9VDzMqOo1JhahCSlsHWZpfOlNfFA197koWGFwiG48Py_dvcLVvRlra9zekr8KN3tZcVzHkWb2ngFoI8YktDK8pSkKcpMrOzll2zZbkyTQNa3q8xMe9QIEIo3qQG190LjjeWGP_sTOBR55L5lkdxRNPDkQPV6OOMUb8P0X9D_e6Q2s"
+  },
+  {
+   "position": 9,
+   "title": "Golden Enterprise",
+   "place_id": "ChIJz8_HagCL3DsRJxrqSD_95uQ",
+   "data_id": "0x3bdc8b006ac7cfcf:0xe4e6fd3f48ea1a27",
+   "data_cid": "16494149133539088935",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b006ac7cfcf%3A0xe4e6fd3f48ea1a27&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b006ac7cfcf%3A0xe4e6fd3f48ea1a27&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6213858,
+    "longitude": 74.652388
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz8_HagCL3DsRJxrqSD_95uQ",
+   "provider_id": "/g/11xh2vwp98",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store"
+   ],
+   "address": "Subhedar Wasti Ward No.2, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkp7BmA58G717Cm82-ah06kGO3zPO0nVujr2S4foAzyolF8f3m81rKnDtVzYD9Qzou_o_2g3aM0swGu9OSYo5J-c-5xvVXoQiHkFp1VZlBkZ3XNj8l_fNeJ1Y4_7ywYRCn5Kfhf1IDm381F=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/IDJl3XicHcTbboIwGADgJ6q0VKSa7AIl4CGKh4WJN8Q0lCptf0LLUF5y13ubJfsuvt8f6VxrF56nJJ3UALWqelt1HIyrjJtw0F7dWsQtsl60Ph8_v5o2XOooYGlIwpVmPrpLPGvSjI7HDJu8f3b-ZSogGt-gEiaoZqTbmdjlYxHPTyP0JZR-Te97bIe0n2eXAoIt4ih4fedXOD3WTdKS_KaWzY1eD0-mSnGotqSYluF7KM4rE-yEFGQTa8pI8jEQjDGS_3Nk_gD0SEWg"
+  },
+  {
+   "position": 10,
+   "title": "Kunkulol Traders",
+   "place_id": "ChIJWRGSR9eL3DsRXAeonvtEGBo",
+   "data_id": "0x3bdc8bd747921159:0x1a1844fb9ea8075c",
+   "data_cid": "1880328691916474204",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd747921159%3A0x1a1844fb9ea8075c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd747921159%3A0x1a1844fb9ea8075c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6244479,
+    "longitude": 74.6257997
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJWRGSR9eL3DsRXAeonvtEGBo",
+   "provider_id": "/g/11rq5t4z97",
+   "unclaimed_listing": true,
+   "type": "Real Estate Builders & Construction Company",
+   "types": [
+    "Real Estate Builders & Construction Company"
+   ],
+   "address": "M.I.D.C, Maharashtra Industrial Development Corporation, Shrirampur, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6 am Sat",
+   "hours": "Open · Closes 6 am Sat",
+   "operating_hours": {
+    "friday": "12–6 am, 9 am–12 am",
+    "saturday": "12–6 am, 9 am–12 am",
+    "sunday": "12–6 am, 9 am–12 am",
+    "monday": "12–6 am, 9 am–12 am",
+    "tuesday": "12–6 am, 9 am–12 am",
+    "wednesday": "12–6 am, 9 am–12 am",
+    "thursday": "12–6 am, 9 am–12 am"
+   },
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6dM3Enr-30TulS422v7PyA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=59.9414&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/B4yRCHicHc3NDcIgGADQbbgVaIs_NSHGg0cTE70bSj-BhAIBCnYZ93IbjQu893nrnEM6EJJyBMjFQA3mBTY1QWDlvbIggklY-pmUlmS9zKMTxh6DcN5MfDtd-rOLTU_vi72xriu763pCcnxIa8BlnkBEqbGqPzH6CauQUOV7ijQfOrSKyjcDHljLUDBZak7R_3j6wltKv8LZOEw"
+  },
+  {
+   "position": 11,
+   "title": "Shree enterprises",
+   "place_id": "ChIJod0OWKOL3DsRa31iygkcTZ4",
+   "data_id": "0x3bdc8ba3580edda1:0x9e4d1c09ca627d6b",
+   "data_cid": "11406804259575070059",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba3580edda1%3A0x9e4d1c09ca627d6b&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba3580edda1%3A0x9e4d1c09ca627d6b&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.620045299999997,
+    "longitude": 74.6509248
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJod0OWKOL3DsRa31iygkcTZ4",
+   "provider_id": "/g/11l340qpgq",
+   "type": "Cement Supplier",
+   "types": [
+    "Cement Supplier"
+   ],
+   "address": "Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Permanently closed",
+   "hours": "Permanently closed",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Af0RiZ2GlMQIvnA3G_um-w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=162.23282&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/SnF5RXicHc09DsIgGADQ27AVKE1MNSGmU-PgoKNLQymFL-EvhYLexmt5G40XeO_zNjnHdCIk5U2pXEDVCE9lUxMF1iFoq0SEhGVwpLQkm93NXoA9R-EDLHxY6R0ebLTX26X4oRun3TUVyXmSFpTPPCmxSYN1_YlbWLCOCVXeU2T4kaGXqLw9MMw61jMUIUvDKfovayi8pfQLX2Y5Pg"
+  },
+  {
+   "position": 12,
+   "title": "Shree Sales",
+   "place_id": "ChIJHXkP_kyK3DsRdTZohd_CL78",
+   "data_id": "0x3bdc8a4cfe0f791d:0xbf2fc2df85683675",
+   "data_cid": "13776444050421331573",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4cfe0f791d%3A0xbf2fc2df85683675&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4cfe0f791d%3A0xbf2fc2df85683675&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6187565,
+    "longitude": 74.65472919999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHXkP_kyK3DsRdTZohd_CL78",
+   "provider_id": "/g/11bzypdhfw",
+   "unclaimed_listing": true,
+   "type": "Cement Supplier",
+   "types": [
+    "Cement Supplier"
+   ],
+   "address": "JM93+GV5, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Permanently closed",
+   "hours": "Permanently closed",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=q8GaGEwhjI1vcBQqHu656g&cb_client=search.gws-prod.gps&w=80&h=92&yaw=65.17622&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/zotuMXicHc1tCsIgGADg2_gvPwazFUgQxOpnJ4h3ztRw6qbTOk3n6jZFF3iez9vkHNOekJQXpXKxqkb7VC5tImAdgnYKok1YhokURrJZp8GDdYcIPthRzF0P_amax4UVebzO55W3XCM53KSzymeRFCzSYF1_4hJGrGNCVXQUGbFr0Auq4C1mW940KNosjaDon9xDEYzSLy9eORY"
+  },
+  {
+   "position": 13,
+   "title": "RAM ENTERPRISES",
+   "place_id": "ChIJ_VyBHGOL3DsRUkdE71VZ_VE",
+   "data_id": "0x3bdc8b631c815cfd:0x51fd5955ef444752",
+   "data_cid": "5907976511801280338",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b631c815cfd%3A0x51fd5955ef444752&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b631c815cfd%3A0x51fd5955ef444752&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6168518,
+    "longitude": 74.6419126
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_VyBHGOL3DsRUkdE71VZ_VE",
+   "provider_id": "/g/11r3m38nyv",
+   "unclaimed_listing": true,
+   "type": "Cement Supplier",
+   "types": [
+    "Cement Supplier"
+   ],
+   "address": "JJ8R+PQV, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Permanently closed",
+   "hours": "Permanently closed",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk8pqeUHptLELshsOx1Va9RhVJsQvOeRTVjjNkTg9ts6518eqho8hwd9fP6kbRjPz09kWsBk4pSePNE3zCecTeJS9w3EbMs_zSnqTii_nfoyCX9eSMkMy7-lWCYDt9iargJ63qaxQ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/fPK4gHicHcTRboIwFADQL6pA2Bg12cPGSAwRRehgezLYXVsotsVbRfnDfcL-xmTn4fz9SucsLj1vkOFCGCMGuCCcudEOtFtwc_KERcKRoPe2KgvWqNiO8Lmybp2uUeL2FtQtLWWd4e66hZLVfb9RTFCH0XMQwyhNLKcfeiwidSj7YvapavBdPdkKik0azglwBllFpzA95LifKz2yrtvro7knXxSqXOX3FzI0yfeHo117FlkUju1t9zoFvu8T-T8n-gF8kEbY"
+  }
+ ]
+}

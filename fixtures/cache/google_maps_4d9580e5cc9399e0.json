@@ -1,0 +1,98 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "plastic granules dealer Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf63045c26229d5a5e0896",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Q5Bbtl14fiCYdSWKTTI-MgGIMhpd5bo5CmWhojbjc_w/6abf63045c26229d5a5e0896.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Q5Bbtl14fiCYdSWKTTI-MgGIMhpd5bo5CmWhojbjc_w/6abf63045c26229d5a5e0896.md",
+  "created_at": "2026-10-02 07:53:40 UTC",
+  "processed_at": "2026-10-02 07:53:40 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/plastic+granules+dealer+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/Q5Bbtl14fiCYdSWKTTI-MgGIMhpd5bo5CmWhojbjc_w/6abf63045c26229d5a5e0896.html",
+  "prettify_html_file": "https://serpapi.com/searches/Q5Bbtl14fiCYdSWKTTI-MgGIMhpd5bo5CmWhojbjc_w/6abf63045c26229d5a5e0896.prettify",
+  "total_time_taken": 0.51
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "plastic granules dealer Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "plastic granules dealer Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Shri Chintamani Plastics",
+   "place_id": "ChIJl-vdGaOL3DsROHgown0YMgA",
+   "data_id": "0x3bdc8ba319ddeb97:0x32187dc2287838",
+   "data_cid": "14100677242943544",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba319ddeb97%3A0x32187dc2287838&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8ba319ddeb97%3A0x32187dc2287838&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6146586,
+    "longitude": 74.6564109
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJl-vdGaOL3DsROHgown0YMgA",
+   "provider_id": "/g/11q4bhhllk",
+   "rating": 4.2,
+   "reviews": 6,
+   "type": "Plastic Products Supplier",
+   "types": [
+    "Plastic Products Supplier"
+   ],
+   "address": "Chandraroop Complex, Main Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7:30 am Sat",
+   "hours": "Open · Closes 7:30 am Sat",
+   "operating_hours": {
+    "friday": "12–7:30 am, 9:30 am–12 am",
+    "saturday": "12–7:30 am, 9:30 am–12 am",
+    "sunday": "12–7:30 am",
+    "monday": "9:30 am–12 am",
+    "tuesday": "12–7:30 am, 9:30 am–12 am",
+    "wednesday": "12–7:30 am, 9:30 am–12 am",
+    "thursday": "12–7:30 am, 9:30 am–12 am"
+   },
+   "phone": "098235 77399",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmNrRLJlOrNIfZy8jzrAfKAqrMdzk5eT96DP2PrmRqPZosnEusghq88r3qydTq_Fyp1jRQUVlDF1QMC1z9hEex1fMDb8rhtigJEmls8fYk9H2Z1TKYRtMixiS0Z_DkBp6A0UHb1C=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/_vzKy3icHcRLDoIwFADAEyGtRlNMXCBg_KGIaCIbo1hapFD6Wj9wQc_gbUycxXw_3JhGj21b8EGPSckEfWgKmawNrU0vk5XN4KK1lWnb9Z6NqDYQr5diC5tFnrbk3oGbr1wF4a0rhzRxRn7Uj6CKVZRKXQcPzbgiBAaqvSXqPGsbfI93h6PwZ3gXerhzeEDfOA_9KwFuCrYMKqFJfiqdeT_FyeoUm7B4F3uUnv1y2oxcdJhfsTd5YYSQxf9nVv0DOa5F1g"
+  },
+  {
+   "position": 2,
+   "title": "Anand Plastic",
+   "place_id": "ChIJYdDW7e-L3DsRD5qBqp5EI90",
+   "data_id": "0x3bdc8befedd6d061:0xdd23449eaa819a0f",
+   "data_cid": "15934655354823088655",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8befedd6d061%3A0xdd23449eaa819a0f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8befedd6d061%3A0xdd23449eaa819a0f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6183485,
+    "longitude": 74.65794149999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYdDW7e-L3DsRD5qBqp5EI90",
+   "provider_id": "/g/11wj10r8zw",
+   "rating": 3.5,
+   "reviews": 2,
+   "type": "Wholesaler",
+   "types": [
+    "Wholesaler"
+   ],
+   "address": "Main Rd, behind Buwa Halwai, near Bhaji Market, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "098505 00006",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vSkv-lgAsUBq3apWSsN0eQ&cb_client=search.gws-prod.grass&w=80&h=92&yaw=284.50067&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/tTUx8XicHc3bDcIgFADQbfgr0PqqJsToACamMX4aSq9ApAW5CLqOW7mNxgXO-bxNSgE3jGGKAClbKME-wWEVJNXeawcyWKTKjyzXLJnH2E_Sum2Qk7eDyN0tV07v8LS_z2Q4d3jgcCSqvyhnYUoCQUZlqC4_MfqB6igRSREtJ0asG_KSRTTtnC44X65IsEkZwcn_ufosas6_EeM6mw"
+  }
+ ]
+}

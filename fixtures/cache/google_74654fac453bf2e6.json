@@ -1,0 +1,349 @@
+{
+ "_params": {
+  "engine": "google",
+  "q": "site:indiamart.com TMT bars supplier Shrirampur",
+  "location": "Shrirampur, India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf630af6e9269d60c62090",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/kuzAL_jAHfaafNVfFRF9u-WzugugW5B_SOgHQZHdiWU/6abf630af6e9269d60c62090.json",
+  "markdown_endpoint": "https://serpapi.com/searches/kuzAL_jAHfaafNVfFRF9u-WzugugW5B_SOgHQZHdiWU/6abf630af6e9269d60c62090.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/kuzAL_jAHfaafNVfFRF9u-WzugugW5B_SOgHQZHdiWU/6abf630af6e9269d60c62090.json_with_pixel_position",
+  "created_at": "2026-10-02 07:53:46 UTC",
+  "processed_at": "2026-10-02 07:53:46 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&oq=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&uule=w+CAIQICIcU2hyaXJhbXB1cixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/kuzAL_jAHfaafNVfFRF9u-WzugugW5B_SOgHQZHdiWU/6abf630af6e9269d60c62090.html",
+  "total_time_taken": 56.54
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:indiamart.com TMT bars supplier Shrirampur",
+  "location_requested": "Shrirampur, India",
+  "location_used": "Shrirampur,Maharashtra,India",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:indiamart.com TMT bars supplier Shrirampur",
+  "total_results": 40,
+  "time_taken_displayed": 0.21,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Ambuja Cement Retailer from Shrirampur",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/ambuja-cement.html?srsltid=AU7gw4WNp4-49G-mdNxD_d4CZOp8yR6uFxdKdSfnlOJdbXohicapaCAF",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFco6-OGEpYlBJCrfict4qmTybWMmp_Hd0BHFnozzM-PS77U7gzSr35oirs0LY-XP9aKiOec7zV8dyuexRSB7hhfDxbM43QpEV59PirDYq7nyFGjuDx-lHH36TxhxskBfScdW8pi7uzMDZJXyg4YjDBgcEyuSuzvUkjssxSTxt5bl5fZBaLNSVtDrP_vxPRMrg02Chf0PILS512IGnNz4cxKE37DVZUvIBVXEyFfjzcCOPXGPI0x26PysMSQayu8NdkZtjO6RTnQpX2aFbgMG&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bars (2) · Tmt Bar ₹ 66,000/Tonne. Tmt Bar. ₹ 66,000/Tonne. WhatsApp. Call Now+918047300758,7027 · Iron Tmt Bar. Get Latest Price. WhatsApp. Call Now+ ...",
+   "snippet_highlighted_words": [
+    "Tmt Bars"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bars (2) · Tmt Bar ₹ 66,000/Tonne. Tmt Bar. ₹ 66,000/Tonne. WhatsApp. Call Now+918047300758,7027 · Iron Tmt Bar. Get Latest Price. WhatsApp. Call Now+ ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/ambuja-cement.html?srsltid=AU7gw4WNp4-49G-mdNxD_d4CZOp8yR6uFxdKdSfnlOJdbXohicapaCAF",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZjbzYtT0dFcFlsQkpDcmZpY3Q0cW1UeWJXTW1wX0hkMEJIRm5venpNLVBTNzdVN2d6U3IzNW9pcnMwTFktWFA5YUtpT2VjN3pWOGR5dWV4UlNCN2hoZkR4Yk00M1FwRVY1OVBpckRZcTdueUZHanVEeC1sSEgzNlR4aHhza0JmU2NkVzhwaTd1ek1EWkpYeWc0WWpEQmdjRXl1U3V6dlVranNzeFNUeHQ1Ymw1ZlpCYUxOU1Z0RHJQX3Z4UFJNcmcwMkNoZjBQSUxTNTEySUduTno0Y3hLRTM3RFZaVXZJQlZYRXlGZmp6Y0NPUFhHUEkweDI2UHlzTVNRYXl1OE5ka1p0ak82UlRuUXBYMmFGYmdNRxIEGgIIABqxBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA5QUIABAAGAAgACodCgN0bXQVW5DZPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxVlQ5o_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chXYkS5AGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZmZtWDhCUDBEQzk3aDdsMU9lazRXZEhtWHZCX2k4RGNmQTBZSVhKOXc4M3l2QVFFc0ZPSDQ0cmJjRXA0aWdyWEFDRFlFcmE2OGVpNTdlT09YOS1QLUVwNU1VNmxVajRaU0JJNHB0ZG5BYmFuTzdVemNnV3FQZFZSeTRLOWxOQTc2OE53VzNvMlBVOFcybE1HSzFZY2RPbDFGVFgtQTNjTXAtN01KZFppU18xMVpwZmE3aWR1M1hpRUxFeDo5QW1idWphIENlbWVudCBSZXRhaWxlciBmcm9tIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQrwBPGI-VG10IEJhcnM8L2I-ICgyKSAmbWlkZG90OyBUbXQgQmFyIOKCuSA2NiwwMDAvVG9ubmUuIFRtdCBCYXIuIOKCuSA2NiwwMDAvVG9ubmUuIFdoYXRzQXBwLiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNyAmbWlkZG90OyBJcm9uIFRtdCBCYXIuIEdldCBMYXRlc3QgUHJpY2UuIFdoYXRzQXBwLiBDYWxsIE5vdysmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZjbzYtT0dFcFlsQkpDcmZpY3Q0cW1UeWJXTW1wX0hkMEJIRm5venpNLVBTNzdVN2d6U3IzNW9pcnMwTFktWFA5YUtpT2VjN3pWOGR5dWV4UlNCN2hoZkR4Yk00M1FwRVY1OVBpckRZcTdueUZHanVEeC1sSEgzNlR4aHhza0JmU2NkVzhwaTd1ek1EWkpYeWc0WWpEQmdjRXl1U3V6dlVranNzeFNUeHQ1Ymw1ZlpCYUxOU1Z0RHJQX3Z4UFJNcmcwMkNoZjBQSUxTNTEySUduTno0Y3hLRTM3RFZaVXZJQlZYRXlGZmp6Y0NPUFhHUEkweDI2UHlzTVNRYXl1OE5ka1p0ak82UlRuUXBYMmFGYmdNRxIEGgIIABqxBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA5QUIABAAGAAgACodCgN0bXQVW5DZPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxVlQ5o_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chXYkS5AGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZmZtWDhCUDBEQzk3aDdsMU9lazRXZEhtWHZCX2k4RGNmQTBZSVhKOXc4M3l2QVFFc0ZPSDQ0cmJjRXA0aWdyWEFDRFlFcmE2OGVpNTdlT09YOS1QLUVwNU1VNmxVajRaU0JJNHB0ZG5BYmFuTzdVemNnV3FQZFZSeTRLOWxOQTc2OE53VzNvMlBVOFcybE1HSzFZY2RPbDFGVFgtQTNjTXAtN01KZFppU18xMVpwZmE3aWR1M1hpRUxFeDo5QW1idWphIENlbWVudCBSZXRhaWxlciBmcm9tIDxiPlNocmlyYW1wdXI8L2I-IC0gSW5kaWFNQVJUQrwBPGI-VG10IEJhcnM8L2I-ICgyKSAmbWlkZG90OyBUbXQgQmFyIOKCuSA2NiwwMDAvVG9ubmUuIFRtdCBCYXIuIOKCuSA2NiwwMDAvVG9ubmUuIFdoYXRzQXBwLiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNyAmbWlkZG90OyBJcm9uIFRtdCBCYXIuIEdldCBMYXRlc3QgUHJpY2UuIFdoYXRzQXBwLiBDYWxsIE5vdysmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/ambuja-cement.html?srsltid=AU7gw4WNp4-49G-mdNxD_d4CZOp8yR6uFxdKdSfnlOJdbXohicapaCAF#:~:text=Tmt%20Bars%20(2)&text=Tmt%20Bar,Call%20Now&text=Iron%20Tmt%20Bar,Call%20Now"
+  },
+  {
+   "position": 2,
+   "title": "Construction Cement - Cement Retailer from Shrirampur",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/construction-cement.html?srsltid=AU7gw4VwYlAQfboFy9CcjbCbqzRyWGIqma14kK6_RCQtQmGqTw2LFJrK",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2QEB6zswFStTbNVxna6Q7RrfkYJmSeiX23qQihHcgGpOH4HhcFEarddSxlFzJd5UNNZbut7fGWxpz6KyJjM8Xt_DaFxJWy49nipn85PFyqgrYe2ojnQjAAMwdGqwflAi_utcMKUvnDx13I3GDHREH_pbszvvOqk6-4e7XRMYQmNwF-FDnX_tP01pI39vpaKqsnF3RwkUDsqoskyPNgPOBonjORqaSIgqFzDnmA5ZXyrFk4bNm3DSN4I73nGlCCaftZ0JUd0nT5hPQmOkOICYZlFKGbCKgwVskuh5&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Sidhivinayak Building Material Suppliers provides you the best range of Shree Cement, Tmt Bars, Construction Cement, Cement Sheet, Ambuja Cement, Roofing ...",
+   "snippet_highlighted_words": [
+    "Sidhivinayak Building Material Suppliers"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sidhivinayak Building Material Suppliers provides you the best range of Shree Cement, Tmt Bars, Construction Cement, Cement Sheet, Ambuja Cement, Roofing ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/construction-cement.html?srsltid=AU7gw4VwYlAQfboFy9CcjbCbqzRyWGIqma14kK6_RCQtQmGqTw2LFJrK",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrICL2dvdG8_dXJsPUNBRVMyUUVCNnpzd0ZTdFRiTlZ4bmE2UTdScmZrWUptU2VpWDIzcVFpaEhjZ0dwT0g0SGhjRkVhcmRkU3hsRnpKZDVVTk5aYnV0N2ZHV3hwejZLeUpqTThYdF9EYUZ4Sld5NDluaXBuODVQRnlxZ3JZZTJvam5RakFBTXdkR3F3ZmxBaV91dGNNS1V2bkR4MTNJM0dESFJFSF9wYnN6dnZPcWs2LTRlN1hSTVlRbU53Ri1GRG5YX3RQMDFwSTM5dnBhS3FzbkYzUndrVURzcW9za3lQTmdQT0JvbmpPUnFhU0lncUZ6RG5tQTVaWHlyRms0Yk5tM0RTTjRJNzNuR2xDQ2FmdFowSlVkMG5UNWhQUW1Pa09JQ1labEZLR2JDS2d3VnNrdWg1EgQaAggAGrUGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAVoRCAESDWluZGlhbWFydC5jb21yAHoAgkDpBQgAEAAYACAAKh0KA3RtdBU-vow_Ggd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFT6-jD8aA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFfqzLEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZhSklpSzItYms2MnlHMkpsNUhCV08zdkctTXVjLVpPVzFpUnh3V1NMeElaRC1teDBIdG93eTJIdW9WazF6SGZaU1VLakZWU0tIZkJrYjFjdUNyZ1p2aWhmRTg2dWJqOEtTRU8xY1JDWTd4M0o1c2pmS1lNWi1xOFAtZl9lNFNiQ1NpRjNUWmMzd3BsMHhoOE1GUVpWQlBsbzN0Vm84VHkzMzVUZTdxekNzSDFsU0lYa2lxR25uM0dyTm5XWGdMRC0tUVo6SENvbnN0cnVjdGlvbiBDZW1lbnQgLSBDZW1lbnQgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVEKpATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-IHByb3ZpZGVzIHlvdSB0aGUgYmVzdCByYW5nZSBvZiBTaHJlZSBDZW1lbnQsIFRtdCBCYXJzLCBDb25zdHJ1Y3Rpb24gQ2VtZW50LCBDZW1lbnQgU2hlZXQsIEFtYnVqYSBDZW1lbnQsIFJvb2ZpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrICL2dvdG8_dXJsPUNBRVMyUUVCNnpzd0ZTdFRiTlZ4bmE2UTdScmZrWUptU2VpWDIzcVFpaEhjZ0dwT0g0SGhjRkVhcmRkU3hsRnpKZDVVTk5aYnV0N2ZHV3hwejZLeUpqTThYdF9EYUZ4Sld5NDluaXBuODVQRnlxZ3JZZTJvam5RakFBTXdkR3F3ZmxBaV91dGNNS1V2bkR4MTNJM0dESFJFSF9wYnN6dnZPcWs2LTRlN1hSTVlRbU53Ri1GRG5YX3RQMDFwSTM5dnBhS3FzbkYzUndrVURzcW9za3lQTmdQT0JvbmpPUnFhU0lncUZ6RG5tQTVaWHlyRms0Yk5tM0RTTjRJNzNuR2xDQ2FmdFowSlVkMG5UNWhQUW1Pa09JQ1labEZLR2JDS2d3VnNrdWg1EgQaAggAGrUGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAVoRCAESDWluZGlhbWFydC5jb21yAHoAgkDpBQgAEAAYACAAKh0KA3RtdBU-vow_Ggd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFT6-jD8aA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFfqzLEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZhSklpSzItYms2MnlHMkpsNUhCV08zdkctTXVjLVpPVzFpUnh3V1NMeElaRC1teDBIdG93eTJIdW9WazF6SGZaU1VLakZWU0tIZkJrYjFjdUNyZ1p2aWhmRTg2dWJqOEtTRU8xY1JDWTd4M0o1c2pmS1lNWi1xOFAtZl9lNFNiQ1NpRjNUWmMzd3BsMHhoOE1GUVpWQlBsbzN0Vm84VHkzMzVUZTdxekNzSDFsU0lYa2lxR25uM0dyTm5XWGdMRC0tUVo6SENvbnN0cnVjdGlvbiBDZW1lbnQgLSBDZW1lbnQgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVEKpATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-IHByb3ZpZGVzIHlvdSB0aGUgYmVzdCByYW5nZSBvZiBTaHJlZSBDZW1lbnQsIFRtdCBCYXJzLCBDb25zdHJ1Y3Rpb24gQ2VtZW50LCBDZW1lbnQgU2hlZXQsIEFtYnVqYSBDZW1lbnQsIFJvb2ZpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 3,
+   "title": "TMT Bars in Ahilyanagar, Maharashtra | Get Latest Price ...",
+   "link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVfbQcdTn4Mf5ENcp5JMFKZCgj3CbMIGs3EZPiE8HZYfg21u07V10Mc0Rt-i-GmawNjF201ZAMMOSesAZektF6QTHRvHNTKReId-t-Q8O8r6QtH6TWuqQP6hkR1uJ88aEQgUudVfv_56Y&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › TMT Bars › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bar. ₹ 66,000/Tonne. Tmt Bar. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Iron Bar ...",
+   "snippet_highlighted_words": [
+    "Tmt Bar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bar. ₹ 66,000/Tonne. Tmt Bar. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Iron Bar ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVmZiUWNkVG40TWY1RU5jcDVKTUZLWkNnajNDYk1JR3MzRVpQaUU4SFpZZmcyMXUwN1YxME1jMFJ0LWktR21hd05qRjIwMVpBTU1PU2VzQVpla3RGNlFUSFJ2SE5US1JlSWQtdC1ROE84cjZRdEg2VFd1cVFQNmhrUjF1Sjg4YUVRZ1V1ZFZmdl81NlkSBBoCCAAaxQUSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQIgFCAAQABgAIAAqHQoDdG10FYTp4UAaB3RtdGJhcnMaCGl2O3A7dG10Kh4KBGJhcnMVznLLQBoDYmFyGgNwdWIaB3RtdGJhcnMqfQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgdkZWFsZXJzGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGglleHBvcnRlcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyKk4KCnNocmlyYW1wdXIVhQAbPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWZmJRY2RUbjRNZjVFTmNwNUpNRktaQ2dqM0NiTUlHczNFWlBpRThIWllmZzIxdTA3VjEwTWMwUnQtaS1HbWF3TmpGMjAxWkFNTU9TZXNBWmVrdEY2UVRIUnZITlRLUmVJZC10LVE4TzhyNlF0SDZUV3VxUVA2aGtSMXVKODhhRVFnVXVkVmZ2XzU2WTo3PGI-VE1UIEJhcnM8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKSATxiPlRtdCBCYXI8L2I-LiDigrkgNjYsMDAwL1Rvbm5lLiBUbXQgQmFyLiBTaWRoaXZpbmF5YWsgQnVpbGRpbmcgTWF0ZXJpYWwgU3VwcGxpZXJzLiBTaHJpcmFtcHVy4oCiOSB5cnMuIEdldCBCZXN0IFByaWNlQ2FsbCBOb3cuIElyb24gQmFyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVmZiUWNkVG40TWY1RU5jcDVKTUZLWkNnajNDYk1JR3MzRVpQaUU4SFpZZmcyMXUwN1YxME1jMFJ0LWktR21hd05qRjIwMVpBTU1PU2VzQVpla3RGNlFUSFJ2SE5US1JlSWQtdC1ROE84cjZRdEg2VFd1cVFQNmhrUjF1Sjg4YUVRZ1V1ZFZmdl81NlkSBBoCCAAaxQUSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQIgFCAAQABgAIAAqHQoDdG10FYTp4UAaB3RtdGJhcnMaCGl2O3A7dG10Kh4KBGJhcnMVznLLQBoDYmFyGgNwdWIaB3RtdGJhcnMqfQoIc3VwcGxpZXIVAAAAABoGZGVhbGVyGgdkZWFsZXJzGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGglleHBvcnRlcnMaDG1hbnVmYWN0dXJlchoNbWFudWZhY3R1cmVycxoJc3VwcGxpZXJzGg1pdjtwO3N1cHBsaWVyKk4KCnNocmlyYW1wdXIVhQAbPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIyoQEvZ290bz91cmw9Q0FFU2JRSHJPekFWZmJRY2RUbjRNZjVFTmNwNUpNRktaQ2dqM0NiTUlHczNFWlBpRThIWllmZzIxdTA3VjEwTWMwUnQtaS1HbWF3TmpGMjAxWkFNTU9TZXNBWmVrdEY2UVRIUnZITlRLUmVJZC10LVE4TzhyNlF0SDZUV3VxUVA2aGtSMXVKODhhRVFnVXVkVmZ2XzU2WTo3PGI-VE1UIEJhcnM8L2I-IGluIEFoaWx5YW5hZ2FyLCBNYWhhcmFzaHRyYSAtIEluZGlhTUFSVEKSATxiPlRtdCBCYXI8L2I-LiDigrkgNjYsMDAwL1Rvbm5lLiBUbXQgQmFyLiBTaWRoaXZpbmF5YWsgQnVpbGRpbmcgTWF0ZXJpYWwgU3VwcGxpZXJzLiBTaHJpcmFtcHVy4oCiOSB5cnMuIEdldCBCZXN0IFByaWNlQ2FsbCBOb3cuIElyb24gQmFyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html#:~:text=Tmt%20Bar,Bar%20%2C%20Iron%20Steel%20Bar"
+  },
+  {
+   "position": 4,
+   "title": "Roofing Sheets Retailer from Shrirampur",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/roofing-sheet.html?srsltid=AU7gw4XLKj8WBWj7ycpT5l94KlWJTLQIv7fSb9vRrzonyxrMbXsCG35s",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFfgOZS9sTvTwoqFu2liyFOJv7_r2PBitAW_o-jDdGCkVFXuBpGs4PvjyCevwug6VZJHmmfr8TkbQIjxe2_vVi64fshtl-VqvclOrCtYVzltLW5tAdPgrC_BbQ8g3Fm-pwKZxI5alSwP_ZAv77LO1x7kFE_EIOMxUPBjJYlG45OjKS8JiUb1g9T7gw70F6pf1RJU6sqFEL9sPdtX2RaSI23l_b0N4Gbxxo1RYu7m410dhqUtcmAmmIZRA3TDaNRADOaRmumutWIL5Vm504Ro-&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Sidhivinayak Building Material Suppliers provides you the best range of Shree Cement, Tmt Bars, Construction Cement, Cement Sheet, Ambuja Cement, Roofing ...",
+   "snippet_highlighted_words": [
+    "Sidhivinayak Building Material Suppliers"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sidhivinayak Building Material Suppliers provides you the best range of Shree Cement, Tmt Bars, Construction Cement, Cement Sheet, Ambuja Cement, Roofing ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/roofing-sheet.html?srsltid=AU7gw4XLKj8WBWj7ycpT5l94KlWJTLQIv7fSb9vRrzonyxrMbXsCG35s",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZmZ09aUzlzVHZUd29xRnUybGl5Rk9KdjdfcjJQQml0QVdfby1qRGRHQ2tWRlh1QnBHczRQdmp5Q2V2d3VnNlZaSkhtbWZyOFRrYlFJanhlMl92Vmk2NGZzaHRsLVZxdmNsT3JDdFlWemx0TFc1dEFkUGdyQ19CYlE4ZzNGbS1wd0taeEk1YWxTd1BfWkF2NzdMTzF4N2tGRV9FSU9NeFVQQmpKWWxHNDVPaktTOEppVWIxZzlUN2d3NzBGNnBmMVJKVTZzcUZFTDlzUGR0WDJSYVNJMjNsX2IwTjRHYnh4bzFSWXU3bTQxMGRocVV0Y21BbW1JWlJBM1REYU5SQURPYVJtdW11dFdJTDVWbTUwNFJvLRIEGgIIABqfBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA0wUIABAAGAAgACodCgN0bXQVPr6MPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxU-vow_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWLHCxAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZmlXeDk2aGN6eEtxbVI2Tkluc1VDQXJiTzE4OUpwTmZydVlva1lBdV9YMFVSZVliRE5PRW4xTlR1Xy1zTEhJODdXVDY5Yi1QM0t1akhnMjRwRWVuVHVlYVlWeGF5YlVEODFFQ3RuQURVcGpTTWExRmNSNmgzNWc5b3dzN3JtQkN5OHJWRm9EbVpKdld6bDJuZGQ5OW15VTZxN0ZtM3VjYnpWVTE1MjRocFEwUGhGUVJjeUpBNmtRUDduYzo6Um9vZmluZyBTaGVldHMgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVEKpATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-IHByb3ZpZGVzIHlvdSB0aGUgYmVzdCByYW5nZSBvZiBTaHJlZSBDZW1lbnQsIFRtdCBCYXJzLCBDb25zdHJ1Y3Rpb24gQ2VtZW50LCBDZW1lbnQgU2hlZXQsIEFtYnVqYSBDZW1lbnQsIFJvb2ZpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZmZ09aUzlzVHZUd29xRnUybGl5Rk9KdjdfcjJQQml0QVdfby1qRGRHQ2tWRlh1QnBHczRQdmp5Q2V2d3VnNlZaSkhtbWZyOFRrYlFJanhlMl92Vmk2NGZzaHRsLVZxdmNsT3JDdFlWemx0TFc1dEFkUGdyQ19CYlE4ZzNGbS1wd0taeEk1YWxTd1BfWkF2NzdMTzF4N2tGRV9FSU9NeFVQQmpKWWxHNDVPaktTOEppVWIxZzlUN2d3NzBGNnBmMVJKVTZzcUZFTDlzUGR0WDJSYVNJMjNsX2IwTjRHYnh4bzFSWXU3bTQxMGRocVV0Y21BbW1JWlJBM1REYU5SQURPYVJtdW11dFdJTDVWbTUwNFJvLRIEGgIIABqfBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA0wUIABAAGAAgACodCgN0bXQVPr6MPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxU-vow_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWLHCxAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGZmlXeDk2aGN6eEtxbVI2Tkluc1VDQXJiTzE4OUpwTmZydVlva1lBdV9YMFVSZVliRE5PRW4xTlR1Xy1zTEhJODdXVDY5Yi1QM0t1akhnMjRwRWVuVHVlYVlWeGF5YlVEODFFQ3RuQURVcGpTTWExRmNSNmgzNWc5b3dzN3JtQkN5OHJWRm9EbVpKdld6bDJuZGQ5OW15VTZxN0ZtM3VjYnpWVTE1MjRocFEwUGhGUVJjeUpBNmtRUDduYzo6Um9vZmluZyBTaGVldHMgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVEKpATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-IHByb3ZpZGVzIHlvdSB0aGUgYmVzdCByYW5nZSBvZiBTaHJlZSBDZW1lbnQsIFRtdCBCYXJzLCBDb25zdHJ1Y3Rpb24gQ2VtZW50LCBDZW1lbnQgU2hlZXQsIEFtYnVqYSBDZW1lbnQsIFJvb2ZpbmcmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/roofing-sheet.html?srsltid=AU7gw4XLKj8WBWj7ycpT5l94KlWJTLQIv7fSb9vRrzonyxrMbXsCG35s#:~:text=Sidhivinayak%20Building%20Material%20Suppliers%20provides,Other%20Products%20in%20Shrirampur%2C%20Maharashtra."
+  },
+  {
+   "position": 5,
+   "title": "Photos from Sidhivinayak Building Material Suppliers ...",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/photos.html?srsltid=AU7gw4XGJmRkeCrzCAYAgHVyneBHHdaZEJNKXy8jK-bCZmhIy_gRRJV9",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFUjaq0xdHP-qiCL_FuYaLv9uTVBvJ-lX9AjR2Q71iR5j5i0lpuWF2_jJenNcx9efnr8JVlgpKLSltT_MXMN04lTy2sVEt5ib4swPUjML64NJfyy59Tcd2wk_iYAC36rKa_ZQHaXp59q9DS7q5HZO2M9FQ0-SijbeaT-Des2bef9104zcWOp2vYwzFZqgmIpiFG9anxQ57UVKiyfRD5Gi_jZF38JXwXPoftAc2HMLsIZxUId_IWoMLC6x6maAjfVlf3_8-YrmOFM&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECCIQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › photos",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bar, Cement, Cement Sheet from Sidhivinayak Building Material Suppliers, Shrirampur. Call Now+918047300758,7027. Tmt Bar Tmt Bar ₹ 66,000/Tonne + ...",
+   "snippet_highlighted_words": [
+    "Tmt Bar, Cement, Cement Sheet from Sidhivinayak Building Material Suppliers, Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bar, Cement, Cement Sheet from Sidhivinayak Building Material Suppliers, Shrirampur. Call Now+918047300758,7027. Tmt Bar Tmt Bar ₹ 66,000/Tonne + ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/photos.html?srsltid=AU7gw4XGJmRkeCrzCAYAgHVyneBHHdaZEJNKXy8jK-bCZmhIy_gRRJV9",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZVamFxMHhkSFAtcWlDTF9GdVlhTHY5dVRWQnZKLWxYOUFqUjJRNzFpUjVqNWkwbHB1V0YyX2pKZW5OY3g5ZWZucjhKVmxncEtMU2x0VF9NWE1OMDRsVHkyc1ZFdDVpYjRzd1BVak1MNjROSmZ5eTU5VGNkMndrX2lZQUMzNnJLYV9aUUhhWHA1OXE5RFM3cTVIWk8yTTlGUTAtU2lqYmVhVC1EZXMyYmVmOTEwNHpjV09wMnZZd3pGWnFnbUlwaUZHOWFueFE1N1VWS2l5ZlJENUdpX2paRjM4Slh3WFBvZnRBYzJITUxzSVp4VUlkX0lXb01MQzZ4Nm1hQWpmVmxmM184LVlybU9GTRIEGgIIABqVBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJAyQUIABAAGAAgACodCgN0bXQVfZo8PxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxUAAAAAGgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWsESlAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGUmJtdFZSXy1HVDQxaV9LTTlpRXFqT05meXE4UEY4QlZ3M0VhQldVSHVlR1pTc19RNGlBZ0twWmF6MGNaUnVfS2swOUgyd2djcnNpVC1EVjB0TlN2VGlMUmtaWGthVDhRcFhVaXo4TExmWDJpeXN0OVlodEtvWm9LSVNsVjdPb3JrV1lBRWNPS3V2Q3Q1MXJJRHdRZkdjU294dXBRRDd3ZVoxQ0VaUS1wVkQxY3BweVVvNDo7U2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4gLSBJbmRpYU1BUlRCpwE8Yj5UbXQgQmFyLCBDZW1lbnQsIENlbWVudCBTaGVldCBmcm9tIFNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnMsIFNocmlyYW1wdXI8L2I-LiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNy4gVG10IEJhciBUbXQgQmFyIOKCuSA2NiwwMDAvVG9ubmUgKyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZVamFxMHhkSFAtcWlDTF9GdVlhTHY5dVRWQnZKLWxYOUFqUjJRNzFpUjVqNWkwbHB1V0YyX2pKZW5OY3g5ZWZucjhKVmxncEtMU2x0VF9NWE1OMDRsVHkyc1ZFdDVpYjRzd1BVak1MNjROSmZ5eTU5VGNkMndrX2lZQUMzNnJLYV9aUUhhWHA1OXE5RFM3cTVIWk8yTTlGUTAtU2lqYmVhVC1EZXMyYmVmOTEwNHpjV09wMnZZd3pGWnFnbUlwaUZHOWFueFE1N1VWS2l5ZlJENUdpX2paRjM4Slh3WFBvZnRBYzJITUxzSVp4VUlkX0lXb01MQzZ4Nm1hQWpmVmxmM184LVlybU9GTRIEGgIIABqVBhIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAFaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJAyQUIABAAGAAgACodCgN0bXQVfZo8PxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxUAAAAAGgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWsESlAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGUmJtdFZSXy1HVDQxaV9LTTlpRXFqT05meXE4UEY4QlZ3M0VhQldVSHVlR1pTc19RNGlBZ0twWmF6MGNaUnVfS2swOUgyd2djcnNpVC1EVjB0TlN2VGlMUmtaWGthVDhRcFhVaXo4TExmWDJpeXN0OVlodEtvWm9LSVNsVjdPb3JrV1lBRWNPS3V2Q3Q1MXJJRHdRZkdjU294dXBRRDd3ZVoxQ0VaUS1wVkQxY3BweVVvNDo7U2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4gLSBJbmRpYU1BUlRCpwE8Yj5UbXQgQmFyLCBDZW1lbnQsIENlbWVudCBTaGVldCBmcm9tIFNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnMsIFNocmlyYW1wdXI8L2I-LiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNy4gVG10IEJhciBUbXQgQmFyIOKCuSA2NiwwMDAvVG9ubmUgKyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 6,
+   "title": "TMT Bars Retailers & Dealers in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html?biz=40",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVUtq2le1sOCvnSy5Bv25cyKNmaZuVEIAGB7xTc35uE7isdh_BxDIuaDYCxg4sedbAxzPnm-unxWibNQ8nXK7wcwmyo-fEcRMjud3RoSdgvI57jkMQDli6Qj5hC2SMxgV82sFsZwR9DunzACzZORin&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › TMT Bars › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bar. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Kapila Tmt Steel Bar. ₹ 57/Kg. Brand: Kapila tmt 550 ...",
+   "snippet_highlighted_words": [
+    "Tmt Bar",
+    "Suppliers",
+    "Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bar. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Kapila Tmt Steel Bar. ₹ 57/Kg. Brand: Kapila tmt 550 ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html?biz=40",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlV0cTJsZTFzT0N2blN5NUJ2MjVjeUtObWFadVZFSUFHQjd4VGMzNXVFN2lzZGhfQnhESXVhRFlDeGc0c2VkYkF4elBubS11bnhXaWJOUThuWEs3d2N3bXlvLWZFY1JNanVkM1JvU2Rndkk1N2prTVFEbGk2UWo1aEMyU014Z1Y4MnNGc1p3UjlEdW56QUN6Wk9SaW4SBBoCCAAa_wUSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDEBQgAEAAYACAAKh0KA3RtdBWT_e1AGgd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFX1a3kAaA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFW85ez8aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlV0cTJsZTFzT0N2blN5NUJ2MjVjeUtObWFadVZFSUFHQjd4VGMzNXVFN2lzZGhfQnhESXVhRFlDeGc0c2VkYkF4elBubS11bnhXaWJOUThuWEs3d2N3bXlvLWZFY1JNanVkM1JvU2Rndkk1N2prTVFEbGk2UWo1aEMyU014Z1Y4MnNGc1p3UjlEdW56QUN6Wk9SaW46STxiPlRNVCBCYXJzPC9iPiBSZXRhaWxlcnMgJmFtcDsgPGI-RGVhbGVyczwvYj4gaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRCswE8Yj5UbXQgQmFyPC9iPi4gU2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4uIDxiPlNocmlyYW1wdXI8L2I-4oCiOSB5cnMuIEdldCBCZXN0IFByaWNlQ2FsbCBOb3cuIEthcGlsYSBUbXQgU3RlZWwgQmFyLiDigrkgNTcvS2cuIEJyYW5kOiBLYXBpbGEgdG10IDU1MCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlV0cTJsZTFzT0N2blN5NUJ2MjVjeUtObWFadVZFSUFHQjd4VGMzNXVFN2lzZGhfQnhESXVhRFlDeGc0c2VkYkF4elBubS11bnhXaWJOUThuWEs3d2N3bXlvLWZFY1JNanVkM1JvU2Rndkk1N2prTVFEbGk2UWo1aEMyU014Z1Y4MnNGc1p3UjlEdW56QUN6Wk9SaW4SBBoCCAAa_wUSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDEBQgAEAAYACAAKh0KA3RtdBWT_e1AGgd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFX1a3kAaA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFW85ez8aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVlV0cTJsZTFzT0N2blN5NUJ2MjVjeUtObWFadVZFSUFHQjd4VGMzNXVFN2lzZGhfQnhESXVhRFlDeGc0c2VkYkF4elBubS11bnhXaWJOUThuWEs3d2N3bXlvLWZFY1JNanVkM1JvU2Rndkk1N2prTVFEbGk2UWo1aEMyU014Z1Y4MnNGc1p3UjlEdW56QUN6Wk9SaW46STxiPlRNVCBCYXJzPC9iPiBSZXRhaWxlcnMgJmFtcDsgPGI-RGVhbGVyczwvYj4gaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRCswE8Yj5UbXQgQmFyPC9iPi4gU2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4uIDxiPlNocmlyYW1wdXI8L2I-4oCiOSB5cnMuIEdldCBCZXN0IFByaWNlQ2FsbCBOb3cuIEthcGlsYSBUbXQgU3RlZWwgQmFyLiDigrkgNTcvS2cuIEJyYW5kOiBLYXBpbGEgdG10IDU1MCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/tmt-bars.html?biz=40#:~:text=Tmt%20Bar,Brand%3A%20Kapila%20tmt%20550"
+  },
+  {
+   "position": 7,
+   "title": "About Sidhivinayak Building Material Suppliers",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/aboutus.html?srsltid=AU7gw4XGDc1IA0alKW0Ls-A6VwXvOz8SkLPce2hk7bBwxSlvZ4kLu9lb",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFbv9F_Tqop5gq4apR6cPlmhkmSKfxOiMwv7jQ5X_PfoaPwl_oYfsQ8RIAga1woDY2CtOqSCqB36iVOU91KgddZUOv-dF8KJ6Nuw5MKBDrZ7XRtqe_mmfwcaI3yJ2OyaPhbMyfqiADrYdpXytImiPQC2Wj_K6YjmW8fthOwJ6K6DLprfQhZQx8PMBh1lzjDTljMwRPLK1WakAP7613T1_lJgB7fDEISMagxfQOnyxrZbd35RoprXqEC-JuaMAdRGE6o9U38NtnPXX&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › aboutus",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bar, provides you the best range of Shree Cement, Tmt Bars, Shrirampur, Maharashtra. Call Now+918047300758,7027. Shrirampur, Maharashtra.",
+   "snippet_highlighted_words": [
+    "Tmt Bar",
+    "Tmt Bars",
+    "Shrirampur",
+    "Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bar, provides you the best range of Shree Cement, Tmt Bars, Shrirampur, Maharashtra. Call Now+918047300758,7027. Shrirampur, Maharashtra.",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/aboutus.html?srsltid=AU7gw4XGDc1IA0alKW0Ls-A6VwXvOz8SkLPce2hk7bBwxSlvZ4kLu9lb",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZidjlGX1Rxb3A1Z3E0YXBSNmNQbG1oa21TS2Z4T2lNd3Y3alE1WF9QZm9hUHdsX29ZZnNROFJJQWdhMXdvRFkyQ3RPcVNDcUIzNmlWT1U5MUtnZGRaVU92LWRGOEtKNk51dzVNS0JEclo3WFJ0cWVfbW1md2NhSTN5SjJPeWFQaGJNeWZxaUFEcllkcFh5dEltaVBRQzJXal9LNllqbVc4ZnRoT3dKNks2RExwcmZRaFpReDhQTUJoMWx6akRUbGpNd1JQTEsxV2FrQVA3NjEzVDFfbEpnQjdmREVJU01hZ3hmUU9ueXhyWmJkMzVSb3ByWHFFQy1KdWFNQWRSR0U2bzlVMzhOdG5QWFgSBBoCCAAajAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoRCAESDWluZGlhbWFydC5jb21yAHoAgkDXBQgAEAAYACAAKh0KA3RtdBURiN8_Ggd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFd7zkD8aA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFXePVEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZZUzJyaU5kcFA0dG9POC1RX2t2MTRtdGtxRzdVNU5wb2h1dUhtOEt3S2VuZ1p6bVZ0X2Z0SFl0UDlhQnBXQ3F6Q2RRcTZTN0t4OTFuMmx4eEZlMTdRWVkwemRFcDlvWExtQkE0MmxTSVE1YjdubFRoY3B0aUw1a05QTGZEQ2hWNThOZ1BzblIwVEVtZGRJZTA2SmloN3ZPQ0VYdDFjXzh0N20xUnBmQkx2SkR1YUxMU3d4dzpGU2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4gfCBBYm91dCBVcyAtIEluZGlhTUFSVEKpATxiPlRtdCBCYXI8L2I-LCBwcm92aWRlcyB5b3UgdGhlIGJlc3QgcmFuZ2Ugb2YgU2hyZWUgQ2VtZW50LCA8Yj5UbXQgQmFyczwvYj4sIDxiPlNocmlyYW1wdXI8L2I-LCBNYWhhcmFzaHRyYS4gQ2FsbCBOb3crOTE4MDQ3MzAwNzU4LDcwMjcuIDxiPlNocmlyYW1wdXI8L2I-LCBNYWhhcmFzaHRyYS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZidjlGX1Rxb3A1Z3E0YXBSNmNQbG1oa21TS2Z4T2lNd3Y3alE1WF9QZm9hUHdsX29ZZnNROFJJQWdhMXdvRFkyQ3RPcVNDcUIzNmlWT1U5MUtnZGRaVU92LWRGOEtKNk51dzVNS0JEclo3WFJ0cWVfbW1md2NhSTN5SjJPeWFQaGJNeWZxaUFEcllkcFh5dEltaVBRQzJXal9LNllqbVc4ZnRoT3dKNks2RExwcmZRaFpReDhQTUJoMWx6akRUbGpNd1JQTEsxV2FrQVA3NjEzVDFfbEpnQjdmREVJU01hZ3hmUU9ueXhyWmJkMzVSb3ByWHFFQy1KdWFNQWRSR0U2bzlVMzhOdG5QWFgSBBoCCAAajAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoRCAESDWluZGlhbWFydC5jb21yAHoAgkDXBQgAEAAYACAAKh0KA3RtdBURiN8_Ggd0bXRiYXJzGghpdjtwO3RtdCoeCgRiYXJzFd7zkD8aA2JhchoDcHViGgd0bXRiYXJzKn0KCHN1cHBsaWVyFQAAAAAaBmRlYWxlchoHZGVhbGVycxoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoJZXhwb3J0ZXJzGgxtYW51ZmFjdHVyZXIaDW1hbnVmYWN0dXJlcnMaCXN1cHBsaWVycxoNaXY7cDtzdXBwbGllcipOCgpzaHJpcmFtcHVyFXePVEAaFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZZUzJyaU5kcFA0dG9POC1RX2t2MTRtdGtxRzdVNU5wb2h1dUhtOEt3S2VuZ1p6bVZ0X2Z0SFl0UDlhQnBXQ3F6Q2RRcTZTN0t4OTFuMmx4eEZlMTdRWVkwemRFcDlvWExtQkE0MmxTSVE1YjdubFRoY3B0aUw1a05QTGZEQ2hWNThOZ1BzblIwVEVtZGRJZTA2SmloN3ZPQ0VYdDFjXzh0N20xUnBmQkx2SkR1YUxMU3d4dzpGU2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIDxiPlN1cHBsaWVyczwvYj4gfCBBYm91dCBVcyAtIEluZGlhTUFSVEKpATxiPlRtdCBCYXI8L2I-LCBwcm92aWRlcyB5b3UgdGhlIGJlc3QgcmFuZ2Ugb2YgU2hyZWUgQ2VtZW50LCA8Yj5UbXQgQmFyczwvYj4sIDxiPlNocmlyYW1wdXI8L2I-LCBNYWhhcmFzaHRyYS4gQ2FsbCBOb3crOTE4MDQ3MzAwNzU4LDcwMjcuIDxiPlNocmlyYW1wdXI8L2I-LCBNYWhhcmFzaHRyYS4iAhABSABYAGgA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 8,
+   "title": "Cement Sheet Retailer from Shrirampur",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/cement-sheet.html?srsltid=AU7gw4WGXGv2y0fZ2WKSCkpHKNn5-APX4dBjee8aEbrrUVokPCKtveMJ",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0gEB6zswFVPHCn1cTudssZzZ12UqYKVGze9LP9zi6XNW3T4q6Gzl6lGX_YGrC3zJzMAqLAQun32nDwZDZ9-itFTuU6eAy1QMs2tSBxy5e8QSRJq8RhnNRbpxyd-5nF5uBznWCvnL5MXNTWSgw6JzWKBME8HJO2IbapdaRIgeA0qUAONYzzNrMkeNln1yLVlgqZbjBFmuAJmOkUbD_Y1QJ3IzR3tD_t1h9YagCFJQJkROlz9Xk73YjRy1HD3lbxN6r3zG_k5_o0aO3DNkgj-YOa_20iY&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Tmt Bars (2) · Tmt Bar ₹ 66,000/Tonne. Tmt Bar. ₹ 66,000/Tonne. Get Best Price Call Now+918047300758,7027 · Iron Tmt Bar. Get Best Price Call Now+918047300758, ...",
+   "snippet_highlighted_words": [
+    "Tmt Bars"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Tmt Bars (2) · Tmt Bar ₹ 66,000/Tonne. Tmt Bar. ₹ 66,000/Tonne. Get Best Price Call Now+918047300758,7027 · Iron Tmt Bar. Get Best Price Call Now+918047300758, ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/cement-sheet.html?srsltid=AU7gw4WGXGv2y0fZ2WKSCkpHKNn5-APX4dBjee8aEbrrUVokPCKtveMJ",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZWUEhDbjFjVHVkc3NaeloxMlVxWUtWR3plOUxQOXppNlhOVzNUNHE2R3psNmxHWF9ZR3JDM3pKek1BcUxBUXVuMzJuRHdaRFo5LWl0RlR1VTZlQXkxUU1zMnRTQnh5NWU4UVNSSnE4UmhuTlJicHh5ZC01bkY1dUJ6bldDdm5MNU1YTlRXU2d3Nkp6V0tCTUU4SEpPMkliYXBkYVJJZ2VBMHFVQU9OWXp6TnJNa2VObG4xeUxWbGdxWmJqQkZtdUFKbU9rVWJEX1kxUUozSXpSM3REX3QxaDlZYWdDRkpRSmtST2x6OVhrNzNZalJ5MUhEM2xieE42cjN6R19rNV9vMGFPM0ROa2dqLVlPYV8yMGlZEgQaAggAGp0GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA6AUIABAAGAAgACodCgN0bXQVvSnRPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxVlQ5o_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chW-Ty9AGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGUnhJSGJSSTVaUVhTY1UzcXBDMUpmRWpkQldiUE50VG9RUnV6LWRoWFlIQ0xDdXpDVVF4eUR0ZWpHZ2lKLUtJbjZsbzBXbDVkcy03VUZmdlFQSWFlal9sS25HTHBBZWZZS2xLbjV1eUJoaC1vdFAxNDV6d1luS0IwX0lHTklYZGtBWk5nUFctcTVFM1RnSFdFWnMtXzR4LVY5QVpPYUpaQktGOUtOT25MRDFXa251YkhtZmlQNGNXNE00OjhDZW1lbnQgU2hlZXQgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVELBATxiPlRtdCBCYXJzPC9iPiAoMikgJm1pZGRvdDsgVG10IEJhciDigrkgNjYsMDAwL1Rvbm5lLiBUbXQgQmFyLiDigrkgNjYsMDAwL1Rvbm5lLiBHZXQgQmVzdCBQcmljZSBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNyAmbWlkZG90OyBJcm9uIFRtdCBCYXIuIEdldCBCZXN0IFByaWNlIENhbGwgTm93KzkxODA0NzMwMDc1OCwmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCNnpzd0ZWUEhDbjFjVHVkc3NaeloxMlVxWUtWR3plOUxQOXppNlhOVzNUNHE2R3psNmxHWF9ZR3JDM3pKek1BcUxBUXVuMzJuRHdaRFo5LWl0RlR1VTZlQXkxUU1zMnRTQnh5NWU4UVNSSnE4UmhuTlJicHh5ZC01bkY1dUJ6bldDdm5MNU1YTlRXU2d3Nkp6V0tCTUU4SEpPMkliYXBkYVJJZ2VBMHFVQU9OWXp6TnJNa2VObG4xeUxWbGdxWmJqQkZtdUFKbU9rVWJEX1kxUUozSXpSM3REX3QxaDlZYWdDRkpRSmtST2x6OVhrNzNZalJ5MUhEM2xieE42cjN6R19rNV9vMGFPM0ROa2dqLVlPYV8yMGlZEgQaAggAGp0GEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA6AUIABAAGAAgACodCgN0bXQVvSnRPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxVlQ5o_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chW-Ty9AGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGUnhJSGJSSTVaUVhTY1UzcXBDMUpmRWpkQldiUE50VG9RUnV6LWRoWFlIQ0xDdXpDVVF4eUR0ZWpHZ2lKLUtJbjZsbzBXbDVkcy03VUZmdlFQSWFlal9sS25HTHBBZWZZS2xLbjV1eUJoaC1vdFAxNDV6d1luS0IwX0lHTklYZGtBWk5nUFctcTVFM1RnSFdFWnMtXzR4LVY5QVpPYUpaQktGOUtOT25MRDFXa251YkhtZmlQNGNXNE00OjhDZW1lbnQgU2hlZXQgUmV0YWlsZXIgZnJvbSA8Yj5TaHJpcmFtcHVyPC9iPiAtIEluZGlhTUFSVELBATxiPlRtdCBCYXJzPC9iPiAoMikgJm1pZGRvdDsgVG10IEJhciDigrkgNjYsMDAwL1Rvbm5lLiBUbXQgQmFyLiDigrkgNjYsMDAwL1Rvbm5lLiBHZXQgQmVzdCBQcmljZSBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNyAmbWlkZG90OyBJcm9uIFRtdCBCYXIuIEdldCBCZXN0IFByaWNlIENhbGwgTm93KzkxODA0NzMwMDc1OCwmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/cement-sheet.html?srsltid=AU7gw4WGXGv2y0fZ2WKSCkpHKNn5-APX4dBjee8aEbrrUVokPCKtveMJ#:~:text=Tmt%20Bars%20(2)&text=Tmt%20Bar,Call%20Now&text=Iron%20Tmt%20Bar,Call%20Now"
+  },
+  {
+   "position": 9,
+   "title": "Iron Steel Bar in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/iron-steel-bar.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVppJ778jI8kLlbJwD9SWbVxfmzMtKhxVtSJegFqAbqCd--_Lk89gcKcNwUs-2EPeeqOFpsq87wkZzuQ8V0db28PMQ-ucThGjo1Rp-8Mu9TeGtFzsgwRtjDPEhb7wVE41NeXbSPpgknRvSkJjqd38&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "TMT Bars Iron Steel Bar. Shrirampur•10 yrs. Available Price Ranges Below ₹60 yrs. Mobile: +918043852675. Mobile: +917947154131",
+   "snippet_highlighted_words": [
+    "TMT Bars Iron Steel Bar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "TMT Bars Iron Steel Bar. Shrirampur•10 yrs. Available Price Ranges Below ₹60 yrs. Mobile: +918043852675. Mobile: +917947154131",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/iron-steel-bar.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBwSjc3OGpJOGtMbGJKd0Q5U1diVnhmbXpNdEtoeFZ0U0plZ0ZxQWJxQ2QtLV9Mazg5Z2NLY053VXMtMkVQZWVxT0Zwc3E4N3drWnp1UThWMGRiMjhQTVEtdWNUaEdqbzFScC04TXU5VGVHdEZ6c2d3UnRqRFBFaGI3d1ZFNDFOZVhiU1BwZ2tuUnZTa0pqcWQzOBIEGgIIABrKBRICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAjQUIABAAGAAgACodCgN0bXQV57eqPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxUIwhhAGgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chVOH0Q_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZwcEo3NzhqSThrTGxiSndEOVNXYlZ4Zm16TXRLaHhWdFNKZWdGcUFicUNkLS1fTGs4OWdjS2NOd1VzLTJFUGVlcU9GcHNxODd3a1p6dVE4VjBkYjI4UE1RLXVjVGhHam8xUnAtOE11OVRlR3RGenNnd1J0akRQRWhiN3dWRTQxTmVYYlNQcGdrblJ2U2tKanFkMzg6PUlyb24gU3RlZWwgPGI-QmFyPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEgLSBJbmRpYU1BUlRCiQE8Yj5UTVQgQmFycyBJcm9uIFN0ZWVsIEJhcjwvYj4uIFNocmlyYW1wdXLigKIxMCB5cnMuIEF2YWlsYWJsZSBQcmljZSBSYW5nZXMgQmVsb3cg4oK5NjAgeXJzLiBNb2JpbGU6ICs5MTgwNDM4NTI2NzUuIE1vYmlsZTogKzkxNzk0NzE1NDEzMSICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBwSjc3OGpJOGtMbGJKd0Q5U1diVnhmbXpNdEtoeFZ0U0plZ0ZxQWJxQ2QtLV9Mazg5Z2NLY053VXMtMkVQZWVxT0Zwc3E4N3drWnp1UThWMGRiMjhQTVEtdWNUaEdqbzFScC04TXU5VGVHdEZ6c2d3UnRqRFBFaGI3d1ZFNDFOZVhiU1BwZ2tuUnZTa0pqcWQzOBIEGgIIABrKBRICCAAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAjQUIABAAGAAgACodCgN0bXQV57eqPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxUIwhhAGgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chVOH0Q_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZwcEo3NzhqSThrTGxiSndEOVNXYlZ4Zm16TXRLaHhWdFNKZWdGcUFicUNkLS1fTGs4OWdjS2NOd1VzLTJFUGVlcU9GcHNxODd3a1p6dVE4VjBkYjI4UE1RLXVjVGhHam8xUnAtOE11OVRlR3RGenNnd1J0akRQRWhiN3dWRTQxTmVYYlNQcGdrblJ2U2tKanFkMzg6PUlyb24gU3RlZWwgPGI-QmFyPC9iPiBpbiBBaGlseWFuYWdhciwgTWFoYXJhc2h0cmEgLSBJbmRpYU1BUlRCiQE8Yj5UTVQgQmFycyBJcm9uIFN0ZWVsIEJhcjwvYj4uIFNocmlyYW1wdXLigKIxMCB5cnMuIEF2YWlsYWJsZSBQcmljZSBSYW5nZXMgQmVsb3cg4oK5NjAgeXJzLiBNb2JpbGU6ICs5MTgwNDM4NTI2NzUuIE1vYmlsZTogKzkxNzk0NzE1NDEzMSICEAFIAFgAaAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 10,
+   "title": "Sidhivinayak Building Material Suppliers",
+   "link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/other-products.html?srsltid=AU7gw4XrIDqxBbJcOYpMMvyx3RFhEvx6ImzXlKi-eQAItIJBMzf8TK1y",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES1AEB6zswFThHAyxy8VJD4JoG4mOhM1ry1HVR-WxLAl9FSXDbrIhBmcLgWZPnmbvTF84PQEKcUI65RD0Poe7w4qNtJdCm7Qns2ItTfvyLlQ1YseiFdasEZgV1OZoS2rez1SY3I8woSSMzbe0fYJmPxHZdw4YSoCclJgL0cAPn-g67EXgmnXR__rPeHO_4OJ0hkkTO4mO11JxiyreoOe1z8gQKGrQcWsPz4CswwlFyjZEJbL1q4t94dwDnGC-KdqE7ZDqalEzWGL1Sihi7H-tSuq4Om2KQHQ&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://www.indiamart.com › ... › Products & Services",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Sidhivinayak Building Material Suppliers. Shrirampur. 9 yrs. GST. Contact WhatsApp. Call Now+918047300758,7027. ProductsCategoriesAboutPhotosVideos ...",
+   "snippet_highlighted_words": [
+    "Sidhivinayak Building Material Suppliers"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Sidhivinayak Building Material Suppliers. Shrirampur. 9 yrs. GST. Contact WhatsApp. Call Now+918047300758,7027. ProductsCategoriesAboutPhotosVideos ...",
+     "source_info_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/other-products.html?srsltid=AU7gw4XrIDqxBbJcOYpMMvyx3RFhEvx6ImzXlKi-eQAItIJBMzf8TK1y",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwCL2dvdG8_dXJsPUNBRVMxQUVCNnpzd0ZUaEhBeXh5OFZKRDRKb0c0bU9oTTFyeTFIVlItV3hMQWw5RlNYRGJySWhCbWNMZ1daUG5tYnZURjg0UFFFS2NVSTY1UkQwUG9lN3c0cU50SmRDbTdRbnMySXRUZnZ5TGxRMVlzZWlGZGFzRVpnVjFPWm9TMnJlejFTWTNJOHdvU1NNemJlMGZZSm1QeEhaZHc0WVNvQ2NsSmdMMGNBUG4tZzY3RVhnbW5YUl9fclBlSE9fNE9KMGhra1RPNG1PMTFKeGl5cmVvT2UxejhnUUtHclFjV3NQejRDc3d3bEZ5alpFSmJMMXE0dDk0ZHdEbkdDLUtkcUU3WkRxYWxFeldHTDFTaWhpN0gtdFN1cTRPbTJLUUhREgQaAggAGoUGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA0AUIABAAGAAgACodCgN0bXQVug-GPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxW6D4Y_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWgVCZAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGVXRVN1ZkdE5tZy1GYmJ1NDFrUkw5VkExemg3VUtVZWdHMTJtMjZ5bU1sZVRwRFgwRFhoclFlMDVzNzdaaEc2WUJYeXJOVkdwMWRsbDJaMGs1QzlCUDU5RzJZMnZCOW93VjBQaDdhdFpYNkoyaVBxeVBHS1dndkNhcGNLS291NjhXVmt4Z2FOVEE2Rm5NRnF1aU1sbC1tX2pXa28xdGpudC11U2t4VDdtSy1yQ0hDVUJSSXVsdEcxdjQzbWhROjtTaWRoaXZpbmF5YWsgQnVpbGRpbmcgTWF0ZXJpYWwgPGI-U3VwcGxpZXJzPC9iPiAtIEluZGlhTUFSVEKjATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-LiBTaHJpcmFtcHVyLiA5IHlycy4gR1NULiBDb250YWN0IFdoYXRzQXBwLiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNy4gUHJvZHVjdHNDYXRlZ29yaWVzQWJvdXRQaG90b3NWaWRlb3MmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwCL2dvdG8_dXJsPUNBRVMxQUVCNnpzd0ZUaEhBeXh5OFZKRDRKb0c0bU9oTTFyeTFIVlItV3hMQWw5RlNYRGJySWhCbWNMZ1daUG5tYnZURjg0UFFFS2NVSTY1UkQwUG9lN3c0cU50SmRDbTdRbnMySXRUZnZ5TGxRMVlzZWlGZGFzRVpnVjFPWm9TMnJlejFTWTNJOHdvU1NNemJlMGZZSm1QeEhaZHc0WVNvQ2NsSmdMMGNBUG4tZzY3RVhnbW5YUl9fclBlSE9fNE9KMGhra1RPNG1PMTFKeGl5cmVvT2UxejhnUUtHclFjV3NQejRDc3d3bEZ5alpFSmJMMXE0dDk0ZHdEbkdDLUtkcUU3WkRxYWxFeldHTDFTaWhpN0gtdFN1cTRPbTJLUUhREgQaAggAGoUGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaEQgBEg1pbmRpYW1hcnQuY29tcgB6AIJA0AUIABAAGAAgACodCgN0bXQVug-GPxoHdG10YmFycxoIaXY7cDt0bXQqHgoEYmFycxW6D4Y_GgNiYXIaA3B1YhoHdG10YmFycyp9CghzdXBwbGllchUAAAAAGgZkZWFsZXIaB2RlYWxlcnMaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCWV4cG9ydGVycxoMbWFudWZhY3R1cmVyGg1tYW51ZmFjdHVyZXJzGglzdXBwbGllcnMaDWl2O3A7c3VwcGxpZXIqTgoKc2hyaXJhbXB1chWgVCZAGhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGVXRVN1ZkdE5tZy1GYmJ1NDFrUkw5VkExemg3VUtVZWdHMTJtMjZ5bU1sZVRwRFgwRFhoclFlMDVzNzdaaEc2WUJYeXJOVkdwMWRsbDJaMGs1QzlCUDU5RzJZMnZCOW93VjBQaDdhdFpYNkoyaVBxeVBHS1dndkNhcGNLS291NjhXVmt4Z2FOVEE2Rm5NRnF1aU1sbC1tX2pXa28xdGpudC11U2t4VDdtSy1yQ0hDVUJSSXVsdEcxdjQzbWhROjtTaWRoaXZpbmF5YWsgQnVpbGRpbmcgTWF0ZXJpYWwgPGI-U3VwcGxpZXJzPC9iPiAtIEluZGlhTUFSVEKjATxiPlNpZGhpdmluYXlhayBCdWlsZGluZyBNYXRlcmlhbCBTdXBwbGllcnM8L2I-LiBTaHJpcmFtcHVyLiA5IHlycy4gR1NULiBDb250YWN0IFdoYXRzQXBwLiBDYWxsIE5vdys5MTgwNDczMDA3NTgsNzAyNy4gUHJvZHVjdHNDYXRlZ29yaWVzQWJvdXRQaG90b3NWaWRlb3MmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://www.indiamart.com/siddhivinayak-building-material-suppliers/other-products.html?srsltid=AU7gw4XrIDqxBbJcOYpMMvyx3RFhEvx6ImzXlKi-eQAItIJBMzf8TK1y#:~:text=Sidhivinayak%20Building%20Material%20Suppliers,ProductsCategoriesAboutPhotosVideos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:indiamart.com+TMT+bars+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnvPL-Z7SCMm8W8f26zquze-qZKMgw:1790927682011&ei=QmO_ausrsMqnzg_BkqjAAQ&start=10&sa=N&sstk=AS6-VmL6rRGTKk68VavBhIy4BwPCEMRBoZNzhtMe0LE3S_-a67gYzDU5nOAG-7RrsadxlmfnKc1t5T6qfv8plyS5KV4Zh4Oe0Mt5eg&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQ8NMDegQIPRAK",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:indiamart.com+TMT+bars+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnvPL-Z7SCMm8W8f26zquze-qZKMgw:1790927682011&ei=QmO_ausrsMqnzg_BkqjAAQ&start=10&sa=N&sstk=AS6-VmL6rRGTKk68VavBhIy4BwPCEMRBoZNzhtMe0LE3S_-a67gYzDU5nOAG-7RrsadxlmfnKc1t5T6qfv8plyS5KV4Zh4Oe0Mt5eg&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQ8tMDegQIPRAE",
+   "3": "https://www.google.com/search?q=site:indiamart.com+TMT+bars+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnvPL-Z7SCMm8W8f26zquze-qZKMgw:1790927682011&ei=QmO_ausrsMqnzg_BkqjAAQ&start=20&sa=N&sstk=AS6-VmL6rRGTKk68VavBhIy4BwPCEMRBoZNzhtMe0LE3S_-a67gYzDU5nOAG-7RrsadxlmfnKc1t5T6qfv8plyS5KV4Zh4Oe0Mt5eg&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQ8tMDegQIPRAG",
+   "4": "https://www.google.com/search?q=site:indiamart.com+TMT+bars+supplier+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQnvPL-Z7SCMm8W8f26zquze-qZKMgw:1790927682011&ei=QmO_ausrsMqnzg_BkqjAAQ&start=30&sa=N&sstk=AS6-VmL6rRGTKk68VavBhIy4BwPCEMRBoZNzhtMe0LE3S_-a67gYzDU5nOAG-7RrsadxlmfnKc1t5T6qfv8plyS5KV4Zh4Oe0Mt5eg&ved=2ahUKEwjr1LfC7ZqXAxUw5ckDHUEJChgQ8tMDegQIPRAI"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+TMT+bars+supplier+Shrirampur&start=30"
+  }
+ }
+}

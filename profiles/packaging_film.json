@@ -1,0 +1,29 @@
+{
+  "id": "packaging_film",
+  "name": "Packaging film / stretch wrap",
+  "validated": false,
+  "maps_queries": [
+    "packaging material supplier {city}",
+    "stretch film dealer {city}",
+    "packaging film wholesaler {city}"
+  ],
+  "marketplace_queries": [
+    "packaging film supplier {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "stretch wrap film roll",
+  "logistics_query": "tempo transport {city}",
+  "units": [
+    "kg",
+    "roll",
+    "piece"
+  ],
+  "urgency_weight": 0.4,
+  "rfq_fields": [
+    "material",
+    "width",
+    "thickness (micron)",
+    "roll weight"
+  ],
+  "price_reference": "retail_only"
+}

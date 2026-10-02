@@ -1,0 +1,53 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "tempo transport Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62fcc83b3fe96d1e9f7a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/q46jG-rUheSUKNzi6LHcQ6YK1Ln7hlPRmj2eHfdGMlA/6abf62fcc83b3fe96d1e9f7a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/q46jG-rUheSUKNzi6LHcQ6YK1Ln7hlPRmj2eHfdGMlA/6abf62fcc83b3fe96d1e9f7a.md",
+  "created_at": "2026-10-02 07:53:32 UTC",
+  "processed_at": "2026-10-02 07:53:32 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/tempo+transport+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/q46jG-rUheSUKNzi6LHcQ6YK1Ln7hlPRmj2eHfdGMlA/6abf62fcc83b3fe96d1e9f7a.html",
+  "prettify_html_file": "https://serpapi.com/searches/q46jG-rUheSUKNzi6LHcQ6YK1Ln7hlPRmj2eHfdGMlA/6abf62fcc83b3fe96d1e9f7a.prettify",
+  "total_time_taken": 1.45
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "tempo transport Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Showing results for type: \"place\" instead of type: \"search\"",
+  "query_displayed": "tempo transport Shrirampur"
+ },
+ "place_results": {
+  "title": "Tempo stand",
+  "place_id": "ChIJsXMYUACL3DsRRtV2J9YkX1k",
+  "data_id": "0x3bdc8b00501873b1:0x595f24d62776d546",
+  "data_cid": "6439906494366799174",
+  "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b00501873b1%3A0x595f24d62776d546&engine=google_maps_reviews&hl=en",
+  "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b00501873b1%3A0x595f24d62776d546&engine=google_maps_photos&hl=en",
+  "gps_coordinates": {
+   "latitude": 19.620086399999998,
+   "longitude": 74.6509478
+  },
+  "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJsXMYUACL3DsRRtV2J9YkX1k",
+  "provider_id": "/g/11x2v6rx8f",
+  "unclaimed_listing": true,
+  "type": [
+   "Transportation service"
+  ],
+  "address": "JMC2+29P, Sangamner Rd, Shrirampur, Maharashtra 413709",
+  "country": "India"
+ }
+}

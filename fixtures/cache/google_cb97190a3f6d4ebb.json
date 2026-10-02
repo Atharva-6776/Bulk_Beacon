@@ -1,0 +1,376 @@
+{
+ "_params": {
+  "engine": "google",
+  "q": "site:indiamart.com cement dealer Shrirampur",
+  "location": "Shrirampur, India",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62e61cff19049492c22e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_dyLpyBqMuXPc_NNHiJWf9RDQ7MbRT-OPzki-P7lB0M/6abf62e61cff19049492c22e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_dyLpyBqMuXPc_NNHiJWf9RDQ7MbRT-OPzki-P7lB0M/6abf62e61cff19049492c22e.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/_dyLpyBqMuXPc_NNHiJWf9RDQ7MbRT-OPzki-P7lB0M/6abf62e61cff19049492c22e.json_with_pixel_position",
+  "created_at": "2026-10-02 07:53:10 UTC",
+  "processed_at": "2026-10-02 07:53:10 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Aindiamart.com+cement+dealer+Shrirampur&oq=site%3Aindiamart.com+cement+dealer+Shrirampur&uule=w+CAIQICIcU2hyaXJhbXB1cixNYWhhcmFzaHRyYSxJbmRpYQ&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/_dyLpyBqMuXPc_NNHiJWf9RDQ7MbRT-OPzki-P7lB0M/6abf62e61cff19049492c22e.html",
+  "total_time_taken": 11.49
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:indiamart.com cement dealer Shrirampur",
+  "location_requested": "Shrirampur, India",
+  "location_used": "Shrirampur,Maharashtra,India",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:indiamart.com cement dealer Shrirampur",
+  "total_results": 256,
+  "time_taken_displayed": 0.28,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/construction-cement.html?biz=40",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVAOMmYqGvc9YureG3ZMRwXNxW7J4zJ_kf0gplHFf0Gkguu6FyqIc3uhYiPoaCAGSuT3GPaVQdsYTuj6Xg_aJvhelCVSnnh9fvD8SDXGW5FQQeZyqnTexvEdCugAkW7631RhKXuZphftRHVIdUrb_wEySRkDd__IPP02U&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECA0QAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Cement › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Discover top Cement shops, suppliers, manufacturers &amp; exporters in Ahilyanagar. Shrirampur•9 yrs. Vijay Trading Company Shrirampur•12. Cement ₹ 15/Kg. ...",
+   "snippet_highlighted_words": [
+    "Vijay Trading Company Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Discover top Cement shops, suppliers, manufacturers &amp; exporters in Ahilyanagar. Shrirampur•9 yrs. Vijay Trading Company Shrirampur•12. Cement ₹ 15/Kg.  ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/construction-cement.html?biz=40",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkFPTW1ZcUd2YzlZdXJlRzNaTVJ3WE54VzdKNHpKX2tmMGdwbEhGZjBHa2d1dTZGeXFJYzN1aFlpUG9hQ0FHU3VUM0dQYVZRZHNZVHVqNlhnX2FKdmhlbENWU25uaDlmdkQ4U0RYR1c1RlFRZVp5cW5UZXh2RWRDdWdBa1c3NjMxUmhLWHVacGhmdFJIVklkVXJiX3dFeVNSa0RkX19JUFAwMlUSBBoCCAAalwcSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDcBggAEAAYACAAKlUKBmNlbWVudBUUPJ5AGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chXAhxA_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZBT01tWXFHdmM5WXVyZUczWk1Sd1hOeFc3SjR6Sl9rZjBncGxIRmYwR2tndXU2RnlxSWMzdWhZaVBvYUNBR1N1VDNHUGFWUWRzWVR1ajZYZ19hSnZoZWxDVlNubmg5ZnZEOFNEWEdXNUZRUWVaeXFuVGV4dkVkQ3VnQWtXNzYzMVJoS1h1WnBoZnRSSFZJZFVyYl93RXlTUmtEZF9fSVBQMDJVOj88Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRCtQFEaXNjb3ZlciB0b3AgQ2VtZW50IHNob3BzLCBzdXBwbGllcnMsIG1hbnVmYWN0dXJlcnMgJmFtcDthbXA7IGV4cG9ydGVycyBpbiBBaGlseWFuYWdhci4gU2hyaXJhbXB1cuKAojkgeXJzLiA8Yj5WaWpheSBUcmFkaW5nIENvbXBhbnkgU2hyaXJhbXB1cjwvYj7igKIxMi4gQ2VtZW50IOKCuSAxNS9LZy4gJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkFPTW1ZcUd2YzlZdXJlRzNaTVJ3WE54VzdKNHpKX2tmMGdwbEhGZjBHa2d1dTZGeXFJYzN1aFlpUG9hQ0FHU3VUM0dQYVZRZHNZVHVqNlhnX2FKdmhlbENWU25uaDlmdkQ4U0RYR1c1RlFRZVp5cW5UZXh2RWRDdWdBa1c3NjMxUmhLWHVacGhmdFJIVklkVXJiX3dFeVNSa0RkX19JUFAwMlUSBBoCCAAalwcSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkDcBggAEAAYACAAKlUKBmNlbWVudBUUPJ5AGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chXAhxA_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZBT01tWXFHdmM5WXVyZUczWk1Sd1hOeFc3SjR6Sl9rZjBncGxIRmYwR2tndXU2RnlxSWMzdWhZaVBvYUNBR1N1VDNHUGFWUWRzWVR1ajZYZ19hSnZoZWxDVlNubmg5ZnZEOFNEWEdXNUZRUWVaeXFuVGV4dkVkQ3VnQWtXNzYzMVJoS1h1WnBoZnRSSFZJZFVyYl93RXlTUmtEZF9fSVBQMDJVOj88Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRCtQFEaXNjb3ZlciB0b3AgQ2VtZW50IHNob3BzLCBzdXBwbGllcnMsIG1hbnVmYWN0dXJlcnMgJmFtcDthbXA7IGV4cG9ydGVycyBpbiBBaGlseWFuYWdhci4gU2hyaXJhbXB1cuKAojkgeXJzLiA8Yj5WaWpheSBUcmFkaW5nIENvbXBhbnkgU2hyaXJhbXB1cjwvYj7igKIxMi4gQ2VtZW50IOKCuSAxNS9LZy4gJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 2,
+   "title": "Ambuja Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html?biz=40",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVKEOQEk8yksQjY5yQTtMyf6i5uwJSL0QkbpeHodHP3sdKjdoy7LCirXbWWEPvsG2s785VUD_U2PWMa4yW42IxLooNOqYVy7kt8k62w89lyRAy1K48zyirkDGRFjkzto1TJCgA2b4D6THgwvWJh6rRjIABMAc&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Ambuja Cement. ₹ 360/Bag. Cement Type/Grade: OPC 53 Grade. Ambuja Cement. Mauli Traders. Shrirampur•1 yr. Get Best PriceCall Now. Ambuja Railcem Cement.",
+   "snippet_highlighted_words": [
+    "Ambuja Cement"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ambuja Cement. ₹ 360/Bag. Cement Type/Grade: OPC 53 Grade. Ambuja Cement. Mauli Traders. Shrirampur•1 yr. Get Best PriceCall Now. Ambuja Railcem Cement.",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html?biz=40",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVktFT1FFazh5a3NRalk1eVFUdE15ZjZpNXV3SlNMMFFrYnBlSG9kSFAzc2RLamRveTdMQ2lyWGJXV0VQdnNHMnM3ODVWVURfVTJQV01hNHlXNDJJeExvb05PcVlWeTdrdDhrNjJ3ODlseVJBeTFLNDh6eWlya0RHUkZqa3p0bzFUSkNnQTJiNEQ2VEhnd3ZXSmg2clJqSUFCTUFjEgQaAggAGvgGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAvQYIABAAGAAgACpVCgZjZW1lbnQVCSOqQBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVkRNTPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWS0VPUUVrOHlrc1FqWTV5UVR0TXlmNmk1dXdKU0wwUWticGVIb2RIUDNzZEtqZG95N0xDaXJYYldXRVB2c0cyczc4NVZVRF9VMlBXTWE0eVc0Mkl4TG9vTk9xWVZ5N2t0OGs2Mnc4OWx5UkF5MUs0OHp5aXJrREdSRmprenRvMVRKQ2dBMmI0RDZUSGd3dldKaDZyUmpJQUJNQWM6OkFtYnVqYSA8Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXJCowE8Yj5BbWJ1amEgQ2VtZW50PC9iPi4g4oK5IDM2MC9CYWcuIENlbWVudCBUeXBlL0dyYWRlOiBPUEMgNTMgR3JhZGUuIEFtYnVqYSBDZW1lbnQuIE1hdWxpIFRyYWRlcnMuIFNocmlyYW1wdXLigKIxIHlyLiBHZXQgQmVzdCBQcmljZUNhbGwgTm93LiBBbWJ1amEgUmFpbGNlbSBDZW1lbnQuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVktFT1FFazh5a3NRalk1eVFUdE15ZjZpNXV3SlNMMFFrYnBlSG9kSFAzc2RLamRveTdMQ2lyWGJXV0VQdnNHMnM3ODVWVURfVTJQV01hNHlXNDJJeExvb05PcVlWeTdrdDhrNjJ3ODlseVJBeTFLNDh6eWlya0RHUkZqa3p0bzFUSkNnQTJiNEQ2VEhnd3ZXSmg2clJqSUFCTUFjEgQaAggAGvgGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJAvQYIABAAGAAgACpVCgZjZW1lbnQVCSOqQBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVkRNTPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWS0VPUUVrOHlrc1FqWTV5UVR0TXlmNmk1dXdKU0wwUWticGVIb2RIUDNzZEtqZG95N0xDaXJYYldXRVB2c0cyczc4NVZVRF9VMlBXTWE0eVc0Mkl4TG9vTk9xWVZ5N2t0OGs2Mnc4OWx5UkF5MUs0OHp5aXJrREdSRmprenRvMVRKQ2dBMmI0RDZUSGd3dldKaDZyUmpJQUJNQWM6OkFtYnVqYSA8Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXJCowE8Yj5BbWJ1amEgQ2VtZW50PC9iPi4g4oK5IDM2MC9CYWcuIENlbWVudCBUeXBlL0dyYWRlOiBPUEMgNTMgR3JhZGUuIEFtYnVqYSBDZW1lbnQuIE1hdWxpIFRyYWRlcnMuIFNocmlyYW1wdXLigKIxIHlyLiBHZXQgQmVzdCBQcmljZUNhbGwgTm93LiBBbWJ1amEgUmFpbGNlbSBDZW1lbnQuIgIQAUgAWABoAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html?biz=40#:~:text=Ambuja%20Cement,Ambuja%20Railcem%20Cement"
+  },
+  {
+   "position": 3,
+   "title": "Portland Cement Retailers & Dealers in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/portland-cement.html?biz=40",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVCy0VTvd126KjCsDVySAKB66uUiFy-zfl6-qQylS9gvkI9ADnPaFnuqVPWHARtxLleo4D3I5y0NXjl6XPqiEqlx-j9hfDNLUtCM8AaFi2NMNE9hRzMQbV_htOFYkWZx_1CfM5GF8R2voiwaDyEHD34Tg5lPx-xA&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Portland Cement Retailers & Dealers in Ahilyanagar. Shrirampur•9 yrs Best PriceWhatsAppCall Now. Shrirampur•11 yrs Best",
+   "snippet_highlighted_words": [
+    "Portland Cement Retailers & Dealers in Ahilyanagar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Portland Cement Retailers & Dealers in Ahilyanagar. Shrirampur•9 yrs Best PriceWhatsAppCall Now. Shrirampur•11 yrs Best",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/portland-cement.html?biz=40",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkN5MFZUdmQxMjZLakNzRFZ5U0FLQjY2dVVpRnktemZsNi1xUXlsUzlndmtJOUFEblBhRm51cVZQV0hBUnR4TGxlbzREM0k1eTBOWGpsNlhQcWlFcWx4LWo5aGZETkxVdENNOEFhRmkyTk1ORTloUnpNUWJWX2h0T0ZZa1daeF8xQ2ZNNUdGOFIydm9pd2FEeUVIRDM0VGc1bFB4LXhBEgQaAggAGugGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJArQYIABAAGAAgACpVCgZjZW1lbnQVjMq3QBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVthMFPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWQ3kwVlR2ZDEyNktqQ3NEVnlTQUtCNjZ1VWlGeS16Zmw2LXFReWxTOWd2a0k5QURuUGFGbnVxVlBXSEFSdHhMbGVvNEQzSTV5ME5Yamw2WFBxaUVxbHgtajloZkROTFV0Q004QWFGaTJOTU5FOWhSek1RYlZfaHRPRllrV1p4XzFDZk01R0Y4UjJ2b2l3YUR5RUhEMzRUZzVsUHgteEE6RFBvcnRsYW5kIDxiPkNlbWVudDwvYj4gUmV0YWlsZXJzICZhbXA7IDxiPkRlYWxlcnM8L2I-IGluIEFoaWx5YW5hZ2FyQoYBPGI-UG9ydGxhbmQgQ2VtZW50IFJldGFpbGVycyAmYW1wOyBEZWFsZXJzIGluIEFoaWx5YW5hZ2FyPC9iPi4gU2hyaXJhbXB1cuKAojkgeXJzIEJlc3QgUHJpY2VXaGF0c0FwcENhbGwgTm93LiBTaHJpcmFtcHVy4oCiMTEgeXJzIEJlc3QiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkN5MFZUdmQxMjZLakNzRFZ5U0FLQjY2dVVpRnktemZsNi1xUXlsUzlndmtJOUFEblBhRm51cVZQV0hBUnR4TGxlbzREM0k1eTBOWGpsNlhQcWlFcWx4LWo5aGZETkxVdENNOEFhRmkyTk1ORTloUnpNUWJWX2h0T0ZZa1daeF8xQ2ZNNUdGOFIydm9pd2FEeUVIRDM0VGc1bFB4LXhBEgQaAggAGugGEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJArQYIABAAGAAgACpVCgZjZW1lbnQVjMq3QBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVthMFPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWQ3kwVlR2ZDEyNktqQ3NEVnlTQUtCNjZ1VWlGeS16Zmw2LXFReWxTOWd2a0k5QURuUGFGbnVxVlBXSEFSdHhMbGVvNEQzSTV5ME5Yamw2WFBxaUVxbHgtajloZkROTFV0Q004QWFGaTJOTU5FOWhSek1RYlZfaHRPRllrV1p4XzFDZk01R0Y4UjJ2b2l3YUR5RUhEMzRUZzVsUHgteEE6RFBvcnRsYW5kIDxiPkNlbWVudDwvYj4gUmV0YWlsZXJzICZhbXA7IDxiPkRlYWxlcnM8L2I-IGluIEFoaWx5YW5hZ2FyQoYBPGI-UG9ydGxhbmQgQ2VtZW50IFJldGFpbGVycyAmYW1wOyBEZWFsZXJzIGluIEFoaWx5YW5hZ2FyPC9iPi4gU2hyaXJhbXB1cuKAojkgeXJzIEJlc3QgUHJpY2VXaGF0c0FwcENhbGwgTm93LiBTaHJpcmFtcHVy4oCiMTEgeXJzIEJlc3QiAhABSABYAGgA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 4,
+   "title": "UltraTech Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/ultratech-cement.html?biz=40",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVkz3sXgwRd2qLkW6jYfBhpCXiSCHAZDwSSdOLwGm0pVJVMMtaRP1bTrfx6qi3Vb02UMzPmqzf5X_wew4JMQMmupQ9Z-SRd194h93sdic8VMmUr4dSEaAXFE8TFeDfFK1BqOKr7PFrLLVyBU8DEfkRMEFIZZjs0d4&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Ultratech Concrete Cement shops, suppliers, manufacturers in Ahilyanagar. Vijay Trading Company Shrirampur•12. Ultratech Cement ₹ 290/Bag … tech Cement Mauli ...",
+   "snippet_highlighted_words": [
+    "Ultratech Concrete Cement shops, suppliers, manufacturers in Ahilyanagar"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ultratech Concrete Cement shops, suppliers, manufacturers in Ahilyanagar. Vijay Trading Company Shrirampur•12. Ultratech Cement ₹ 290/Bag … tech Cement Mauli ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ultratech-cement.html?biz=40",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmt6M3NYZ3dSZDJxTGtXNmpZZkJocENYaVNDSEFaRHdTU2RPTHdHbTBwVkpWTU10YVJQMWJUcmZ4NnFpM1ZiMDJVTXpQbXF6ZjVYX3dldzRKTVFNbXVwUTlaLVNSZDE5NGg5M3NkaWM4Vk1tVXI0ZFNFYUFYRkU4VEZlRGZGSzFCcU9LcjdQRnJMTFZ5QlU4REVma1JNRUZJWlpqczBkNBIEGgIIABqPBxIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQNQGCAAQABgAIAAqVQoGY2VtZW50FR8fnkAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFRi9rD4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmt6M3NYZ3dSZDJxTGtXNmpZZkJocENYaVNDSEFaRHdTU2RPTHdHbTBwVkpWTU10YVJQMWJUcmZ4NnFpM1ZiMDJVTXpQbXF6ZjVYX3dldzRKTVFNbXVwUTlaLVNSZDE5NGg5M3NkaWM4Vk1tVXI0ZFNFYUFYRkU4VEZlRGZGSzFCcU9LcjdQRnJMTFZ5QlU4REVma1JNRUZJWlpqczBkNDo9VWx0cmFUZWNoIDxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhckKzATxiPlVsdHJhdGVjaCBDb25jcmV0ZSBDZW1lbnQgc2hvcHMsIHN1cHBsaWVycywgbWFudWZhY3R1cmVycyBpbiBBaGlseWFuYWdhcjwvYj4uIFZpamF5IFRyYWRpbmcgQ29tcGFueSBTaHJpcmFtcHVy4oCiMTIuIFVsdHJhdGVjaCBDZW1lbnQg4oK5IDI5MC9CYWcg4oCmIHRlY2ggQ2VtZW50IE1hdWxpJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmt6M3NYZ3dSZDJxTGtXNmpZZkJocENYaVNDSEFaRHdTU2RPTHdHbTBwVkpWTU10YVJQMWJUcmZ4NnFpM1ZiMDJVTXpQbXF6ZjVYX3dldzRKTVFNbXVwUTlaLVNSZDE5NGg5M3NkaWM4Vk1tVXI0ZFNFYUFYRkU4VEZlRGZGSzFCcU9LcjdQRnJMTFZ5QlU4REVma1JNRUZJWlpqczBkNBIEGgIIABqPBxIAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQNQGCAAQABgAIAAqVQoGY2VtZW50FR8fnkAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFRi9rD4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmt6M3NYZ3dSZDJxTGtXNmpZZkJocENYaVNDSEFaRHdTU2RPTHdHbTBwVkpWTU10YVJQMWJUcmZ4NnFpM1ZiMDJVTXpQbXF6ZjVYX3dldzRKTVFNbXVwUTlaLVNSZDE5NGg5M3NkaWM4Vk1tVXI0ZFNFYUFYRkU4VEZlRGZGSzFCcU9LcjdQRnJMTFZ5QlU4REVma1JNRUZJWlpqczBkNDo9VWx0cmFUZWNoIDxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhckKzATxiPlVsdHJhdGVjaCBDb25jcmV0ZSBDZW1lbnQgc2hvcHMsIHN1cHBsaWVycywgbWFudWZhY3R1cmVycyBpbiBBaGlseWFuYWdhcjwvYj4uIFZpamF5IFRyYWRpbmcgQ29tcGFueSBTaHJpcmFtcHVy4oCiMTIuIFVsdHJhdGVjaCBDZW1lbnQg4oK5IDI5MC9CYWcg4oCmIHRlY2ggQ2VtZW50IE1hdWxpJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 5,
+   "title": "Ambuja Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVZo9MDUMAaPQztH9oTpRIE3Is-nu2UWsfD2vEhkFRw62zkUKM-5xU4otZBpsdQ-H0dAyIW6Annuux6wxG7kYpgOKHwLsmFsds5MwcBoYEtODmtsEhsy4SdGAd8oTkLav39xRLzZxYr9bpqMFGnQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECA4QAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Cement Type/Grade: OPC 53 Grade. Ambuja Cement. Mauli Traders. Shrirampur•1 yr. Get Best PriceCall Now. Ambuja Buildcem Cement. Pack Type ...",
+   "snippet_highlighted_words": [
+    "Ambuja Cement. Mauli Traders. Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cement Type/Grade: OPC 53 Grade. Ambuja Cement. Mauli Traders. Shrirampur•1 yr. Get Best PriceCall Now. Ambuja Buildcem Cement. Pack Type ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlpvOU1EVU1BYVBRenRIOW9UcFJJRTNJcy1udTJVV3NmRDJ2RWhrRlJ3NjJ6a1VLTS01eFU0b3RaQnBzZFEtSDBkQXlJVzZBbm51dXg2d3hHN2tZcGdPS0h3THNtRnNkczVNd2NCb1lFdE9EbXRzRWhzeTRTZEdBZDhvVGtMYXYzOXhSTHpaeFlyOWJwcU1GR25REgQaAggAGukGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkCsBggAEAAYACAAKlUKBmNlbWVudBX3HYhAGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chW1j6E-GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZabzlNRFVNQWFQUXp0SDlvVHBSSUUzSXMtbnUyVVdzZkQydkVoa0ZSdzYyemtVS00tNXhVNG90WkJwc2RRLUgwZEF5SVc2QW5udXV4Nnd4RzdrWXBnT0tId0xzbUZzZHM1TXdjQm9ZRXRPRG10c0Voc3k0U2RHQWQ4b1RrTGF2Mzl4Ukx6WnhZcjlicHFNRkduUTo6QW1idWphIDxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhckKbAUNlbWVudCBUeXBlL0dyYWRlOiBPUEMgNTMgR3JhZGUuIDxiPkFtYnVqYSBDZW1lbnQuIE1hdWxpIFRyYWRlcnMuIFNocmlyYW1wdXI8L2I-4oCiMSB5ci4gR2V0IEJlc3QgUHJpY2VDYWxsIE5vdy4gQW1idWphIEJ1aWxkY2VtIENlbWVudC4gUGFjayBUeXBlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlpvOU1EVU1BYVBRenRIOW9UcFJJRTNJcy1udTJVV3NmRDJ2RWhrRlJ3NjJ6a1VLTS01eFU0b3RaQnBzZFEtSDBkQXlJVzZBbm51dXg2d3hHN2tZcGdPS0h3THNtRnNkczVNd2NCb1lFdE9EbXRzRWhzeTRTZEdBZDhvVGtMYXYzOXhSTHpaeFlyOWJwcU1GR25REgQaAggAGukGEgIIABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkCsBggAEAAYACAAKlUKBmNlbWVudBX3HYhAGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chW1j6E-GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZabzlNRFVNQWFQUXp0SDlvVHBSSUUzSXMtbnUyVVdzZkQydkVoa0ZSdzYyemtVS00tNXhVNG90WkJwc2RRLUgwZEF5SVc2QW5udXV4Nnd4RzdrWXBnT0tId0xzbUZzZHM1TXdjQm9ZRXRPRG10c0Voc3k0U2RHQWQ4b1RrTGF2Mzl4Ukx6WnhZcjlicHFNRkduUTo6QW1idWphIDxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhckKbAUNlbWVudCBUeXBlL0dyYWRlOiBPUEMgNTMgR3JhZGUuIDxiPkFtYnVqYSBDZW1lbnQuIE1hdWxpIFRyYWRlcnMuIFNocmlyYW1wdXI8L2I-4oCiMSB5ci4gR2V0IEJlc3QgUHJpY2VDYWxsIE5vdy4gQW1idWphIEJ1aWxkY2VtIENlbWVudC4gUGFjayBUeXBlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/ambuja-cement.html#:~:text=Cement%20Type%2FGrade%3A%20OPC%2053%20Grade,Pack%20Type%3A%20Packet"
+  },
+  {
+   "position": 6,
+   "title": "Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/construction-cement.html?biz=10",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVvYbkxCYSvHlvKLK8-lSPM6No_2kY5BavlM7c84mPTwvW5XdW90dBP0pLEIuQlNKyRcHR5pvgxWlPqhNyEJOyst05-1BphwjgcEqzlTGavsQESr4i--DJwiC9_ptniSxj1YD84JY84E_gIkJdOulCbyuMWAWgkFrhVec&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Cement › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Cement - Manufacturer in Ahilyanagar (सीमेंट, अहमदनगर) · Sagar Cement 53 Grade Opc. ₹ 325/Bag · Gajanan cement. ₹ 5,000/Bag · Cement Product. ₹ ...",
+   "snippet_highlighted_words": [
+    "Cement",
+    "Cement",
+    "cement",
+    "Cement"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cement - Manufacturer in Ahilyanagar (सीमेंट, अहमदनगर) · Sagar Cement 53 Grade Opc. ₹ 325/Bag · Gajanan cement. ₹ 5,000/Bag · Cement Product. ₹ ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/construction-cement.html?biz=10",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnZZYmt4Q1lTdkhsdktMSzgtbFNQTTZOb18ya1k1QmF2bE03Yzg0bVBUd3ZXNVhkVzkwZEJQMHBMRUl1UWxOS3lSY0hSNXB2Z3hXbFBxaE55RUpPeXN0MDUtMUJwaHdqZ2NFcXpsVEdhdnNRRVNyNGktLURKd2lDOV9wdG5pU3hqMVlEODRKWTg0RV9nSWtKZE91bENieXVNV0FXZ2tGcmhWZWMSBBoCCAAaywcSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkCQBwgAEAAYACAAKlUKBmNlbWVudBUPJqtAGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chV0xYI_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZ2WWJreENZU3ZIbHZLTEs4LWxTUE02Tm9fMmtZNUJhdmxNN2M4NG1QVHd2VzVYZFc5MGRCUDBwTEVJdVFsTkt5UmNIUjVwdmd4V2xQcWhOeUVKT3lzdDA1LTFCcGh3amdjRXF6bFRHYXZzUUVTcjRpLS1ESndpQzlfcHRuaVN4ajFZRDg0Slk4NEVfZ0lrSmRPdWxDYnl1TVdBV2drRnJoVmVjOj88Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRC6QE8Yj5DZW1lbnQ8L2I-IC0gTWFudWZhY3R1cmVyIGluIEFoaWx5YW5hZ2FyICjgpLjgpYDgpK7gpYfgpILgpJ8sIOCkheCkueCkruCkpuCkqOCkl-CksCkgJm1pZGRvdDsgU2FnYXIgPGI-Q2VtZW50PC9iPiA1MyBHcmFkZSBPcGMuIOKCuSAzMjUvQmFnICZtaWRkb3Q7IEdhamFuYW4gPGI-Y2VtZW50PC9iPi4g4oK5IDUsMDAwL0JhZyAmbWlkZG90OyA8Yj5DZW1lbnQ8L2I-IFByb2R1Y3QuIOKCuSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVnZZYmt4Q1lTdkhsdktMSzgtbFNQTTZOb18ya1k1QmF2bE03Yzg0bVBUd3ZXNVhkVzkwZEJQMHBMRUl1UWxOS3lSY0hSNXB2Z3hXbFBxaE55RUpPeXN0MDUtMUJwaHdqZ2NFcXpsVEdhdnNRRVNyNGktLURKd2lDOV9wdG5pU3hqMVlEODRKWTg0RV9nSWtKZE91bENieXVNV0FXZ2tGcmhWZWMSBBoCCAAaywcSABoAIgAqADoAQgQIARAASh8IARIXU2hyaXJhbXB1ciwgTWFoYXJhc2h0cmEaAggCWgByAHoAgkCQBwgAEAAYACAAKlUKBmNlbWVudBUPJqtAGgdjZW1lbnRzGghjb25jcmV0ZRomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7Y2VtZW50KvUBCgZkZWFsZXIVAAAAABoHZGVhbGVycxoKZGVhbGVyc2hpcBoLZGlzdHJpYnV0b3IaDGRpc3RyaWJ1dG9ycxoIcmV0YWlsZXIaBnNlbGxlchoIc3VwcGxpZXIaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2RlYWxlchoJc3VwcGxpZXJzGgNsdGQaCHNob3dyb29tGg1tYW51ZmFjdHVyZXJzGgVzdG9yZRoHY29tcGFueRoJc2hvd3Jvb21zGgt3aG9sZXNhbGVycxoEc2hvcBoFc2hvcHMaB3RyYWRlcnMqTgoKc2hyaXJhbXB1chV0xYI_GhRnZW87M2JkYzcwMDAwMDAwMDAwMBoUZ2VvOzNiZGM5MDAwMDAwMDAwMDAaD2l2O3A7c2hyaXJhbXB1cjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZ2WWJreENZU3ZIbHZLTEs4LWxTUE02Tm9fMmtZNUJhdmxNN2M4NG1QVHd2VzVYZFc5MGRCUDBwTEVJdVFsTkt5UmNIUjVwdmd4V2xQcWhOeUVKT3lzdDA1LTFCcGh3amdjRXF6bFRHYXZzUUVTcjRpLS1ESndpQzlfcHRuaVN4ajFZRDg0Slk4NEVfZ0lrSmRPdWxDYnl1TVdBV2drRnJoVmVjOj88Yj5DZW1lbnQ8L2I-IGF0IEJlc3QgUHJpY2UgbmVhciB5b3UgaW4gQWhpbHlhbmFnYXIgLSBJbmRpYU1BUlRC6QE8Yj5DZW1lbnQ8L2I-IC0gTWFudWZhY3R1cmVyIGluIEFoaWx5YW5hZ2FyICjgpLjgpYDgpK7gpYfgpILgpJ8sIOCkheCkueCkruCkpuCkqOCkl-CksCkgJm1pZGRvdDsgU2FnYXIgPGI-Q2VtZW50PC9iPiA1MyBHcmFkZSBPcGMuIOKCuSAzMjUvQmFnICZtaWRkb3Q7IEdhamFuYW4gPGI-Y2VtZW50PC9iPi4g4oK5IDUsMDAwL0JhZyAmbWlkZG90OyA8Yj5DZW1lbnQ8L2I-IFByb2R1Y3QuIOKCuSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/construction-cement.html?biz=10#:~:text=Cement%20%2D%20Manufacturer%20in%20Ahilyanagar,(%E0%A4%B8%E0%A5%80%E0%A4%AE%E0%A5%87%E0%A4%82%E0%A4%9F%2C%20%E0%A4%85%E0%A4%B9%E0%A4%AE%E0%A4%A6%E0%A4%A8%E0%A4%97%E0%A4%B0)&text=Sagar%20Cement%2053%20Grade%20Opc,%E2%82%B9%20325%2FBag&text=Gajanan%20cement,%E2%82%B9%205%2C000%2FBag&text=Cement%20Product,%E2%82%B9%201%2C000%2FPiece"
+  },
+  {
+   "position": 7,
+   "title": "Portland Cement Wholesalers & Distributors in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/portland-cement.html?biz=30",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVHfnVUglaDUCTi-9SKLWBo1QHRxyvBoHXeByKRsH4bUg4-Tfztg7atFzXvMax60wbCl7FIQvgABgu-d3OLrvKKj-cbkkOAAWVY--a8MkdPjjXZrY-N7AQd5dna1Cu_R5kInEaIWAWBo4XjTyr0aM8h4kjy9y9KQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Portland Cement wholesalers &amp; distributors in Ahilyanagar. Cement Om Trading Company Shrirampur•8 yrs Best PriceWhatsAppCall Now. Seller Type▼ Near You▼ r/ ...",
+   "snippet_highlighted_words": [
+    "Cement Om Trading Company Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Portland Cement wholesalers &amp; distributors in Ahilyanagar. Cement Om Trading Company Shrirampur•8 yrs Best PriceWhatsAppCall Now. Seller Type▼ Near You▼ r/ ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/portland-cement.html?biz=30",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkhmblZVZ2xhRFVDVGktOVNLTFdCbzFRSFJ4eXZCb0hYZUJ5S1JzSDRiVWc0LVRmenRnN2F0RnpYdk1heDYwd2JDbDdGSVF2Z0FCZ3UtZDNPTHJ2S0tqLWNia2tPQUFXVlktLWE4TWtkUGpqWFpyWS1ON0FRZDVkbmExQ3VfUjVrSW5FYUlXQVdCbzRYalR5cjBhTThoNGtqeTl5OUtREgQaAggAGqIHEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA5wYIABAAGAAgACpVCgZjZW1lbnQVSje7QBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVSq4KPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWSGZuVlVnbGFEVUNUaS05U0tMV0JvMVFIUnh5dkJvSFhlQnlLUnNINGJVZzQtVGZ6dGc3YXRGelh2TWF4NjB3YkNsN0ZJUXZnQUJndS1kM09McnZLS2otY2Jra09BQVdWWS0tYThNa2RQampYWnJZLU43QVFkNWRuYTFDdV9SNWtJbkVhSVdBV0JvNFhqVHlyMGFNOGg0a2p5OXk5S1E6S1BvcnRsYW5kIDxiPkNlbWVudDwvYj4gV2hvbGVzYWxlcnMgJmFtcDsgPGI-RGlzdHJpYnV0b3JzPC9iPiBpbiBBaGlseWFuYWdhckK5AVBvcnRsYW5kIENlbWVudCB3aG9sZXNhbGVycyAmYW1wO2FtcDsgZGlzdHJpYnV0b3JzIGluIEFoaWx5YW5hZ2FyLiA8Yj5DZW1lbnQgT20gVHJhZGluZyBDb21wYW55IFNocmlyYW1wdXI8L2I-4oCiOCB5cnMgQmVzdCBQcmljZVdoYXRzQXBwQ2FsbCBOb3cuIFNlbGxlciBUeXBl4pa8IE5lYXIgWW914pa8IHIvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkhmblZVZ2xhRFVDVGktOVNLTFdCbzFRSFJ4eXZCb0hYZUJ5S1JzSDRiVWc0LVRmenRnN2F0RnpYdk1heDYwd2JDbDdGSVF2Z0FCZ3UtZDNPTHJ2S0tqLWNia2tPQUFXVlktLWE4TWtkUGpqWFpyWS1ON0FRZDVkbmExQ3VfUjVrSW5FYUlXQVdCbzRYalR5cjBhTThoNGtqeTl5OUtREgQaAggAGqIHEgAaACIAKgA6AEIECAEQAEofCAESF1NocmlyYW1wdXIsIE1haGFyYXNodHJhGgIIAloAcgB6AIJA5wYIABAAGAAgACpVCgZjZW1lbnQVSje7QBoHY2VtZW50cxoIY29uY3JldGUaJmdlbzp5cGNhdDpjZW1lbnRtYW51ZmFjdHVyZXJzc3VwcGxpZXJzGgtpdjtwO2NlbWVudCr1AQoGZGVhbGVyFQAAAAAaB2RlYWxlcnMaCmRlYWxlcnNoaXAaC2Rpc3RyaWJ1dG9yGgxkaXN0cmlidXRvcnMaCHJldGFpbGVyGgZzZWxsZXIaCHN1cHBsaWVyGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtkZWFsZXIaCXN1cHBsaWVycxoDbHRkGghzaG93cm9vbRoNbWFudWZhY3R1cmVycxoFc3RvcmUaB2NvbXBhbnkaCXNob3dyb29tcxoLd2hvbGVzYWxlcnMaBHNob3AaBXNob3BzGgd0cmFkZXJzKk4KCnNocmlyYW1wdXIVSq4KPxoUZ2VvOzNiZGM3MDAwMDAwMDAwMDAaFGdlbzszYmRjOTAwMDAwMDAwMDAwGg9pdjtwO3NocmlyYW1wdXIytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWSGZuVlVnbGFEVUNUaS05U0tMV0JvMVFIUnh5dkJvSFhlQnlLUnNINGJVZzQtVGZ6dGc3YXRGelh2TWF4NjB3YkNsN0ZJUXZnQUJndS1kM09McnZLS2otY2Jra09BQVdWWS0tYThNa2RQampYWnJZLU43QVFkNWRuYTFDdV9SNWtJbkVhSVdBV0JvNFhqVHlyMGFNOGg0a2p5OXk5S1E6S1BvcnRsYW5kIDxiPkNlbWVudDwvYj4gV2hvbGVzYWxlcnMgJmFtcDsgPGI-RGlzdHJpYnV0b3JzPC9iPiBpbiBBaGlseWFuYWdhckK5AVBvcnRsYW5kIENlbWVudCB3aG9sZXNhbGVycyAmYW1wO2FtcDsgZGlzdHJpYnV0b3JzIGluIEFoaWx5YW5hZ2FyLiA8Yj5DZW1lbnQgT20gVHJhZGluZyBDb21wYW55IFNocmlyYW1wdXI8L2I-4oCiOCB5cnMgQmVzdCBQcmljZVdoYXRzQXBwQ2FsbCBOb3cuIFNlbGxlciBUeXBl4pa8IE5lYXIgWW914pa8IHIvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 8,
+   "title": "ACC Cement in Ahilyanagar - Latest Price, Dealers & ...",
+   "link": "https://dir.indiamart.com/ahmednagar/acc-cement.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVJIdl2scbKqCNtcfZZydjPwm8kcYYyCHpr1tqIwXMh-b3v7s_22AsCBdVxZrk3By1L_wOftp79h10Y8j3TeOUkbLHtq99vDUZcnFElUAjjPE2rjDQJ89WI1i3YZYwtjl4pxh418TyBnsBhA&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECAwQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Find here ACC Cement dealers, retailers &amp; distributors in Ahilyanagar, Maharashtra. Vijay Trading Company Shrirampur•12 yrs. Cement ₹ 410/Bag",
+   "snippet_highlighted_words": [
+    "Vijay Trading Company Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find here ACC Cement dealers, retailers &amp; distributors in Ahilyanagar, Maharashtra. Vijay Trading Company Shrirampur•12 yrs. Cement ₹ 410/Bag",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/acc-cement.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkpJZGwyc2NiS3FDTnRjZlpaeWRqUHdtOGtjWVl5Q0hwcjF0cUl3WE1oLWIzdjdzXzIyQXNDQmRWeFpyazNCeTFMX3dPZnRwNzloMTBZOGozVGVPVWtiTEh0cTk5dkRVWmNuRkVsVUFqalBFMnJqRFFKODlXSTFpM1laWXd0amw0cHhoNDE4VHlCbnNCaEESBBoCCAAa3AYSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQJ8GCAAQABgAIAAqVQoGY2VtZW50FS_upkAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFZN3Ij4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkpJZGwyc2NiS3FDTnRjZlpaeWRqUHdtOGtjWVl5Q0hwcjF0cUl3WE1oLWIzdjdzXzIyQXNDQmRWeFpyazNCeTFMX3dPZnRwNzloMTBZOGozVGVPVWtiTEh0cTk5dkRVWmNuRkVsVUFqalBFMnJqRFFKODlXSTFpM1laWXd0amw0cHhoNDE4VHlCbnNCaEE6LEFDQyA8Yj5DZW1lbnQ8L2I-IGluIEFoaWx5YW5hZ2FyIC0gSW5kaWFNQVJUQqABRmluZCBoZXJlIEFDQyBDZW1lbnQgZGVhbGVycywgcmV0YWlsZXJzICZhbXA7YW1wOyBkaXN0cmlidXRvcnMgaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhLiA8Yj5WaWpheSBUcmFkaW5nIENvbXBhbnkgU2hyaXJhbXB1cjwvYj7igKIxMiB5cnMuIENlbWVudCDigrkgNDEwL0JhZyICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkpJZGwyc2NiS3FDTnRjZlpaeWRqUHdtOGtjWVl5Q0hwcjF0cUl3WE1oLWIzdjdzXzIyQXNDQmRWeFpyazNCeTFMX3dPZnRwNzloMTBZOGozVGVPVWtiTEh0cTk5dkRVWmNuRkVsVUFqalBFMnJqRFFKODlXSTFpM1laWXd0amw0cHhoNDE4VHlCbnNCaEESBBoCCAAa3AYSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQJ8GCAAQABgAIAAqVQoGY2VtZW50FS_upkAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFZN3Ij4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkpJZGwyc2NiS3FDTnRjZlpaeWRqUHdtOGtjWVl5Q0hwcjF0cUl3WE1oLWIzdjdzXzIyQXNDQmRWeFpyazNCeTFMX3dPZnRwNzloMTBZOGozVGVPVWtiTEh0cTk5dkRVWmNuRkVsVUFqalBFMnJqRFFKODlXSTFpM1laWXd0amw0cHhoNDE4VHlCbnNCaEE6LEFDQyA8Yj5DZW1lbnQ8L2I-IGluIEFoaWx5YW5hZ2FyIC0gSW5kaWFNQVJUQqABRmluZCBoZXJlIEFDQyBDZW1lbnQgZGVhbGVycywgcmV0YWlsZXJzICZhbXA7YW1wOyBkaXN0cmlidXRvcnMgaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhLiA8Yj5WaWpheSBUcmFkaW5nIENvbXBhbnkgU2hyaXJhbXB1cjwvYj7igKIxMiB5cnMuIENlbWVudCDigrkgNDEwL0JhZyICEAFIAFgAaAA",
+   "source": "IndiaMART"
+  },
+  {
+   "position": 9,
+   "title": "Cement at Best Price near you in Ahilyanagar",
+   "link": "https://dir.indiamart.com/ahmednagar/construction-cement.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVdcY9dPt0BszJzFyVtrFdvIo4sAqJzHA9i4-2uN4TOV1axW8bby_ElvyB5sv53KjKC61hJKSbQquhT7Gz3FqZ73LhVqd-daERRqJcutQ19yAzznBe86jUn2i0HGg_Kyhk-8iWPi0GyMmead_HW6U16QUCVQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Cement › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Cement. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Acc Cement.,. Acc Cement.,. Vijay Trading Company. Shrirampur•12 yrs.",
+   "snippet_highlighted_words": [
+    "Sidhivinayak Building Material Suppliers. Shrirampur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Cement. Sidhivinayak Building Material Suppliers. Shrirampur•9 yrs. Get Best PriceCall Now. Acc Cement.,. Acc Cement.,. Vijay Trading Company. Shrirampur•12 yrs.",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/construction-cement.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmRjWTlkUHQwQnN6SnpGeVZ0ckZkdklvNHNBcUp6SEE5aTQtMnVONFRPVjFheFc4YmJ5X0VsdnlCNXN2NTNLaktDNjFoSktTYlFxdWhUN0d6M0ZxWjczTGhWcWQtZGFFUlJxSmN1dFExOXlBenpuQmU4NmpVbjJpMEhHZ19LeWhrLThpV1BpMEd5TW1lYWRfSFc2VTE2UVVDVlESBBoCCAAahwcSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQMoGCAAQABgAIAAqVQoGY2VtZW50FUJok0AaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFVuZtz4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmRjWTlkUHQwQnN6SnpGeVZ0ckZkdklvNHNBcUp6SEE5aTQtMnVONFRPVjFheFc4YmJ5X0VsdnlCNXN2NTNLaktDNjFoSktTYlFxdWhUN0d6M0ZxWjczTGhWcWQtZGFFUlJxSmN1dFExOXlBenpuQmU4NmpVbjJpMEhHZ19LeWhrLThpV1BpMEd5TW1lYWRfSFc2VTE2UVVDVlE6PzxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhciAtIEluZGlhTUFSVEKsAUNlbWVudC4gPGI-U2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIFN1cHBsaWVycy4gU2hyaXJhbXB1cjwvYj7igKI5IHlycy4gR2V0IEJlc3QgUHJpY2VDYWxsIE5vdy4gQWNjIENlbWVudC4sLiBBY2MgQ2VtZW50LiwuIFZpamF5IFRyYWRpbmcgQ29tcGFueS4gU2hyaXJhbXB1cuKAojEyIHlycy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmRjWTlkUHQwQnN6SnpGeVZ0ckZkdklvNHNBcUp6SEE5aTQtMnVONFRPVjFheFc4YmJ5X0VsdnlCNXN2NTNLaktDNjFoSktTYlFxdWhUN0d6M0ZxWjczTGhWcWQtZGFFUlJxSmN1dFExOXlBenpuQmU4NmpVbjJpMEhHZ19LeWhrLThpV1BpMEd5TW1lYWRfSFc2VTE2UVVDVlESBBoCCAAahwcSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQMoGCAAQABgAIAAqVQoGY2VtZW50FUJok0AaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFVuZtz4aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmRjWTlkUHQwQnN6SnpGeVZ0ckZkdklvNHNBcUp6SEE5aTQtMnVONFRPVjFheFc4YmJ5X0VsdnlCNXN2NTNLaktDNjFoSktTYlFxdWhUN0d6M0ZxWjczTGhWcWQtZGFFUlJxSmN1dFExOXlBenpuQmU4NmpVbjJpMEhHZ19LeWhrLThpV1BpMEd5TW1lYWRfSFc2VTE2UVVDVlE6PzxiPkNlbWVudDwvYj4gYXQgQmVzdCBQcmljZSBuZWFyIHlvdSBpbiBBaGlseWFuYWdhciAtIEluZGlhTUFSVEKsAUNlbWVudC4gPGI-U2lkaGl2aW5heWFrIEJ1aWxkaW5nIE1hdGVyaWFsIFN1cHBsaWVycy4gU2hyaXJhbXB1cjwvYj7igKI5IHlycy4gR2V0IEJlc3QgUHJpY2VDYWxsIE5vdy4gQWNjIENlbWVudC4sLiBBY2MgQ2VtZW50LiwuIFZpamF5IFRyYWRpbmcgQ29tcGFueS4gU2hyaXJhbXB1cuKAojEyIHlycy4iAhABSABYAGgA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/construction-cement.html#:~:text=Cement,Shrirampur%E2%80%A212%20yrs"
+  },
+  {
+   "position": 10,
+   "title": "Portland Cement in Ahilyanagar, Maharashtra",
+   "link": "https://dir.indiamart.com/ahmednagar/portland-cement.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVKK2-NmwZixzhlYS11Za1_rF_jHVGeIZcC-lbs7dYEDO5nDIYz-_x_EPt1daHHLBCyRFcK-UZGf9o8KVSkYZVSlHAVHlrQgG8U-logBbDlDLJdRSQ-l0yn2YDvLtt-A2TtTwTixDLwEeaJub6Nt_f&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8QFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://dir.indiamart.com › ... › Ahilyanagar",
+   "favicon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp",
+   "snippet": "Portland Cement. Soham Traders. Shrirampur•5 yrs. Best PriceWhatsAppCall Now. Cement. ₹ 333/Bag. Brand: Heidelberg Cement; Type: PPC (Pozzolana Portland Cement) ...",
+   "snippet_highlighted_words": [
+    "Cement",
+    "Shrirampur",
+    "Cement",
+    "Cement",
+    "Cement"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Portland Cement. Soham Traders. Shrirampur•5 yrs. Best PriceWhatsAppCall Now. Cement. ₹ 333/Bag. Brand: Heidelberg Cement; Type: PPC (Pozzolana Portland Cement) ...",
+     "source_info_link": "https://dir.indiamart.com/ahmednagar/portland-cement.html",
+     "icon": "https://serpapi.com/images/i/UklGRn4BAABXRUJQVlA4IHIBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALUXgaba1IRjbn3aBGr-fxVBhgmewvK0EuP6c6H_p9huzY3uXlyjYJnCwIJAAAD-9hHIcNWD-hjYKsRhXTMnw6-yGpAuOkENUY183OJhyj-p0sD2GTFzzx_CCN3JGbqHPCePV-yXbABdTpLTsYsIpWelck5NOHEwru8A4gvAA8tUD8l-B5NEuNbyIxLx6GyIRW_52nYUObwgAPrlXVn2UN1lY9DVctki4fH-SdPcnQ0yKNkgPJolrOdhwRBztOznOrIGC9KP_j6tAUuMag73S8hMzV9Zy6na61Nmvtxcy26i_uGJHQPgETPcNnJJFt5Mv4neyzrzfQA6Ydjy8ZGUiS7G_OTogx_qg05TJbvlv-83UVzETGLeH2v-ONU5IOYSlwr_GmV4BYEuTOA2pNXzzCEYXBUNVpIQ0qU-P0x3s3SPD18MeGDTS6DDfbB7YOPc4inP7QgCAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVktLMi1ObXdaaXh6aGxZUzExWmExX3JGX2pIVkdlSVpjQy1sYnM3ZFlFRE81bkRJWXotX3hfRVB0MWRhSEhMQkN5UkZjSy1VWkdmOW84S1ZTa1laVlNsSEFWSGxyUWdHOFUtbG9nQmJEbERMSmRSU1EtbDB5bjJZRHZMdHQtQTJUdFR3VGl4REx3RWVhSnViNk50X2YSBBoCCAAapAcSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQOcGCAAQABgAIAAqVQoGY2VtZW50FT8VkEAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFUquCj8aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVktLMi1ObXdaaXh6aGxZUzExWmExX3JGX2pIVkdlSVpjQy1sYnM3ZFlFRE81bkRJWXotX3hfRVB0MWRhSEhMQkN5UkZjSy1VWkdmOW84S1ZTa1laVlNsSEFWSGxyUWdHOFUtbG9nQmJEbERMSmRSU1EtbDB5bjJZRHZMdHQtQTJUdFR3VGl4REx3RWVhSnViNk50X2Y6PlBvcnRsYW5kIDxiPkNlbWVudDwvYj4gaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhIC0gSW5kaWFNQVJUQtABUG9ydGxhbmQgPGI-Q2VtZW50PC9iPi4gU29oYW0gVHJhZGVycy4gPGI-U2hyaXJhbXB1cjwvYj7igKI1IHlycy4gQmVzdCBQcmljZVdoYXRzQXBwQ2FsbCBOb3cuIDxiPkNlbWVudDwvYj4uIOKCuSAzMzMvQmFnLiBCcmFuZDogSGVpZGVsYmVyZyA8Yj5DZW1lbnQ8L2I-OyBUeXBlOiBQUEMgKFBvenpvbGFuYSBQb3J0bGFuZCA8Yj5DZW1lbnQ8L2I-KSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVktLMi1ObXdaaXh6aGxZUzExWmExX3JGX2pIVkdlSVpjQy1sYnM3ZFlFRE81bkRJWXotX3hfRVB0MWRhSEhMQkN5UkZjSy1VWkdmOW84S1ZTa1laVlNsSEFWSGxyUWdHOFUtbG9nQmJEbERMSmRSU1EtbDB5bjJZRHZMdHQtQTJUdFR3VGl4REx3RWVhSnViNk50X2YSBBoCCAAapAcSAggAGgAiACoAOgBCBAgBEABKHwgBEhdTaHJpcmFtcHVyLCBNYWhhcmFzaHRyYRoCCAJaAHIAegCCQOcGCAAQABgAIAAqVQoGY2VtZW50FT8VkEAaB2NlbWVudHMaCGNvbmNyZXRlGiZnZW86eXBjYXQ6Y2VtZW50bWFudWZhY3R1cmVyc3N1cHBsaWVycxoLaXY7cDtjZW1lbnQq9QEKBmRlYWxlchUAAAAAGgdkZWFsZXJzGgpkZWFsZXJzaGlwGgtkaXN0cmlidXRvchoMZGlzdHJpYnV0b3JzGghyZXRhaWxlchoGc2VsbGVyGghzdXBwbGllchomZ2VvOnlwY2F0OmNlbWVudG1hbnVmYWN0dXJlcnNzdXBwbGllcnMaC2l2O3A7ZGVhbGVyGglzdXBwbGllcnMaA2x0ZBoIc2hvd3Jvb20aDW1hbnVmYWN0dXJlcnMaBXN0b3JlGgdjb21wYW55GglzaG93cm9vbXMaC3dob2xlc2FsZXJzGgRzaG9wGgVzaG9wcxoHdHJhZGVycypOCgpzaHJpcmFtcHVyFUquCj8aFGdlbzszYmRjNzAwMDAwMDAwMDAwGhRnZW87M2JkYzkwMDAwMDAwMDAwMBoPaXY7cDtzaHJpcmFtcHVyMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVktLMi1ObXdaaXh6aGxZUzExWmExX3JGX2pIVkdlSVpjQy1sYnM3ZFlFRE81bkRJWXotX3hfRVB0MWRhSEhMQkN5UkZjSy1VWkdmOW84S1ZTa1laVlNsSEFWSGxyUWdHOFUtbG9nQmJEbERMSmRSU1EtbDB5bjJZRHZMdHQtQTJUdFR3VGl4REx3RWVhSnViNk50X2Y6PlBvcnRsYW5kIDxiPkNlbWVudDwvYj4gaW4gQWhpbHlhbmFnYXIsIE1haGFyYXNodHJhIC0gSW5kaWFNQVJUQtABUG9ydGxhbmQgPGI-Q2VtZW50PC9iPi4gU29oYW0gVHJhZGVycy4gPGI-U2hyaXJhbXB1cjwvYj7igKI1IHlycy4gQmVzdCBQcmljZVdoYXRzQXBwQ2FsbCBOb3cuIDxiPkNlbWVudDwvYj4uIOKCuSAzMzMvQmFnLiBCcmFuZDogSGVpZGVsYmVyZyA8Yj5DZW1lbnQ8L2I-OyBUeXBlOiBQUEMgKFBvenpvbGFuYSBQb3J0bGFuZCA8Yj5DZW1lbnQ8L2I-KSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IndiaMART",
+   "read_more_link": "https://dir.indiamart.com/ahmednagar/portland-cement.html#:~:text=Portland%20Cement,Type%3A%20PPC%20(Pozzolana%20Portland%20Cement)"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "In response to a legal request submitted to Google, we have removed 97 result(s) from this page. If you wish, you may read more about the request at LumenDatabase.org.",
+    "highlighted_words": [
+     {
+      "link": "https://lumendatabase.org/notices/86361263",
+      "text": "read more about the request"
+     }
+    ]
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=10&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8NMDegQINhAY",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=10&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAG",
+   "3": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=20&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAI",
+   "4": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=30&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAK",
+   "5": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=40&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAM",
+   "6": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=50&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAO",
+   "7": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=60&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAQ",
+   "8": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=70&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAS",
+   "9": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=80&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAU",
+   "10": "https://www.google.com/search?q=site:indiamart.com+cement+dealer+Shrirampur&sca_esv=f2a7ccf26385c224&gl=in&hl=en&sxsrf=APpeQntsG4X22M-5e7J4Pjx9JrMPeL882Q:1790927601417&ei=8WK_auiDGezQwcsPjaTu-QM&start=90&sa=N&sstk=AS6-VmKw-ojt20bL2N6W_CaYhFmGPuC1_fkRjzOohaIDxm6BnoX3MppiqTEwj-iW9VxyYPiz1UyL5IUvkB8RTviEH0u73NBS6VgsCQ&ved=2ahUKEwiowICc7ZqXAxVsaHADHQ2SOz8Q8tMDegQINhAW"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&location=Shrirampur%2C+India&q=site%3Aindiamart.com+cement+dealer+Shrirampur&start=90"
+  }
+ }
+}

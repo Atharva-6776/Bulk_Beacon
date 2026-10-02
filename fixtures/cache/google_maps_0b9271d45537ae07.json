@@ -1,0 +1,799 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "TMT bar dealer Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf6308c986af56174ca226",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/F5mMYnR5o1xRXqQj_sugkcpY_RbdFGpxRvBammOd8Qw/6abf6308c986af56174ca226.json",
+  "markdown_endpoint": "https://serpapi.com/searches/F5mMYnR5o1xRXqQj_sugkcpY_RbdFGpxRvBammOd8Qw/6abf6308c986af56174ca226.md",
+  "created_at": "2026-10-02 07:53:44 UTC",
+  "processed_at": "2026-10-02 07:53:44 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/TMT+bar+dealer+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/F5mMYnR5o1xRXqQj_sugkcpY_RbdFGpxRvBammOd8Qw/6abf6308c986af56174ca226.html",
+  "prettify_html_file": "https://serpapi.com/searches/F5mMYnR5o1xRXqQj_sugkcpY_RbdFGpxRvBammOd8Qw/6abf6308c986af56174ca226.prettify",
+  "total_time_taken": 0.68
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "TMT bar dealer Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "TMT bar dealer Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "METALLIX STEEL",
+   "place_id": "ChIJNZJyTgCL3DsRPYkpf-zc_O8",
+   "data_id": "0x3bdc8b004e729235:0xeffcdcec7f29893d",
+   "data_cid": "17292939577499683133",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b004e729235%3A0xeffcdcec7f29893d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b004e729235%3A0xeffcdcec7f29893d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6212429,
+    "longitude": 74.6508559
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNZJyTgCL3DsRPYkpf-zc_O8",
+   "provider_id": "/g/11lywgg5tl",
+   "rating": 4.7,
+   "reviews": 20,
+   "type": "Iron & Steel Store",
+   "types": [
+    "Iron & Steel Store"
+   ],
+   "address": "Sangamner Rd, behind Remand Home, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "9 am–7 pm",
+    "saturday": "9 am–7 pm",
+    "sunday": "9 am–7 pm",
+    "monday": "9 am–7 pm",
+    "tuesday": "9 am–7 pm",
+    "wednesday": "9 am–7 pm",
+    "thursday": "9 am–7 pm"
+   },
+   "phone": "091563 86727",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaKk--OfwdF_pGBaJrS4OFbgnodu_NAY8UbKVWugcOtv8RJtmcQHuvxmgAfoPysI_lwhjIntFaTrSOh-jConmQPdruGgtgJq0lB7iMvIey-czhuTI8umgZqQjq5YX3DRlu-Hs=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/vcgo8XicHcRbboJAFADQFV2g0aa0iR9ogzxSEXzV_hAY8I44D2BmQFxg99DdmPR8nL9fqnWrPmyb0ZmFUiKrjap7IoWuhbaI5Da2CogCZXub03V6z4r4BpBcxsrP2_WyiPrdPPFLFLIy-cY7u4cyPp4MkkQPbhZpTtLADHeO3kVuJxXmbKRNKLRf7PtdQqFZScHTbdWbNWqMOoct365fQ1hPQB7U7EPXcPzp0qZ7PX_PPjNmIFCL8cVxHKD_ExBPCAVHPg"
+  },
+  {
+   "position": 2,
+   "title": "Naseeb Steel Shrirampur",
+   "place_id": "ChIJadRpIACL3DsRd8qxKNr0UGM",
+   "data_id": "0x3bdc8b002069d469:0x6350f4da28b1ca77",
+   "data_cid": "7156489025714506359",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b002069d469%3A0x6350f4da28b1ca77&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b002069d469%3A0x6350f4da28b1ca77&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6238176,
+    "longitude": 74.6257959
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJadRpIACL3DsRd8qxKNr0UGM",
+   "provider_id": "/g/11z0wd9ck3",
+   "type": "Iron & Steel Store",
+   "types": [
+    "Iron & Steel Store"
+   ],
+   "address": "JJFG+G87, Shrirampur-Shirdi, Maharashtra Industrial Development Corporation, Shrirampur, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 12:30 am",
+   "hours": "Open · Closes 12:30 am",
+   "operating_hours": {
+    "friday": "9 am–12:30 am",
+    "saturday": "9 am–6 pm",
+    "sunday": "9 am–6 pm",
+    "monday": "9 am–6 pm",
+    "tuesday": "9 am–6 pm",
+    "wednesday": "9 am–6 pm",
+    "thursday": "9 am–5 pm"
+   },
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RF7DDOMK5CRtr2Gvs-aQZw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=89.58443&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/iyAH0XicHc0xDsIgGEDh27AVaG2jNSEONjoYY-zoYihFIKGFwC_oaTyXt7Fxe9P3vh8N4OOWkAhBSkhGZm9e0sbCc6ycU1ZybyIWbiKpJKCf0zBzY3eez86MrD-su-5yPjX7HkJ1TLHg11tGYrgLa-QMLEoehMYqL2JwI1Y-osw2FGnWVujNl25xs6nrFfIGhGYU_ScPl1hJ6Q8TzDjg"
+  },
+  {
+   "position": 3,
+   "title": "Jimi traders",
+   "place_id": "ChIJN0slT4CL3DsRansmVSU6NFQ",
+   "data_id": "0x3bdc8b804f254b37:0x54343a2555267b6a",
+   "data_cid": "6067538529991687018",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b804f254b37%3A0x54343a2555267b6a&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b804f254b37%3A0x54343a2555267b6a&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6145139,
+    "longitude": 74.6576082
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJN0slT4CL3DsRansmVSU6NFQ",
+   "provider_id": "/g/11fkp6pfj9",
+   "rating": 4.7,
+   "reviews": 18,
+   "type": "Construction Material Wholesaler",
+   "types": [
+    "Construction Material Wholesaler"
+   ],
+   "address": "Opp vispute fabriction, juni ghass gali,bhagat singh chowk, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 6:45 pm",
+   "hours": "Open · Closes 6:45 pm",
+   "operating_hours": {
+    "friday": "9 am–6:45 pm",
+    "saturday": "9 am–6:45 pm",
+    "sunday": "9–11:30 am",
+    "monday": "9 am–6:45 pm",
+    "tuesday": "9 am–6:45 pm",
+    "wednesday": "9 am–6:45 pm",
+    "thursday": "9 am–6:45 pm"
+   },
+   "phone": "095118 82828",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T8QpEH730xn963wzLzZo3ftSKthV1TVhBbm3A033_N5MMNdlzHWInWO4dijsqwn6-2ykuDPsLYqaC7g6QCb8LQZXzLU8ikvGU2kLZJwcey9KDRT3oDEER-E5O2wLxtJrEp2RQ-2A=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/f1Mm5nicHcRdkoIgAADgE5EEZdrMPlgy_ZGtZlm-NEUmpoEFLekNO0K32Zm-h-_z5lrXamhZFcedXMq8yp4qezApdCZ0h8mbldcKMAWU5QVJ0bixE9ZkOsDwJVwbm5a2qcQXvV5ovu3GWz463bAHMT4E_eUyOFftNJmJZNU7F1d1N8IGqCmf_q-i-_txPMjtcHxyaJjuWrpxivJvskElTeeGZY278KMYS5-QCJD-Chn60vMHqVEUAuT9mC6EEPDvDIh_mUdD7w"
+  },
+  {
+   "position": 4,
+   "title": "MAYURI TRADERS",
+   "place_id": "ChIJM-dKq-eL3DsR24DyzaC_SdY",
+   "data_id": "0x3bdc8be7ab4ae733:0xd649bfa0cdf280db",
+   "data_cid": "15441083494787350747",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be7ab4ae733%3A0xd649bfa0cdf280db&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be7ab4ae733%3A0xd649bfa0cdf280db&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.618718299999998,
+    "longitude": 74.6513745
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM-dKq-eL3DsR24DyzaC_SdY",
+   "provider_id": "/g/11x64rgznx",
+   "type": "Iron & Steel Store",
+   "types": [
+    "Iron & Steel Store"
+   ],
+   "address": "Mayuri Traders, Sangamner Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "9 am–6 pm",
+    "saturday": "9 am–6 pm",
+    "sunday": "9 am–5 pm",
+    "monday": "9 am–6 pm",
+    "tuesday": "9 am–6 pm",
+    "wednesday": "9 am–5 pm",
+    "thursday": "9 am–5 pm"
+   },
+   "phone": "098502 67040",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Saib-jpTxl8Rq3HoJ40cjrvxSkZDt0jRoauWFdswOSTiZQGisAicSuaaPI33NQCxovB8Q926Zd2EpUO8pMuxIH9Qmk-CgsYkSIJX1s0SfF-98JeuHtsDOCbnW7ceWrDWAShUQ1NZF54Pcz=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/YXKrK3icHcTBboIwGADgJ6oUcQpLdmAwBiSCtZpu3LB2UEDa8bfKfEnPe5sl-w7f76M1RsOz4wytt2iUagZhQUxcjUaMZsHVxWk0IA4InLBg8iegtTyhTh_mwd9_e6nKV5h303WmfRUb3O1VbVlyhltJD7Ii7xJCyamt613meQWJZnV99UmwXFfn5Zs-lr7e2jlLA3LpUdTAZ0-z_MMFTL8SFPi5sKmBuIxOI9twwaaYhbQ9EreokqfVjt9fbi7GGLX_czT-AfOlR0w"
+  },
+  {
+   "position": 5,
+   "title": "Archana scrap and new Steel Centre",
+   "place_id": "ChIJXZYhvueL3DsRjhbLdM8NFu0",
+   "data_id": "0x3bdc8be7be21965d:0xed160dcf74cb168e",
+   "data_cid": "17083857421145413262",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be7be21965d%3A0xed160dcf74cb168e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be7be21965d%3A0xed160dcf74cb168e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6212832,
+    "longitude": 74.650938
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJXZYhvueL3DsRjhbLdM8NFu0",
+   "provider_id": "/g/11ssyzjj_7",
+   "type": "Scrap metal dealer",
+   "types": [
+    "Scrap metal dealer",
+    "Building materials market"
+   ],
+   "address": "behind Royal Enfield showroom, near garage line, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "9 am–7 pm",
+    "saturday": "9 am–7 pm",
+    "sunday": "9 am–7 pm",
+    "monday": "Open 24 hours",
+    "tuesday": "9 am–7 pm",
+    "wednesday": "9 am–7 pm",
+    "thursday": "9 am–7 pm"
+   },
+   "phone": "093255 63992",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfCGMM_-TvN-2m7Ifx0nBr71kXtoW7dnn11kMB6S2SXHbocJ38Kd-M-Gl3T41EFj1m86Oxwau9aYAnrd1ArFMjs3u7VJPwcP7s3RwNMGSpdDpRVPNKQtwGY-TVpxYhTsYHiUxolw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/l2DpgXicHcRLDoIwFADAEz2g1lg1cYEf8JMiCqKsjBYEFdqGFotH9AjexsRZzPdTai3V2LarEluFEEWVtypvmOA659piorYLqYApULYbHO_vUXSb-ZSeIX4F0KvJ6tY5fNoQ9DxpcSQZ5wg96XQQ9aLT8irYGg83GVDwKxz30cJ7oHo42Hbm0o4uqcubDLmNRx8KtyRZh4aFROG9CagfyWwu90kYbHba-CnEiezSMlbp8n7oRGUmBjmOA-V_BvwHQpFEZA"
+  },
+  {
+   "position": 6,
+   "title": "JSW Shoppe - Hanuman Steel Traders",
+   "place_id": "ChIJ-2KOztOL3DsRqxgw6B6fB0Q",
+   "data_id": "0x3bdc8bd3ce8e62fb:0x44079f1ee83018ab",
+   "data_cid": "4902061674509375659",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd3ce8e62fb%3A0x44079f1ee83018ab&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd3ce8e62fb%3A0x44079f1ee83018ab&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6201541,
+    "longitude": 74.6758261
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-2KOztOL3DsRqxgw6B6fB0Q",
+   "provider_id": "/g/11d_k5c4yy",
+   "rating": 4.2,
+   "reviews": 5,
+   "type": "Steel industry",
+   "types": [
+    "Steel industry"
+   ],
+   "address": "Ground Floor, Newasa Rd, opposite Wear House, Shirasgaon, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "8 am–8 pm",
+    "saturday": "8 am–8 pm",
+    "sunday": "Closed",
+    "monday": "8 am–8 pm",
+    "tuesday": "8 am–8 pm",
+    "wednesday": "8 am–8 pm",
+    "thursday": "8 am–8 pm"
+   },
+   "phone": "091674 39691",
+   "website": "https://stores.jswsteel.in/jsw-shoppe-hanuman-steel-traders-hanuman-steel-traders-steel-iron-industry-shrirampur-shrirampur-287041/Home?utm_source=locator&utm_medium=googleplaces",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tv4drG3Ar89cOaKiUHikdUgVMVWivt_XNbWKMdUS3OosovG6sunJetvjMpN8v6GAyMio8D_A4my_EgflIiqOY3P37EKuDvotpKxeRU2otV_OQ_uwFy5oxiNq2tYZMzpX_XFPFJb46SrEA=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/coPQJnicHcTdboIwGADQJ0LQIuKSXTQR2CQFN8ePu2m0dKUb8lVaquwhd-_bmOxcnPtfa4zST67btWgmAETHR80HBr3hvZkxOLtCaYdpR7s4q-S0_rB-MyQID-Ga5cdUFi_ypylEScpKWkPr7FSlpCn2KAcNNgn02G-5sd9EZaENEjwRCeGGYv880Uh8da_ykh_QDq2idNxYMCq98fdiAaak-Rsdr_G0hJvMLgtz-CS_qqZ1vIu3Jz_YDxF-vs49z3Pa_5nTPwAFQ0jR"
+  },
+  {
+   "position": 7,
+   "title": "Ashapura Steel",
+   "place_id": "ChIJVVVVVUmK3DsRN2tradRUrfc",
+   "data_id": "0x3bdc8a4955555555:0xf7ad54d4696b6b37",
+   "data_cid": "17847014169617591095",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4955555555%3A0xf7ad54d4696b6b37&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4955555555%3A0xf7ad54d4696b6b37&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.612034299999998,
+    "longitude": 74.6558592
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJVVVVVUmK3DsRN2tradRUrfc",
+   "provider_id": "/g/11c5xtblr3",
+   "rating": 4.3,
+   "reviews": 7,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store"
+   ],
+   "address": "Belapur Bypass Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Closed · Opens 2:30 pm",
+   "hours": "Closed · Opens 2:30 pm",
+   "operating_hours": {
+    "friday": "9 am–1 pm, 2:30–7 pm",
+    "saturday": "9 am–1 pm, 2:30–7 pm",
+    "sunday": "Closed",
+    "monday": "9 am–1 pm, 2:30–7 pm",
+    "tuesday": "9 am–1 pm, 2:30–7 pm",
+    "wednesday": "9 am–1 pm, 2:30–7 pm",
+    "thursday": "9 am–1 pm, 2:30–7 pm"
+   },
+   "phone": "02422 223 541",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RHBqzEHiUQkGY8NpZzPiyEkEcUpeyIrY8jYuKP985IaXbISWZ8gXHlV1z1XiccMYldsCS24D6lvmVNdYpPpa5RcfNnX7v64MXjnx49NCihlcGCRwjwyl6Ng6uatJ8OUGxOMzxRcg=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/E7rxmXicHcRNcoIwGADQEyHQIgZnumgpA9ghIg6auMNPDMEYUhPk54Y9Qm_Tmb7F-_1pjFF6bduieV2wrmOi7nX9gE6aWpoFdHebKW2BtrT9jo98Cork43uOEl7ubjFFWJ3mnE_RLYJS1VP6oKil_VceoGVakXO6P54QI4k4uLNLOEBGxUWH-xfv0xfP-wFfqMpVtSzgiiVZPX0vI60cvQCHvBEQh8XQDpPwMfP7ymzQtozHbTaPBbC3wXUcx2r-B0v-AUuFRok"
+  },
+  {
+   "position": 8,
+   "title": "M/s Vijay Sales , Rammandir Chowk , Main road , Shrirampur",
+   "place_id": "ChIJ52vxwTKL3DsRs65aDaLbW7c",
+   "data_id": "0x3bdc8b32c1f16be7:0xb75bdba20d5aaeb3",
+   "data_cid": "13212395420876713651",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b32c1f16be7%3A0xb75bdba20d5aaeb3&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b32c1f16be7%3A0xb75bdba20d5aaeb3&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6182779,
+    "longitude": 74.65782999999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ52vxwTKL3DsRs65aDaLbW7c",
+   "provider_id": "/g/11g3zh7x31",
+   "rating": 5,
+   "reviews": 3,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store",
+    "Building materials supplier"
+   ],
+   "address": "Ram Mandir, Chock, Main Rd, shrirampur, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "9:30 am–7 pm",
+    "saturday": "9:30 am–7 pm",
+    "sunday": "9:30 am–7 pm",
+    "monday": "9:30 am–7 pm",
+    "tuesday": "9:30 am–7 pm",
+    "wednesday": "9:30 am–7 pm",
+    "thursday": "9:30 am–7 pm"
+   },
+   "phone": "094222 29504",
+   "unsupported_extensions": [
+    {
+     "accessibility": [
+      "Assistive hearing loop",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyYe-u-U8SpxqK5muR_r0BGygLt6yr8NlF5a90Ob2USliSKEvUWs4AiNT5p6KtmSX-peOrs_lBxnPKbVV2TWi0YzJU8X34vXxKpSZJwxGafjldb1THXX6GkcMdOY8BGjqxoJk=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ZquLaXicHcRdDoIgAADgE5H0o7O2HnIrm5S20MReWhKphUKChR2wO3Sbtr6H7_sptZZqZlm8HA8KIQrOOsVaKhrNGj2gorYKqQBVQFmLMK366b7PGOhA4mJpHsiuu_2phZ7fFxvt9K0b8pV9nsIoHyWYVxgtn0mqJosqjG3pIF1jAiSLWnXinml2KD8cRnFawewdJC4ZT57EIImPwcv45-uNX_JhvCbE8e90e4ky1_NvDyOC-_w1hBCC8j8FzQ9HWkTy"
+  },
+  {
+   "position": 9,
+   "title": "Maheshwari Steel Corporation",
+   "place_id": "ChIJ27UtHueK3DsRbgz3LBmsZhc",
+   "data_id": "0x3bdc8ae71e2db5db:0x1766ac192cf70c6e",
+   "data_cid": "1686224334625377390",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8ae71e2db5db%3A0x1766ac192cf70c6e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8ae71e2db5db%3A0x1766ac192cf70c6e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6206541,
+    "longitude": 74.6195777
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ27UtHueK3DsRbgz3LBmsZhc",
+   "provider_id": "/g/11f340tvx5",
+   "rating": 4.2,
+   "reviews": 75,
+   "type": "Building materials store",
+   "types": [
+    "Building materials store",
+    "Building materials supplier"
+   ],
+   "address": "near Prabhat Dairy, Ranjankhol, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6:30 pm",
+   "hours": "Open · Closes 6:30 pm",
+   "operating_hours": {
+    "friday": "8:30 am–6:30 pm",
+    "saturday": "8:30 am–6:30 pm",
+    "sunday": "8:30 am–6:30 pm",
+    "monday": "8:30 am–6:30 pm",
+    "tuesday": "8:30 am–6:30 pm",
+    "wednesday": "8:30 am–6:30 pm",
+    "thursday": "8:30 am–6:30 pm"
+   },
+   "phone": "098501 22308",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WFdzuPo5rEMjp9P55BY3Yw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=186.4971&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/aFWHknicHc1fCsIgHADg2_iWf6rVFkgQ1Fuwt9hTOGdquPlDnVaX6VzdpugC3_d5m5Qg7giJKSiVslUF7EO5uACBtffaKQE2YulHkhlJZh77SVi3BzF5O_DLaXjNra_C8XyHpq2qQ7fqCpL9VTqrpsSjEkEarMtPDH7AGiIqvKbI8GaJnqJwVm_wutkyBDZJwyn6JzefOaP0CzdqOS4"
+  },
+  {
+   "position": 10,
+   "title": "Laxmi Steel Centre Belapur",
+   "place_id": "ChIJpeltEIeL3DsRHsQoSzPW1w0",
+   "data_id": "0x3bdc8b87106de9a5:0xdd7d6334b28c41e",
+   "data_cid": "997501358278493214",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b87106de9a5%3A0xdd7d6334b28c41e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b87106de9a5%3A0xdd7d6334b28c41e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.5713296,
+    "longitude": 74.64793519999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpeltEIeL3DsRHsQoSzPW1w0",
+   "provider_id": "/g/11c2pcg4vz",
+   "rating": 4.3,
+   "reviews": 46,
+   "unclaimed_listing": true,
+   "type": "Iron & Steel Store",
+   "types": [
+    "Iron & Steel Store"
+   ],
+   "address": "HJCX+G5M, Shrirampur - Rahuri Rd, Belapur, Maharashtra 413715",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "7 am–6 pm",
+    "saturday": "8:11 am–6:11 pm",
+    "sunday": "8:11 am–6:11 pm",
+    "monday": "7 am–6 pm",
+    "tuesday": "7 am–6 pm",
+    "wednesday": "7 am–6 pm",
+    "thursday": "7 am–6 pm"
+   },
+   "phone": "098813 35008",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXeqxN2hggYZHVQ8b8HqnwRCtovcdJ-bpQUICLSKAOA69dGbeTl3PSnUqZFOZOqHyVTFX0IIRU_BabJCpuDzkNtW1B5uc4trIv-ppZ62Wb3jrMDDYZxT5RPGYnb8e4ZOXEMaa1=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/1tONHnicHcTvEoEwAADwJ5pKuLjzIYXyp0ip9sW12S1kW20RL-gZvI07vw-_76dUSsiJplWl2aOc04q0kjSYM0WY6mF-16iQAEsgNTtIL69xlJG6C_olpTn0jnsLWV7NnpGj-AOfVwCJfeI7m8PaDu3R-LxEJK7M3YElNVyEMKy91zFeZLrvR8lpVqCVI1r3fQtUasyGLR6oxn8AIeConyLz2mxdN4ddPIx2y5whiwxgmM23RWFMn4au66D8jwH7AXe8RFI"
+  },
+  {
+   "position": 11,
+   "title": "mahalaxmi steel traders",
+   "place_id": "ChIJL2mZLQCL3DsRuijyqsW0KUo",
+   "data_id": "0x3bdc8b002d99692f:0x4a29b4c5aaf228ba",
+   "data_cid": "5344001193921358010",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b002d99692f%3A0x4a29b4c5aaf228ba&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b002d99692f%3A0x4a29b4c5aaf228ba&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6204979,
+    "longitude": 74.6265569
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL2mZLQCL3DsRuijyqsW0KUo",
+   "provider_id": "/g/11w3yzsjcz",
+   "type": "Wholesaler",
+   "types": [
+    "Wholesaler"
+   ],
+   "address": "Dattanagar, Shrirampur, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 7 am Sat",
+   "hours": "Open · Closes 7 am Sat",
+   "operating_hours": {
+    "friday": "12–7 am, 8:30 am–12 am",
+    "saturday": "12–7 am, 8:30 am–12 am",
+    "sunday": "12–7 am, 8:30 am–12 am",
+    "monday": "12–7 am, 8:30 am–12 am",
+    "tuesday": "12–7 am, 8:30 am–12 am",
+    "wednesday": "12–7 am, 8:30 am–12 am",
+    "thursday": "12–7 am, 8:30 am–12 am"
+   },
+   "phone": "073878 76737",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QvpoG3zhM4l-mUfySeooAOA4OG47Gk5t2-3AeB07yStO7NXCXpc6hK2s6ZtoKZChxS8PghVPP15n-0ucDnUaGdRHlwP9upHt2SDlOh80m_cHlU3wQHyjXTeN--UVwo85HcK9lZHw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/8MJJ7HicHcTdboIwGADQJ_qk8iOwZBcME5qQAYo4ws2ydJWqpV-zFjt8Qx_Bt1myc3GeD2GtNi-eJ0WwGhFHyWfDfxgqy5VdMZy8URtgBoyXVR_nJd3dNBbBXbyHEqbutLQcMauzsC7CuLhG1ocg428kXlpbx1Wf95ptROmbzWCxHHLx2ybNKI5Ns44UkJltVfdVfO-pdE06a2r9ditrkZDpk1HZBW5Hl0t_4BVAd3SYRJSVqRyoe3VrQgiI_xmoP5S4REE"
+  },
+  {
+   "position": 12,
+   "title": "Rubina Steel Center",
+   "place_id": "ChIJ8VdCzU2K3DsR4RaVpLcDb_4",
+   "data_id": "0x3bdc8a4dcd4257f1:0xfe6f03b7a49516e1",
+   "data_cid": "18333876695323711201",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4dcd4257f1%3A0xfe6f03b7a49516e1&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4dcd4257f1%3A0xfe6f03b7a49516e1&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.621209099999998,
+    "longitude": 74.6545993
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8VdCzU2K3DsR4RaVpLcDb_4",
+   "provider_id": "/g/11f4rftd5d",
+   "rating": 4.5,
+   "reviews": 8,
+   "type": "Countertop store",
+   "types": [
+    "Countertop store"
+   ],
+   "address": "Subhedar Wasti Ward No.2, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "7:30 am–8 pm",
+    "saturday": "7:30 am–8 pm",
+    "sunday": "8 am–8 pm",
+    "monday": "8 am–8 pm",
+    "tuesday": "8 am–8 pm",
+    "wednesday": "7:30 am–8 pm",
+    "thursday": "7:30 am–8 pm"
+   },
+   "phone": "092267 28072",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qj3C1u2SjnAf0ygqViokuleMJGRgpOEAc0b9ae_y5Ht-cLg76Q4Coo1a2reeNQ6GgQiSZpZsiGzPrqVkxxFg_tPXmEmaJ8xHHIYchHCzjd031ebneBGhTnahCjFGuiYhsV8tcwZouybS3e=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/9Z7wlXicHcTLjoIwFADQL6oUGZ-JC4Zo0fhCDDOyMVCvbRFapG0Ef9K1f2PiWZz3ixtT66njlNzrMaVYCVZDQ5U0IE2PqsphtUZUI-342z_RTaLCC1zbjwvpX3HH7olQN1vCZkUOrN7NfYrzSQbnbhAaRNdsNIx-AqXcrN8AbKMhYZGI0zrVgjz3zT25te2Cnc3-v5pX2WrchuHyRHkYPIsL9lzIJfwSfpQZD4oFseLEdTI29JEq2-WxB7OHizFG_DtF8gMWH0k2"
+  },
+  {
+   "position": 13,
+   "title": "JSW Shoppe - H S Patel And Sons",
+   "place_id": "ChIJgVOsBteL3DsRjXUKDo5Rb_M",
+   "data_id": "0x3bdc8bd706ac5381:0xf36f518e0e0a758d",
+   "data_cid": "17541328744194143629",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd706ac5381%3A0xf36f518e0e0a758d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bd706ac5381%3A0xf36f518e0e0a758d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6105601,
+    "longitude": 74.65603449999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgVOsBteL3DsRjXUKDo5Rb_M",
+   "provider_id": "/g/11tww8ds2q",
+   "type": "Steel industry",
+   "types": [
+    "Steel industry"
+   ],
+   "address": "Ground Floor, Belapur Rd, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 8 pm",
+   "hours": "Open · Closes 8 pm",
+   "operating_hours": {
+    "friday": "9 am–8 pm",
+    "saturday": "9 am–8 pm",
+    "sunday": "9 am–8 pm",
+    "monday": "9 am–8 pm",
+    "tuesday": "9 am–8 pm",
+    "wednesday": "9 am–8 pm",
+    "thursday": "9 am–8 pm"
+   },
+   "phone": "088799 83897",
+   "website": "https://stores.jswsteel.in/jsw-shoppe-h-s-patel-and-sons-h-s-patel-and-sons-steel-iron-industry-shrirampur-shrirampur-300240/Home?utm_source=locator&utm_medium=googleplaces",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RUJA29n3G9o9YlOooqnVKITPSPwybTukjUBzUPPD5LMk4w4GWm7n-Ruh08ZWoNzyVa4yV5QZsMFPkWkvo3YfHxZGp8HcCLCWdfooHgZ6laRnbTh2YA7jpMy5wvdThFYGolio5mDFKfuQq3=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/DUcE-HicHcRBjoIwFADQE1VQYBSTWTAaYFS0ItDADipQpfSjBZl6SdfexmTe4r1frO87udQ0zoxJDVDzcpDlnYLoS9FPKLRa3UlEJZKasycXZYfxxpnZwvBssFN-ALiJZPsb4RMeVRENzTX-ecYYr61d0Jij6ZF2LlA4MH2REdg_VZKbKrGOmQxc3JDmAUZa-X-Z1y18utqtyLkC8Ovsi-ehKCI2S535tQuUNT7OEXNTD_gFrHbtbqvheDO-x6mu64j9T5H4ANEgSEY"
+  },
+  {
+   "position": 14,
+   "title": "Chanchal Machinery Private Limited",
+   "place_id": "ChIJw9JJaAaL3DsRXA5iNTe2OzM",
+   "data_id": "0x3bdc8b066849d2c3:0x333bb63735620e5c",
+   "data_cid": "3691744667795328604",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b066849d2c3%3A0x333bb63735620e5c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b066849d2c3%3A0x333bb63735620e5c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6172276,
+    "longitude": 74.65167439999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJw9JJaAaL3DsRXA5iNTe2OzM",
+   "provider_id": "/g/11p5xg0vzt",
+   "rating": 4.4,
+   "reviews": 28,
+   "type": "Agricultural Product Wholesaler",
+   "types": [
+    "Agricultural Product Wholesaler",
+    "Electrical products wholesaler",
+    "Hardware store",
+    "Irrigation equipment supplier",
+    "Pipes Wholesaler"
+   ],
+   "address": "ward no. 3, Survey Number 1252 A, beside Hanuman Mandir, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "8:30 am–7 pm",
+    "saturday": "8:30 am–7 pm",
+    "sunday": "Closed",
+    "monday": "8:30 am–7 pm",
+    "tuesday": "8:30 am–7 pm",
+    "wednesday": "8:30 am–7 pm",
+    "thursday": "8:30 am–7 pm"
+   },
+   "phone": "083055 05505",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible entrance",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-r2b6BCUfdssmEAdYrDdgMbD0a8OIkREDKgdZfwwZf-3ZX779DulCeMPJEqD_FcHNCjmGPhF33hpmLq9TfAr6yKOo8xeRN1NVy1NEah_15JRJvzFuNnMsUWn_NvkI4LkOWyI=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/10oEcHicHcRLUoMwAADQE4VPqaV0pgtKQPmFDlpRNkwbQqJAAoRP8YDewdt0xrd4f79sHDt5UNWGGQoVgjZkkmTAgo-EjwoWrUo7CbAEUrVR9rVar2DY3HYn51KVUrauXX4OsKTxDWrXfeLXqQtDWubVsuQVMPIP07Tg1DgkPgduDwsPvyDnu30-M88wWNdGvfVW2cNuDROxv5MU6eh91ZF7ZYX-FKTB_ONNiMfykvECzbW_jeokW_3jomuaBtj_GPAH4oFD6w"
+  },
+  {
+   "position": 15,
+   "title": "Asian Paints Colourideas - Dambir & Sons",
+   "place_id": "ChIJRwbkpEyK3DsRNW5-RerwHms",
+   "data_id": "0x3bdc8a4ca4e40647:0x6b1ef0ea457e6e35",
+   "data_cid": "7718871700338535989",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4ca4e40647%3A0x6b1ef0ea457e6e35&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8a4ca4e40647%3A0x6b1ef0ea457e6e35&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6173328,
+    "longitude": 74.65709319999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRwbkpEyK3DsRNW5-RerwHms",
+   "provider_id": "/g/124yc8sn8",
+   "rating": 4.7,
+   "reviews": 475,
+   "type": "Paint store",
+   "types": [
+    "Paint store",
+    "Construction Material Wholesaler",
+    "Interior Decorator",
+    "Painter",
+    "Stucco contractor",
+    "Wallpaper installer",
+    "Wallpaper store",
+    "Waterproofing service"
+   ],
+   "address": "Infront of, Sai Complex, Shivaji Chaukrahuri Road, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "10 am–7 pm",
+    "saturday": "10 am–7 pm",
+    "sunday": "10 am–7 pm",
+    "monday": "10 am–7 pm",
+    "tuesday": "10 am–7 pm",
+    "wednesday": "10 am–7 pm",
+    "thursday": "10 am–7 pm"
+   },
+   "phone": "08071 499 496",
+   "website": "https://colourideas-dealers-nearme.asianpaints.com/asian-paints-colourideas-dambir-sons-paint-shop-shrirampur-shrirampur-118938/Home",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QHmPlcSvTYfXWR3DPqQftHBHnsPORZU923IGMZhtzFA-wNIanQFbg9GIV3rQ2WgM3ir00lU0DxQgH-6QsXNmdj2HdSgOVn5T2uXSb2oARKwb4aOn4GZHvd03kJCkEBphKod3wAJmDI-1M9=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/-yjFLHicHcRLjoIwAADQE1Vq65hg4gJlpGj4FFQYdlKwVaFFWkXnkq69jYlv8d4vYUynZ5bVCDziSvGmvum6Z0qaWpoRU63FOw2YBtpywuz0tClp44al9-3fMc8S7MZXejRkQaSOo6TY2Qj7XlAI879ywBD6B0lXJbc9f497ijIe4FMPYbOD7oNyAqZU52FbnRGpUh7t5c8W3fK0RMpJNkM5OURy4hXkXkF8WS8vv4tObFSFB2fduj4YB_Z8GEMIgfjOgPwATIlFtw"
+  },
+  {
+   "position": 16,
+   "title": "Tata Structura - Hanuman Steel Traders",
+   "place_id": "ChIJD2EHyyOL3DsRyU0yHy35H_E",
+   "data_id": "0x3bdc8b23cb07610f:0xf11ff92d1f324dc9",
+   "data_cid": "17374879859610897865",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b23cb07610f%3A0xf11ff92d1f324dc9&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b23cb07610f%3A0xf11ff92d1f324dc9&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6137633,
+    "longitude": 74.6788184
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD2EHyyOL3DsRyU0yHy35H_E",
+   "provider_id": "/g/11y5zbvxnz",
+   "type": "Steel construction company",
+   "types": [
+    "Steel construction company",
+    "Construction Material Wholesaler",
+    "Home builder",
+    "Pipe supplier",
+    "Steel industry"
+   ],
+   "address": "Ground Floor, Newasa Rd, opposite Warehouse, Shirasgaon, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 7 pm",
+   "hours": "Open · Closes 7 pm",
+   "operating_hours": {
+    "friday": "10 am–7 pm",
+    "saturday": "10 am–7 pm",
+    "sunday": "10 am–7 pm",
+    "monday": "10 am–7 pm",
+    "tuesday": "10 am–7 pm",
+    "wednesday": "10 am–7 pm",
+    "thursday": "10 am–7 pm"
+   },
+   "phone": "099316 01425",
+   "website": "https://dealers.tatastructura.com/tata-structura-hanuman-steel-traders-steel-construction-company-newasa-road-shrirampur-322005/Home?utm_source=locator&utm_medium=googleplaces",
+   "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dLtc-XmO5AkFejl2vLXakw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=91.56398&pitch=0&thumbfov=100",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/oGOwM3icHc3BDcIgFADQbbgVaE1Na0KMF09NvPZmKP0CFgopX9BpnMttNC7w3udtEGM6MJZwA8BsoUT7BJeqKKkOQTuQ0Saqgme5Zmgeflqldcco12BnMQ-oqtFf2tNyhrtr8jDKpRA1XZWzsKJIIDdlqC4_cQsz1TGRIjpOjOgb8pJF9DVt97u-I9GiMoKTf3ILWdScfwFUITmZ"
+  },
+  {
+   "position": 17,
+   "title": "Shri Sai Metals",
+   "place_id": "ChIJcRfSNDmL3DsR24hXVJ0ZeRc",
+   "data_id": "0x3bdc8b3934d21771:0x1779199d545788db",
+   "data_cid": "1691411298569914587",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b3934d21771%3A0x1779199d545788db&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b3934d21771%3A0x1779199d545788db&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6194064,
+    "longitude": 74.6579558
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcRfSNDmL3DsR24hXVJ0ZeRc",
+   "provider_id": "/g/11q47yvkp_",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Home goods store",
+   "types": [
+    "Home goods store"
+   ],
+   "address": "Shop No, 2, Newasa Rd, near Hanuman Mandir, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open now",
+   "phone": "098500 31731",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SVddw9zY4xajfD99cmYThFPc9uBz-F_xsHsB8TsPOGi66ok4ofV5tH_mftwFQQwwzWkDvQZXnwlrVX6OFTnjPstqIauRqwfJf7auKio6lLZuTfxAfp6uMsuOymbBl00FIFuVFQqDo_Ako9=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CswlLnicHcTdboIwGADQJ6p0mevskl1ASNW5DdgI_twQrBSQ0oJfuyIv6bVvY7Jzce632pge3jxP1s-zSutKlhbKC9fKlMrMuO68qgfEAYHnf2-bK_3NTidHp_18LM4ipJR3-7RmMac2mBDLR1hBsEghjpYNIbqda5G9mFXeCeNYkjg3bdvwLznslJOXbEcilqpzDGZYF_ZncOJDvBZ202giPw82FaMvemK_wEbX7hhIjNma2YwlQ6hzv9X03T1hjFH9P0fqAZiISjA"
+  },
+  {
+   "position": 18,
+   "title": "Sai Jyoti Electronic and Hardware shopee",
+   "place_id": "ChIJ4yyeLKCN3DsRTSmlf6LGfcg",
+   "data_id": "0x3bdc8da02c9e2ce3:0xc87dc6a27fa5294d",
+   "data_cid": "14446921580902951245",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8da02c9e2ce3%3A0xc87dc6a27fa5294d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8da02c9e2ce3%3A0xc87dc6a27fa5294d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.5150284,
+    "longitude": 74.63521109999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ4yyeLKCN3DsRTSmlf6LGfcg",
+   "provider_id": "/g/11c2qq4f2z",
+   "rating": 4.5,
+   "reviews": 42,
+   "type": "Electronics Accessories Wholesaler",
+   "types": [
+    "Electronics Accessories Wholesaler",
+    "Hardware store"
+   ],
+   "address": "Nursery, Shrirampur, Maharashtra 413715",
+   "country": "India",
+   "open_state": "Open · Closes 9 pm",
+   "hours": "Open · Closes 9 pm",
+   "operating_hours": {
+    "friday": "6:15 am–9 pm",
+    "saturday": "6:15 am–9 pm",
+    "sunday": "6:15 am–9 pm",
+    "monday": "6:15 am–9 pm",
+    "tuesday": "6:15 am–9 pm",
+    "wednesday": "6:15 am–9 pm",
+    "thursday": "6:15 am–9 pm"
+   },
+   "phone": "099601 03371",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8pMAwWyFNNZuq2pFaCvmgbCJ3hVluuPUsXK6qjcBE7jsxHFr3yx5XmISPABjlebSnimNSQ-4PCvIW9GLkPhaqH4gVNtby4yFipr0w7JG0VuYjwpMwtBmeolE3KoguSXe9EOch5A=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/XUTYv3icHcRdboMgAADgE1FZte1ssgc12r-Vupmp61slBHQgKFDKEXeE3mbJvofv-cuMUXobBJyFCyol5cRqMmM5GjKaBZYioEoDrIEOEtT0Pv58VefENb5A6GqnpSpu2V3QLjuGrObWll-6Pa2nAaf5ZtCPfTGH_rFqxaEqk3TgpKvGXqDqA0Rldj808e79p2S3aR_RGpnOR77o1Qzd5riDtf0enDo7kwoieR6eJLVVS-L8gtkqeXMvEELA_sdg_AN5AUbB"
+  },
+  {
+   "position": 19,
+   "title": "NUJHAT STEEL CENTER",
+   "place_id": "ChIJrejb92uL3DsRXLuvF3B_WaI",
+   "data_id": "0x3bdc8b6bf7dbe8ad:0xa2597f7017afbb5c",
+   "data_cid": "11698521626482031452",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b6bf7dbe8ad%3A0xa2597f7017afbb5c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b6bf7dbe8ad%3A0xa2597f7017afbb5c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6187264,
+    "longitude": 74.6514553
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrejb92uL3DsRXLuvF3B_WaI",
+   "provider_id": "/g/11sckfdcnk",
+   "type": "Hardware store",
+   "types": [
+    "Hardware store"
+   ],
+   "address": "Shop No 03, near Scrap Market, Bajartal, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "phone": "094226 52982"
+  },
+  {
+   "position": 20,
+   "title": "Crystal Engineers",
+   "place_id": "ChIJ-5YXyV-L3DsRwK_UEKeThyk",
+   "data_id": "0x3bdc8b5fc91796fb:0x298793a710d4afc0",
+   "data_cid": "2992522823162179520",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b5fc91796fb%3A0x298793a710d4afc0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b5fc91796fb%3A0x298793a710d4afc0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.629075,
+    "longitude": 74.620357
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-5YXyV-L3DsRwK_UEKeThyk",
+   "provider_id": "/g/11gt_zw1k0",
+   "rating": 4.7,
+   "reviews": 7,
+   "unclaimed_listing": true,
+   "type": "Steel fabricator",
+   "types": [
+    "Steel fabricator"
+   ],
+   "address": "Maharashtra Industrial Development Corporation, Plot No. 106, Maharashtra Industrial Development Corporation, Ranjankhol, Shrirampur, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "8:30 am–6 pm",
+    "saturday": "8:30 am–6 pm",
+    "sunday": "8:30 am–6 pm",
+    "monday": "8:30 am–6 pm",
+    "tuesday": "8:30 am–6 pm",
+    "wednesday": "8:30 am–6 pm",
+    "thursday": "8:30 am–6 pm"
+   },
+   "phone": "020 2553 0436",
+   "website": "https://crystalengineers.net/",
+   "extensions": [
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGyXLx4YQf9qVlYnEVj9DGZtnsaaOZ3pu99T5QNwgy9mescaBRbciociS7HEqlfvRUy9P2aQXYRu_ICkq-OOz4BQ1wCNQJmgqY2AwMT_XPY2qaA1nDPzRDHMfek9thnuxtOjoB=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/h9hXC3icHcRdboIwAADgE1V-ZDE18QHEoGYC7dRRX0htSkGhpbYM8YI7g7dZsu_he__W1vZm6ThtPZ8JpUTLB8MfTEnLpZ0x1TmiN4AZYJww_W4miJOp-HwGBFVQn1siN-cbjJOLlYbS7DLvBwiPHygdxQQ7bhiN8JU1ijVfi-1Gt9UPPk0w9ykqCB7K3fquQZa9ggh54zpF-05o4ofj4VgWOfE1DT0Z5y8cbw8Vv0Nby-Fps5uKVqPnui6o_2dA_gHWxUX9"
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=google_maps&gl=in&google_domain=google.com&hl=en&q=TMT+bar+dealer+Shrirampur&start=20&type=search"
+ }
+}

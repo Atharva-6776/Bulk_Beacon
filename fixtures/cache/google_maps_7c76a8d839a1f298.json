@@ -1,0 +1,498 @@
+{
+ "_params": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "packaging material supplier Shrirampur",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_metadata": {
+  "id": "6abf62fec83b3feb389f3c9a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/7c0099CqDuzG2jZZT32T-0NoIoJTVtY67L1g8NNlO-4/6abf62fec83b3feb389f3c9a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/7c0099CqDuzG2jZZT32T-0NoIoJTVtY67L1g8NNlO-4/6abf62fec83b3feb389f3c9a.md",
+  "created_at": "2026-10-02 07:53:34 UTC",
+  "processed_at": "2026-10-02 07:53:34 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/packaging+material+supplier+Shrirampur//data=!3m1!4b1!4m2!2m1!6e5?hl=en&gl=in",
+  "raw_html_file": "https://serpapi.com/searches/7c0099CqDuzG2jZZT32T-0NoIoJTVtY67L1g8NNlO-4/6abf62fec83b3feb389f3c9a.html",
+  "prettify_html_file": "https://serpapi.com/searches/7c0099CqDuzG2jZZT32T-0NoIoJTVtY67L1g8NNlO-4/6abf62fec83b3feb389f3c9a.prettify",
+  "total_time_taken": 0.41
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "packaging material supplier Shrirampur",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "packaging material supplier Shrirampur"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Shridhar Packaging Ind.",
+   "place_id": "ChIJv2Wtr-KL3DsRIDtfaLjXXUQ",
+   "data_id": "0x3bdc8be2afad65bf:0x445dd7b8685f3b20",
+   "data_cid": "4926330754438216480",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be2afad65bf%3A0x445dd7b8685f3b20&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be2afad65bf%3A0x445dd7b8685f3b20&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6283282,
+    "longitude": 74.6230902
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv2Wtr-KL3DsRIDtfaLjXXUQ",
+   "provider_id": "/g/11l1d5_2xx",
+   "rating": 5,
+   "reviews": 15,
+   "type": "Packaging company",
+   "types": [
+    "Packaging company"
+   ],
+   "type_id": "packaging_company",
+   "type_ids": [
+    "packaging_company"
+   ],
+   "address": "A- 64, MIDC Rd, Maharashtra Industrial Development Corporation, Shrirampur, Dattanagar, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 5:30 pm",
+   "hours": "Open · Closes 5:30 pm",
+   "operating_hours": {
+    "friday": "9 am–5:30 pm",
+    "saturday": "Closed",
+    "sunday": "9 am–3 pm",
+    "monday": "9 am–5:30 pm",
+    "tuesday": "9 am–5:30 pm",
+    "wednesday": "9 am–5:30 pm",
+    "thursday": "9 am–5:30 pm"
+   },
+   "extensions": [
+    {
+     "service_options": [
+      "On-site services"
+     ]
+    },
+    {
+     "planning": [
+      "Appointment required"
+     ]
+    }
+   ],
+   "service_options": {
+    "on_site_services": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPo8Bo9CbYzHUEBDvp9GNvqYjjLT5P3-p13_qjdPZPeY_3bHKb_6Qc89TSNsGxcpWjO8Bmt1FBZwrK3vqXQZrNF4QxUhk4K7jqnqsM_A-XCKrcppQ-2CYVLhjg0k8GRpNyRJL4=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/ligniHicHcRJDoIwAADAF1XAooKJB0GBCCK4w4VIJTQV6CouD_QP_sbEOcz3g5VicqppDYaDmtK6qe6yEoh2qurUANFWq8VFSoCkNnd71rQJtRxqu2X2Dg5LZ9Ez2497nhES7UcJBMyABSfXJE-qrIBlEJbFOEWWvd_F0n8idiIby2mV4Tn5Q4Sw5-c0F7Fnps8DvpnhhPCOy3UxB2c3FIixFAzd7BhhUus3y9-y-LVdRebsYei6DvB_BLofP5ZESw"
+  },
+  {
+   "position": 2,
+   "title": "OM SAI PACKAGING",
+   "place_id": "ChIJW4FaQ7mL3DsRqa7wbqtC4C4",
+   "data_id": "0x3bdc8bb9435a815b:0x2ee042ab6ef0aea9",
+   "data_cid": "3377773024595979945",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bb9435a815b%3A0x2ee042ab6ef0aea9&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bb9435a815b%3A0x2ee042ab6ef0aea9&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.624314,
+    "longitude": 74.61132789999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJW4FaQ7mL3DsRqa7wbqtC4C4",
+   "provider_id": "/g/11nvmn3sxh",
+   "rating": 5,
+   "reviews": 1,
+   "type": "Manufacturer",
+   "types": [
+    "Manufacturer"
+   ],
+   "type_id": "manufacturer",
+   "type_ids": [
+    "manufacturer"
+   ],
+   "address": "Plot No:-C-48, Dist:, Maharashtra Industrial Development Corporation, MIDC, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "8:30 am–6 pm",
+    "saturday": "Closed",
+    "sunday": "8:30 am–6 pm",
+    "monday": "8:30 am–6 pm",
+    "tuesday": "8:30 am–6 pm",
+    "wednesday": "8:30 am–6 pm",
+    "thursday": "8:30 am–6 pm"
+   },
+   "phone": "098818 02033",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmP6vxueAHv-VH11JZK5Rdm0naGFXrqerGqIbRy2qf2xozzpNyLirYq2cI-Wy0tyL7FQFi1TOT161_MVR9V4v5xTcUUOGQsXVe-pByzg_Ou2Ng2HTv2grLNbg8ftGPD4aS71IekrilueVdU=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/lRv193icHcRLcoIwAADQE0WS1E91pgtth4-loBRS68bBGANTIJCESDike2_TGd_iPe6F1q1aOU5VvEy4ELxivWKSikazRk-oqB0uc6UAVc763bRVvZuboWdr3wDiI7Q9fs6SSw2b3HMPsmPS64JzYnF3xYMYxzayYSl_O0wD8GOhtuHC3bslSuMUzdHpiyRLMjWzIaVZFnt7dSAMtBs78lPc44hjPzWYyzA689er9nYf0_x7gQL2J8uqZ-SSvd0QhBAUzylo_gHJ2kfV"
+  },
+  {
+   "position": 3,
+   "title": "Varad packaging",
+   "place_id": "ChIJbf_lTfaL3DsRnEeTG2qTzH4",
+   "data_id": "0x3bdc8bf64de5ff6d:0x7ecc936a1b93479c",
+   "data_cid": "9136839827966347164",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf64de5ff6d%3A0x7ecc936a1b93479c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bf64de5ff6d%3A0x7ecc936a1b93479c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.633699,
+    "longitude": 74.6186903
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbf_lTfaL3DsRnEeTG2qTzH4",
+   "provider_id": "/g/11w4t_b9z1",
+   "rating": 5,
+   "reviews": 18,
+   "type": "Manufacturer",
+   "types": [
+    "Manufacturer"
+   ],
+   "type_id": "manufacturer",
+   "type_ids": [
+    "manufacturer"
+   ],
+   "address": "PLOT NO M-40, POST, Maharashtra Industrial Development Corporation, MIDC, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Open · Closes 12 am",
+   "hours": "Open · Closes 12 am",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Closed",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "070836 45011",
+   "website": "https://varadpk.netlify.app/",
+   "extensions": [
+    {
+     "service_options": [
+      "On-site services"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible seating",
+      "Wheelchair-accessible toilet"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking garage"
+     ]
+    }
+   ],
+   "service_options": {
+    "on_site_services": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPfECkjFRXGaIcKQs36ZCYR6LIzlc0xu8VdXreQ6iRcl7mMhzptNfuTPV2SARXD0ZRRs7tuhDhuiSFBCuEXqAkPnalukjtfMaAOVI-Ij0QGQ45saHO9nBSM2kdztpyIqFBhoXPGK5unvMUe=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/nQKPQXicHcRLjoIwAADQEyH1h6PJLAAFGweFMkOqu6YWKpQWaeuHS7r2NibzFu_94sZ0euW6gk9HlVKVYFaznippmDQjqlq36onWDtWuH9460ablJmzqCOGYQLrL9NQ7hUfk_cBBUPCwX8UZ9yzzLoiKRZvwoTP70v6mxST3EV6DE0J6YSxfc3vJoyC0G3z1m1QSYZvalAnxDwV0YA2yOJvNNdkeljLIk0lzHkz3hNco4Aqn8W5u5S35Y9_3MQDA4f9TR34AL75IsQ"
+  },
+  {
+   "position": 4,
+   "title": "Maheep Paper Tubes and Packaging",
+   "place_id": "ChIJR_Sf2uWL3DsRVw_jfZ6N7vg",
+   "data_id": "0x3bdc8be5da9ff447:0xf8ee8d9e7de30f57",
+   "data_cid": "17937430077719646039",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8be5da9ff447%3A0xf8ee8d9e7de30f57&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8be5da9ff447%3A0xf8ee8d9e7de30f57&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6276822,
+    "longitude": 74.6178335
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR_Sf2uWL3DsRVw_jfZ6N7vg",
+   "provider_id": "/g/11zgy1k69q",
+   "type": "Packaging company",
+   "types": [
+    "Packaging company"
+   ],
+   "type_id": "packaging_company",
+   "type_ids": [
+    "packaging_company"
+   ],
+   "address": "A154/155, MIDC, Maharashtra Industrial Development Corporation, Shrirampur, Dattanagar, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open · Closes 6 pm",
+   "hours": "Open · Closes 6 pm",
+   "operating_hours": {
+    "friday": "9 am–6 pm",
+    "saturday": "9 am–6 pm",
+    "sunday": "9 am–6 pm",
+    "monday": "9 am–6 pm",
+    "tuesday": "9 am–6 pm",
+    "wednesday": "9 am–6 pm",
+    "thursday": "9 am–6 pm"
+   },
+   "website": "https://www.maheeppackaging.com/",
+   "extensions": [
+    {
+     "from_the_business": [
+      "Identifies as women-owned"
+     ]
+    }
+   ],
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPxaH7Ei5TBuWCLStnKo2HDLqqkzhbdE5__aQQ8ufhyeVpAsh45_QtAQmiC8aKQKaRCIbx02AIsVV64YCgRDkeQ2Vzgj-qfYzRsgiyMAbL9o6dpmZlxuLPHvUZI5M6uY5reOUTxqzfHponT=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/RJF8SnicHcTBboIwAADQL0KQWXRLduiqCQSMFpEFL6RgaZnQFtoq8pOe9zdL9g7v98WNUfrDdTv-tmBSso5aTcdaCkOFWdSyd9lItHZq7UJ0V11_nEi43rUg-7LfKDkZEUs_3CbDcJt5dd2BsiQYb2zDnzRXUPMVKLGBuG_RhsQ4JimKqsnzYaTzPFgViKXbG8V-PrMfZ2iKOdWsfe5hlbzL4Kr6SzfZ5Bjez5cI7ANbgJEeztk0zE2opMg-H0vP8xz-f-2IP0LcSTs"
+  },
+  {
+   "position": 5,
+   "title": "Ashtavinayak Paper Works",
+   "place_id": "ChIJ1wCDBv6L3DsRin63vkKcYBk",
+   "data_id": "0x3bdc8bfe068300d7:0x19609c42beb77e8a",
+   "data_cid": "1828633259193892490",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8bfe068300d7%3A0x19609c42beb77e8a&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8bfe068300d7%3A0x19609c42beb77e8a&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.631816099999998,
+    "longitude": 74.6349314
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1wCDBv6L3DsRin63vkKcYBk",
+   "provider_id": "/g/11f7gh47cq",
+   "rating": 5,
+   "reviews": 13,
+   "type": "Paper bag supplier",
+   "types": [
+    "Paper bag supplier",
+    "Packaging company",
+    "Paper distributor"
+   ],
+   "type_id": "paper_bag_supplier",
+   "type_ids": [
+    "paper_bag_supplier",
+    "packaging_company",
+    "paper_distributor"
+   ],
+   "address": "Sutgirni Dighi road, taluka, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Closed · Opens 8 am Sat",
+   "hours": "Closed · Opens 8 am Sat",
+   "operating_hours": {
+    "friday": "Closed",
+    "saturday": "8 am–7 pm",
+    "sunday": "8 am–7 pm",
+    "monday": "8 am–7 pm",
+    "tuesday": "8 am–7 pm",
+    "wednesday": "8 am–7 pm",
+    "thursday": "8 am–7 pm"
+   },
+   "phone": "090289 59550",
+   "extensions": [
+    {
+     "service_options": [
+      "Delivery"
+     ]
+    },
+    {
+     "planning": [
+      "Quick visit"
+     ]
+    },
+    {
+     "payments": [
+      "NFC mobile payments"
+     ]
+    }
+   ],
+   "service_options": {
+    "delivery": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmMPxYjGwhhq12M327b69Y6_EcKcewmn9KiMaLA4eYFMAEOfuCBOGyDzwBHLjDLzOGj3oEYqugYfyCtR3CoUUCnq3Kts_oN1HvFsR2yTdVSvqZzK5P4JBUqrMh2P5TwGJ7FHLQOl=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/xVDpTnicHcTbboIwAADQL0IuRY0mPkDlEqGDqZjUF6O10hFoLS108IP7hv3Nkp2H8_vDtH6rrW23DCxqIeqWDor2RHBNuV4Q0dl1f1fKIsoO4PhuO1R-4yYxjEnXQ8BbP1YbvLpFJCPUdHyTfaF7HvgUxyiIitcAwyKZ9rMJ07zZ53ORNEBEWA41fk1QHwEUVQW5BJlWN_HhpmOsjt50fl5Oo7zO2bL0D2Ele8S8cnk2yWEdp_ln0e6M6ziOxf4nFv8DkxJEzA"
+  },
+  {
+   "position": 6,
+   "title": "Abhi Envelope & Paper Products",
+   "place_id": "ChIJD1DFlCmL3DsRh4vXBqFDZQ8",
+   "data_id": "0x3bdc8b2994c5500f:0xf6543a106d78b87",
+   "data_cid": "1109367242100280199",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b2994c5500f%3A0xf6543a106d78b87&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b2994c5500f%3A0xf6543a106d78b87&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6178825,
+    "longitude": 74.6490956
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJD1DFlCmL3DsRh4vXBqFDZQ8",
+   "provider_id": "/g/11sr7qn6l0",
+   "rating": 5,
+   "reviews": 9,
+   "type": "Paper bag supplier",
+   "types": [
+    "Paper bag supplier",
+    "Disposable Items shop"
+   ],
+   "type_id": "paper_bag_supplier",
+   "type_ids": [
+    "paper_bag_supplier",
+    "disposable_items_shop"
+   ],
+   "address": "ward no 7, Ganpati mandir road, Tower Road, shabdalaya samor, Morge Wasti, Shrirampur, Maharashtra 413709",
+   "country": "India",
+   "open_state": "Open 24 hours",
+   "hours": "Open 24 hours",
+   "operating_hours": {
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours",
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours"
+   },
+   "phone": "092265 01708",
+   "website": "https://youtube.com/@abhienvelopes7?si=crxqq6bW-5XrSGaW",
+   "extensions": [
+    {
+     "service_options": [
+      "Delivery"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair-accessible car park",
+      "Wheelchair-accessible entrance"
+     ]
+    },
+    {
+     "planning": [
+      "Quick visit"
+     ]
+    },
+    {
+     "payments": [
+      "Google Pay",
+      "NFC mobile payments"
+     ]
+    }
+   ],
+   "service_options": {
+    "delivery": true
+   },
+   "user_review": "\"Genuine person ..selling Good quality material.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmN3twyQR8sH4HZDfop43PmVYFGSQ26L0n4m872R6Wmdu1jld-ErdMWoTgwygzDYODtfSQyp1ucdwEQK98JdUyPptyjvERu_FXLkbqQiECbLrZ_cPyRv2fxJ4ik888nmp2EyJ1HUnw=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/cTxcYHicHcTbboIwAADQL0Ku0bpkD4tUCaKjeEF9MdpCUelltNDVP9wn7G9MPA_n_6_RWqoP122bcESFoG3Vq6rDguuK6xEWzKXdRSkHK_drNsiWrUNtLCqASqLkFNdCRmHO9sf5YoOCcebxiIFJUIxLRnr_3hIHdmRVii01lj7j43es6w2y0u8xMRAtpyAlO5tLbe8DLPrz_JA9rj_oBmfXrDudcW6LIah_0-j2AABwJgNoUz_ZcfNpfM_znOY9dvgLVUdGpA"
+  },
+  {
+   "position": 7,
+   "title": "Vedant Enterprises",
+   "place_id": "ChIJwdJB8VCN3DsRAdpNegRNT14",
+   "data_id": "0x3bdc8d50f141d2c1:0x5e4f4d047a4dda01",
+   "data_cid": "6795735044352498177",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8d50f141d2c1%3A0x5e4f4d047a4dda01&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8d50f141d2c1%3A0x5e4f4d047a4dda01&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.565419199999997,
+    "longitude": 74.6484423
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJwdJB8VCN3DsRAdpNegRNT14",
+   "provider_id": "/g/11nnc26qtx",
+   "rating": 5,
+   "reviews": 4,
+   "type": "Paper bag supplier",
+   "types": [
+    "Paper bag supplier"
+   ],
+   "type_id": "paper_bag_supplier",
+   "type_ids": [
+    "paper_bag_supplier"
+   ],
+   "address": "Arun Kumar Vaidya Path, above Vedant clinic, Belapur, Shrirampur, Maharashtra 413715",
+   "country": "India",
+   "open_state": "Open · Closes 5 pm",
+   "hours": "Open · Closes 5 pm",
+   "operating_hours": {
+    "friday": "9 am–5 pm",
+    "saturday": "9:30 am–6:30 pm",
+    "sunday": "9:30 am–6 pm",
+    "monday": "9:30 am–6 pm",
+    "tuesday": "9:30 am–6 pm",
+    "wednesday": "9:30 am–6 pm",
+    "thursday": "9 am–6 pm"
+   },
+   "phone": "088063 13138",
+   "website": "http://www.vedantenterprises.co/",
+   "extensions": [
+    {
+     "service_options": [
+      "Delivery",
+      "In-store pick-up"
+     ]
+    },
+    {
+     "planning": [
+      "Appointment required"
+     ]
+    }
+   ],
+   "service_options": {
+    "in_store_pick_up": true,
+    "delivery": true
+   },
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmOvv8lO5MSeI5p0oFeoF4xmRhUetzmwFBU3lLaTbcHeev0lgvHHThgbE7pIz8k471wCWbsoA-Ruy12RoOlisXjEoy_aQulVPetntDGg6rcChkPS5ghlANiWHQ9RhzPgQrxF7Uf1=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/PusV7XicHcRbboJAFADQFSFDlWKb-IFUionKQ1D_DExuZ9QLlzDDoGzQNXQ3Jp6P8_-UWrfq27ZRTieCSCD0CjpOjYZGTzjVtuhKpSyubD8wLdaxMXOM3e0e1m7LKAQKZ_c6kwXosR7CZTHFTZlXPAIwDIWJolyKauW163F-m3nOEBwrRb6V9Q_nI6MYL-p0XdHjXKY9HhLQjf75FZ8dD-Qt2btCor-7HKP0K5NjItLuHnrFn7MYHMaYJd9zq3kBPp1Gzw"
+  },
+  {
+   "position": 8,
+   "title": "BH Packaging pvt Ltd shrirampur",
+   "place_id": "ChIJrcUaZY-L3DsRoXo5mTXOaN0",
+   "data_id": "0x3bdc8b8f651ac5ad:0xdd68ce3599397aa1",
+   "data_cid": "15954228409559251617",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b8f651ac5ad%3A0xdd68ce3599397aa1&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b8f651ac5ad%3A0xdd68ce3599397aa1&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.625208699999998,
+    "longitude": 74.6207265
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJrcUaZY-L3DsRoXo5mTXOaN0",
+   "provider_id": "/g/11vhy5nm2f",
+   "rating": 3,
+   "reviews": 2,
+   "type": "Pipe supplier",
+   "types": [
+    "Pipe supplier"
+   ],
+   "type_id": "pipe_supplier",
+   "type_ids": [
+    "pipe_supplier"
+   ],
+   "address": "JJGC + 9R9, DEVELOPMENT CORPORATE, BH PACKAGING PVT LTD, near Veekay distlary, MIDC Rd, opposite BSNL OFFICE, Shrirampur, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Permanently closed",
+   "hours": "Permanently closed",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmPxtptQpe-5P9ENL_gcigPh6ZoeUCi3VEVQb2FntDphmVEblcKDLQZU0JIyK_Y7bnhnnrIl2dB20DuCbJb8vaqK5Ex28Vmnm5CCyhIN8d0TR7N4r4bvQKwjceI4SxFjdmOgDCIf=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/VuCPanicHcRdDsEwAADgE81qNkbigW6SmsyGLeFFtKuW9M9aMyd0BreR-B6-74c7Z-zM9wUfDZjWTNCnpS3RylHlBkRLn7UXaz1i_QXsjJBF74wrDfWiYprmmzMjN1bw8UnTCt5GdVqXOFgplxgu6xQLkiWb8lSBNXpn5-MEK65Ui0TQLAOQPCFe47i7PLIo7YO4lkpGEL45yuMGHHaTPGxD3JXZ604oCvf96t7ILUsgus5fQwCAx_8TT_0Aym5FFg"
+  },
+  {
+   "position": 9,
+   "title": "Om Sai Packaging Industries",
+   "place_id": "ChIJ-U2fPTOL3DsRWdEX-tjxRtQ",
+   "data_id": "0x3bdc8b333d9f4df9:0xd446f1d8fa17d159",
+   "data_cid": "15296179098621563225",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x3bdc8b333d9f4df9%3A0xd446f1d8fa17d159&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x3bdc8b333d9f4df9%3A0xd446f1d8fa17d159&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 19.6302861,
+    "longitude": 74.6163811
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ-U2fPTOL3DsRWdEX-tjxRtQ",
+   "provider_id": "/g/11g4crdjbt",
+   "unclaimed_listing": true,
+   "type": "Packaging company",
+   "types": [
+    "Packaging company"
+   ],
+   "type_id": "packaging_company",
+   "type_ids": [
+    "packaging_company"
+   ],
+   "address": "Plot No. C, 24, MIDC Rd, Maharashtra Industrial Development Corporation, Shrirampur, Dattanagar, Maharashtra 413720",
+   "country": "India",
+   "open_state": "Permanently closed",
+   "hours": "Permanently closed",
+   "thumbnail": "https://lh3.googleusercontent.com/grass-cs/ACvplmO1lgk9tVseZguNtBuML1xQmoPtc6I6D6rjSBMfZynQN15kbnwH3lZfbqTvG675UsA_dADq2FHoq8SJb0uZeCy8k2Ivmv-mbrd4zDkFOpknV_BRUUT3MSLd8RnrlkjSmwq5QY77XGXo5PRA=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/x0ovAXicHcRJDoIwAADAFyEgsmjiASRuERUQolyMlFpiN2gLqJ_07G9MnMN8P7VSjZzpOqmtEeIcEdhJKABnCjI1ApzqSNyk1IDU_UXfEHowCcJTlUtYoG6vgi7amc-Y8qMCzsYJHfFIg-hevFi8N21csmFtkeJetqd-5bh2Jv1r5YfteLnmrZduS6Mr4OLl4fGmp71GS1FN3iFeHhrM8muQZNnJitJd5SVMEPxI6dDa8cV1z6szt4-JPx9MwzC0-j_Q2A9VMEiC"
+  }
+ ]
+}

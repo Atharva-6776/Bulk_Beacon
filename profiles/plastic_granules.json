@@ -1,0 +1,29 @@
+{
+  "id": "plastic_granules",
+  "name": "Plastic granules (raw material)",
+  "validated": false,
+  "maps_queries": [
+    "plastic granules dealer {city}",
+    "polymer raw material supplier {city}",
+    "HDPE LDPE granules wholesaler {city}"
+  ],
+  "marketplace_queries": [
+    "plastic granules supplier {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "HDPE granules 25 kg",
+  "logistics_query": "truck transport service {city}",
+  "units": [
+    "kg",
+    "ton",
+    "bag"
+  ],
+  "urgency_weight": 0.4,
+  "rfq_fields": [
+    "polymer type",
+    "grade",
+    "virgin/recycled",
+    "MFI"
+  ],
+  "price_reference": "retail_only"
+}

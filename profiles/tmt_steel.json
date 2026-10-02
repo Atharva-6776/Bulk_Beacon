@@ -1,0 +1,29 @@
+{
+  "id": "tmt_steel",
+  "name": "TMT bars / steel",
+  "validated": false,
+  "maps_queries": [
+    "TMT bar dealer {city}",
+    "steel stockist {city}",
+    "iron and steel wholesaler {city}"
+  ],
+  "marketplace_queries": [
+    "TMT bars supplier {city}"
+  ],
+  "marketplace_domain": "indiamart.com",
+  "shopping_query": "TMT bar 12mm",
+  "logistics_query": "truck transport service {city}",
+  "units": [
+    "kg",
+    "ton",
+    "piece"
+  ],
+  "urgency_weight": 0.5,
+  "rfq_fields": [
+    "grade (e.g. Fe500)",
+    "diameter",
+    "brand",
+    "IS standard"
+  ],
+  "price_reference": "published"
+}
